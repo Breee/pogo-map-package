@@ -21,11 +21,13 @@ Create a new mariaDB called `monocle` and a user with access just to it.
 3. `CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'strong_password';`
 4. `GRANT ALL PRIVILEGES ON monocle.* TO 'newuser'@'localhost';`
 5. `FLUSH PRIVILEGES;`
-6. verify that you can login: `mysql -u newuser -p strong_password monocle` 
+6. verify that you can login: `mysql -u newuser -p strong_password monocle`, thne exit.
+7. The file `cleandb.sql` contains the commands to create the tables of the database,
+execute `mysql -u newuser monocle < cleandb.sql`.
 
 ## 2.2 Fill the database 
 
-1. 2. `cd pogo-map-package/scripts`
+1. `cd pogo-map-package/scripts`
 2. First of all, we need gyms and pokestops. You create 2 files:
 - `updateGyms.csv`
 - `updateStops.csv`
