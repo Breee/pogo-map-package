@@ -25,7 +25,8 @@ Create a new mariaDB called `monocle` and a user with access just to it.
 
 ## 2.2 Fill the database 
 
-1. First of all, we need gyms and pokestops. You create 2 files:
+1. 2. `cd pogo-map-package/scripts`
+2. First of all, we need gyms and pokestops. You create 2 files:
 - `updateGyms.csv`
 - `updateStops.csv`
 
@@ -55,3 +56,5 @@ name,lat,lng,url
 "Zombie Django",47.974494,7.826699,"http://lh5.ggpht.com/STNqPUans5IrbGogEVJy9p4jAkpwebji2khyylJTNBegP7Oji27vY8fYjXh9KlCjQILc2O_Md5EHaC4R2Z8i"
 ```
 
+3. Execute `updateGyms_Monocle.sh` to insert the gyms from  `updateGyms.csv` into the database
+4. Execute `updateStops_Monocle.sh` to insert the stops from  `updateStops.csv` into the database
