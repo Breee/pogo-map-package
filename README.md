@@ -2,13 +2,12 @@
 Combines PMSF, Map-A-Droid and novabot. 
 We will explain how to setup everything step by step.
 
-# 1 Requirenments
-- mysql + mariaDB
-- 
-
 1. Clone this repo
 2. `cd pogo-map-package`
 
+# 1 Requirenments
+- mysql + mariaDB
+ 
 # 2 Get PMSF
 1. Clone PMSF `git clone https://github.com/whitewillem/PMSF` 
 2. `cd PMSF`
@@ -21,12 +20,28 @@ Create a new mariaDB called `monocle` and a user with access just to it.
 3. `CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'strong_password';`
 4. `GRANT ALL PRIVILEGES ON monocle.* TO 'newuser'@'localhost';`
 5. `FLUSH PRIVILEGES;`
-6. verify that you can login: `mysql -u newuser -p strong_password monocle`, thne exit.
+6. verify that you can login: `mysql -u newuser -p strong_password monocle`, then exit.
 7. The file `cleandb.sql` contains the commands to create the tables of the database,
-execute `mysql -u newuser monocle < cleandb.sql`.
+execute: 
+- `mysql -u newuser monocle < cleandb.sql` to execute these commands.
+8. Create an event to update the fort sightings: 
+
+``` 
+CREATE DEFINER=`*USER*`@`localhost` EVENT `update_fort_sightings` 
+ON SCHEDULE EVERY 1 HOUR STARTS '2018-08-17 00:00:00' 
+ON COMPLETION NOT PRESERVE ENABLE
+DO INSERT IGNORE INTO monocle.fort_sightings (fort_id)
+SELECT id
+FROM monocle.forts; 
+
+SET GLOBAL event_scheduler="ON"; 
+```
+
+8. execute `ALTER TABLE fort_sightings ADD guard_pokemon_form SMALLINT(6) NULL DEFAULT NULL AFTER guard_pokemon_id;
+ALTER TABLE gym_defenders ADD form SMALLINT(6) NULL DEFAULT NULL AFTER pokemon_id;`
+
 
 ## 2.2 Fill the database 
-
 1. `cd pogo-map-package/scripts`
 2. First of all, we need gyms and pokestops. You create 2 files:
 - `updateGyms.csv`
