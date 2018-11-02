@@ -93,7 +93,7 @@ $questWebhookUrl = ['POKEALARM_URL'];                        // Experimental use
 $webhookSystem = 'pokealarm';				// Supported either 'pokealarm' or 'poracle'
 ```
 
-# get Map-A-Droid.
+# Get Map-A-Droid.
 1. clone `https://github.com/Grennith/Map-A-Droid`
 2. configure it.
 
