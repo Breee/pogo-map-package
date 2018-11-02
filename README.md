@@ -1,5 +1,5 @@
 # Pogo-map-package
-Combines PMSF, Map-A-Droid and novabot. 
+Combines PMSF, Map-A-Droid and pokealarm. 
 We will explain how to setup everything step by step.
 
 1. Clone this repo
@@ -75,3 +75,26 @@ name,lat,lng,url
 
 3. Execute `updateGyms_Monocle.sh` to insert the gyms from  `updateGyms.csv` into the database
 4. Execute `updateStops_Monocle.sh` to insert the stops from  `updateStops.csv` into the database
+
+# Get Pokealarm
+1. clone:`git clone https://github.com/evilmoses/PokeAlarm.git` (We use this branch because it suppports quests)
+2. Configure it.
+3. In the PMSF config, set: 
+
+```
+$sendWebhook = true;				// Sends Raids & Pokémon. Needs a 3th party program like pokealarm.
+$webhookUrl = ['POKEALARM_URL'];                             //['url-1','url-2']
+
+//---------------------------------------------------
+// Quest Webhooks
+//---------------------------------------------------
+$sendQuestWebhook = true;                      // Experimental use only
+$questWebhookUrl = ['POKEALARM_URL'];                        // Experimental use only
+$webhookSystem = 'pokealarm';				// Supported either 'pokealarm' or 'poracle'
+```
+
+# get Map-A-Droid.
+1. clone `https://github.com/Grennith/Map-A-Droid`
+2. configure it.
+
+
