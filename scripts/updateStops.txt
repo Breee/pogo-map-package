@@ -1,0 +1,1140 @@
+name,lat,lng,url
+Ziegelhof Brunnen,48.10274,7.774504,http://lh3.googleusercontent.com/_dgclLJAXN_bK9a_FPiWRC5rcR60EToFJLM7cESX0dNDwjc4xb3BvLswMSYlJyz0y70UQu_2ThJSJkNhjloR
+Spuren suchen 6 - Lebensraum Wald,48.075615,7.898776,http://lh3.googleusercontent.com/IzTDkTPXvqZKgpx00PSjlcuuzvfxEQNzVyq1awiXRtSaeLS03kvo2PI0lxKqy3x5HqInwpw-75Qsi7V7pNmyeg
+Severinskapelle (Mauracher Berg),48.076391,7.900262,http://lh6.ggpht.com/N8VabtkYSeYIiPj9N9lLtcUpW-aoVFtS1_7utxrcUnKQLdU1tgJYUJ4z5r5WV8DECHNRaaQFfMts-UdI9W9ZpmNDm66IHGbFmtByVNhMOGwPtg
+Steinbrunnen,48.098755,7.745926,http://lh4.ggpht.com/_WK3Rm0Wk5E5d9oXanXtYw_fXZmtcySHbLXHbdOAIW7keCatYkSfzdqE8_w8-NorHxLhsuwtPBGHYjnKhxw
+Willkommen in Eichstetten,48.096377,7.745053,http://lh5.ggpht.com/GMAWLsX8K2caT1TTiC0x4rWHi-g-ohZQusPwTosDVWbWsD56HvGXALFxjoKvNGJTNqTMtgwvcNAmh4-QjuSb
+Marie Mit Bachus,48.086239,7.921602,http://lh3.googleusercontent.com/gbqmITJuvkhmC8tCCVqbRmAM2mOn_VD0NKqpEPpak_0alUyfVDIkj-tedLagQZFTcAgptTnIpf-nr2I6DoA
+Rebschädlinge,48.087095,7.920109,http://lh6.ggpht.com/VMofrYITKob3RwFIONZzT9e1lJYvuovYb5TQvTbXj4MBnZvqj0FZUjxTlyEc1PweONOhFpvM688gvkIVO34X
+Weinlehrpfad Rebkrankheiten,48.08688,7.921163,http://lh6.ggpht.com/MnGoImpYsiGh_YTOPawDoDWRoDw0w28lJBLRC13bFqLGbrZqPPf5TA6oNgmXA1rT-3wUgEZjmrbhoCJ1EnvW
+Ältere Halle,48.094926,7.876902,http://lh3.googleusercontent.com/7lNhLCg7e2Dm6Tru_3SJaxHTQrOJ6fp14fWYFW10ft10ghtDAf4bjWrqW2HSOvVUPjVaIDnKiPxegT-r_G8S
+Historischer Bottich,48.084343,7.809989,http://lh3.ggpht.com/qJMrQmuVWtEczvPHjYXYRGtMuTiWkjB3TAw8bOyIkukugWjauQQGQ6QdpRtWfNTM_yg-NexyDebCDB1Wd1WU
+Buchholz Boden Landschaft Klima,48.087851,7.91758,http://lh4.ggpht.com/uWCVlKE_Se3iwe0Z5dwK9o6i0hvsG82dPmBJiBp596BNzrVycEYVdkVIl6SZf8DB0sQqWeVERtw947U_uYq0
+Weinlehrpfad Aussichtspunkt Wachtbühl,48.088338,7.912561,http://lh3.ggpht.com/uPw1DaYCTTf49UBXwxn1f9vTPUwdpQIIncNEjhq0cX3hqPmcMZxz2Sl_u5oWyGEC4SMDJbMybi-Fkulq8Bt0
+Weinlehrpfad - Chardonnay,48.08893,7.919714,http://lh3.ggpht.com/nW51BVLvTdLMPkEOwLiPz7uJxAgA_zR9211BPpm_doANgUjxhqlOFBn5q892T-JPbw7U4goR1VpDAQzjW7WX
+Weinlehrpfad Rebenneuanlage,48.089139,7.917467,http://lh6.ggpht.com/wpx3asDo6FWbUSiVOmy_u0h1-AvW9yEXqdHylyxVuJrUXuidDLPlUCccjtb8oS_KxQgM1t26mdwuUtFB5T1z
+Buchholz Schillerwein,48.089116,7.909071,http://lh3.ggpht.com/7k6JbEmL9sntfwNuee-wCc6Vg4GNS1cUOlMCdmYQyjzsoUAwCZgGuzfbxvLmdxPHeEXENZwNZe5Tu-efKjs8
+Weinlehrpfad Weinlese,48.089627,7.908861,http://lh4.ggpht.com/LeNMQQjhlY5KcAer6h8eoNCZCfeJhBgOjuuhBMuLiDA13Nmc6O-bDZEV0mGAOkv4iDSPAqjnbslosnxgMatR
+Das Gärtchen ,48.107668,7.862464,http://lh3.googleusercontent.com/yDJuF9OsBLIk191CYV1Z2b-_wHHENaXyv3KbnS5zjIs41XsLbAkL1wQemsYFIsaSGArCQCL-JEdQAcrcR0Q8LQ
+Old Niemännle ,48.10581,7.861147,http://lh4.ggpht.com/AoCKvcyjwcSxtpLv9sWrs_lvu6YGPd76pGhsj8bybPjwUm_3Rqoenq6R2voIP71qnvkgsCi5GwfezQ1xQUoR
+Funkpark,48.103809,7.855196,http://lh3.googleusercontent.com/NQTHUNdZo_6xllLHz9WJHgYPxnY2I0SYlqG6NagF8uUf1KJCiQykkW6VND-R-gihQKpkIuuXjAW8zy4SSQQRYw
+Watchtower,48.109688,7.856886,http://lh3.googleusercontent.com/jvZEx95koZOtFxtrqLOaZlqSP3V6m4fswB3qMm8xVurEgaIK5B24LjjmwCDp1UOY2K6LQJTAhwXfgOx8tJxE3A
+Disco Wand,48.107166,7.861142,http://lh3.googleusercontent.com/F31utmKLRA4ZOcLZNVjkHiq2Sp_BwKaTNmuzq5u8_I689BOQ8SatAuRpo9mbj8h8SfTDYpoQEfZnS5D9MkfPRg
+Stahlfigur,48.108752,7.860753,http://lh3.googleusercontent.com/WTFxuUJb_aYHRwLZjvF_FcPeYlmJUUXRnRLTdyz6I6zabrRPtfojlehSe-NRVC3aKa_PqoII58SlEAcM8fFU
+Metallköpfe,48.108746,7.854017,http://lh6.ggpht.com/cVygFTRx1gqdkBbWyKFyf1D0ABKHGe3Rtn2TuyRaXtocb9OXIyxYIC5SYHNIQZdjoGueiMiiQtY690rwR6k
+Baumskulptur aus Stahl mit Namensblättern,48.109974,7.848813,http://lh3.googleusercontent.com/SME8MFa69FLDly3icHhontQfSV2TWjj3aQJKc36Z74JrICy-hf-QUaRSPTYWvLIb4e1ZMG1JIq4qGjqWZIzJ7Q
+Tafelberg Emmendingen,48.109906,7.849249,http://lh3.googleusercontent.com/SuCT2FqDtTflrDfs15OvMqMhQDBJYtyr4mP1VT5YgRWUGF_UTOuKWgIPu43VfyILzqFEV_lGYrckEigxzM6T
+Skulptur an der Elz,48.108579,7.85243,http://lh3.googleusercontent.com/u5xu5xN9VpAans0Zxc74yZGMoUZ5PXq8E6_bAe8Q9qe_XZZcT5s_1iS_Ub1T7VOJwgPAdvkCW5_Gmd1h3kGCtw
+Kleeblatt-Skulptur,48.110246,7.850596,http://lh3.googleusercontent.com/dtCRYWbBni3u5tTuFIB_nApirsFYjatsp0O2s-mW2U9tL3IUiFS6H4uL7nNXW7YE3IHs85-x2JRnCnr59w00
+Gedenkstein,48.094131,7.842857,http://lh3.ggpht.com/h7dIn7qrS8ayTQK_D5CLG4Coe9Me9nl70TtXdCzN7fYahGzp-Nn3dqabEx0nP8q1gGalu5puqfn5CnKJt7T2
+Klettergerüst ,48.097331,7.89876,http://lh5.ggpht.com/WuSm8H70U8Z78-AXLyOG3PGPVGUCUuDqYsToSxEtkoQPKaZXgWfqJaVr5SAEIDHhkJIKul3OtPvhKXz-LV8
+Stone Fingaz,48.102191,7.905929,http://lh3.googleusercontent.com/CiicziiFFAumeT0OA3-ZZ_mAk6fvRE04YJjbTD8HCt4yeoFEzsilhK-4CCF3gwmniPB3VRDHI2lxyY6_Zr3MZQ
+Schützenhaus Sexau,48.09825,7.898898,http://lh4.ggpht.com/TRNfG7iTl3uMizQsRTpjFui0xNi2kaJCO3tPOj0aaEIsxANnXkZe2VkqqYntZNbP2bhx-5h9sG-jj7Wv8hV7nw
+Alte Weinpresse,48.096141,7.899897,http://lh3.ggpht.com/sG5qDlS6VXxEkJhuJahXBCkEaIeIiMjwFQBcGXWFyMiBPBsbCCLfJHP0NyqSPOByEzjDH5EvW9vvHULwLrxX
+Aussichtspunkt ,48.097173,7.897977,http://lh5.ggpht.com/VbZ2-XMlpx0CnZs4rcpDHE6rl_wjL_KMlmLVKLkIURw7ywTDTa6yxqXFXzsHkZyzAB6Gne-v9XbEHU4ly3zq
+Altes Holzsägewerk,48.096382,7.900566,http://lh3.ggpht.com/py90lHvC9S9izHGkaaLKzNeAaW7J-P-KkKDQKkrd74IVUcDBbkVCuMKVCk08GhGosBZaV94M_i3TG8ZwLRA
+Wassermer Brunnen,48.095118,7.859473,http://lh3.ggpht.com/MUIdvjDw6qQvRag6fKCABSe6wanXhL3nIZZbAsCfbfneH9wYinGFiuJIVzwIPv0fXks0qMQ22aKu3eMV6g81
+Buchholzer Schloss,48.080613,7.914796,http://lh3.ggpht.com/ZTVDgj2T8-lWrs2RWvsNUqVwsP3gTj_QAs7ch2f--wygcpXogvvlCIJRd_WtY7xTxtAQZ7RzJ7r6AzMrV5T0
+Gedenkkreuz (Waldkirch-Buchholz),48.086034,7.909097,http://lh4.ggpht.com/XAk3w4nL9vCpviA423V7SfcskqGRpng80UBUi-v6En1NFYqR_L6LIMf8fw-FH5eWAK-xQ4FCNJtYYcfVQsDs4aEV4d9KQJyPpDXZBCg0iOL9305H8g
+Weinlehrpfad Weißer Riesling,48.087444,7.918042,http://lh3.googleusercontent.com/DQ4fzo-yVk3jG1FY0TEnKW1eQZqqwl8UUHlqS2jYOuqKUVfvYRoM5avBgU3KofBjgCdvemJHBF9LdR3hzgY
+Weinlehrpfad Daechle-Erziehung,48.087205,7.912075,http://lh3.ggpht.com/nfoUTDtzTuTbHCLBX1TQ4ziiiKZnnoz_I82jn2H0gv76h6T8TwtOWK3Vsr8MPQJZOuZzuw2zauB49PMl45OS
+St. Pankratius Kirche,48.081322,7.917595,http://lh6.ggpht.com/EohhGqV8BNxxOmDVhkbbGNyZ__IhSPCsQEExg5J4rAdW15dK36L_kIA9afH9n9Q3L3LXtLNZXLN_Yhgtl33v
+Buchholzer Weinlehrpfad,48.086262,7.918316,http://lh3.googleusercontent.com/JirQleJXY4BGErLGkLLlWdK-chiwWWgG4ps7TiWvzvvAMbweGYvS6778pHyUuwkzvJUmdILZLGDKR_Nl_qb2Nw
+Weinlehrpfad Bergkreuz,48.087017,7.917693,http://lh3.ggpht.com/S4PWrBvU0MrjjfKj66PLagBZVNX6rnzQ6Z4TDSrvsrpTCQ2uFsMRGgXNvDBahwQ2FmaZyP_gQp9TbPAtndeaLhsmMVGDgcItj6D-QgVQuWyffvSq
+Mühlenrad,48.080735,7.919023,http://lh3.ggpht.com/-Dr6z3OJ8k82Nyrwr1snpPdbbHZzhJCmKkXd_JFgNOLdn7W1JKa2i5g0qKrOuUrDLdyDM9gQVfkI-k1IO_g
+Weinlehrpfad Geschichte,48.087543,7.910838,http://lh5.ggpht.com/YRr2NDTHcPmvdrKgNEwAWdYiWrYtKpvWYDqBeSkGu1Vj7SmppTfflAnbd-EsD-3uqcsxwLX-wNJ20QqLPV7G
+Heldenstatue,48.082695,7.916515,http://lh4.ggpht.com/jiKmIIHLsyvPmiuLT6ZAMrtSkkBXPPvqMXL4rqAzgbQ9uin2ERdZACZEonoK2zpRg1ejtPltUYv5yIJIPgrr
+Weinlehrpfad - Trockenmauern,48.086569,7.919138,http://lh3.googleusercontent.com/hx5w3nc6EcpAyOka2mTr22NrmPdn4NZSVnXBob-p6NnRNSQ_uA1_eZK8Kp68Afw2sjiTJUk4NFyVJ9qcDVN7gQ
+Öffentliche Wasserversorgungsanlage,48.076102,7.889219,http://lh5.ggpht.com/rjlSN7vyBXYOs72LFD0mZrMdGfY6niwj5N4aDF113dJOjfiqohW_v-ezM4L2B-Ao7ReCPt5tZWPRLeURICzn
+Kirche OBERREUTE,48.083196,7.82147,http://lh3.ggpht.com/Bg5J2OuxQWDbbJXn1vdeiJ9KEITtAHc-nrJ4dvWp3NXgQKWaz38vCZYFHXTD67C8hZtC0JVv7dMfOhfvt9F6
+Dorfbrunnen,48.081693,7.824124,http://lh5.ggpht.com/CrKGBvh0xVIJXQMQtT97sDf-PiV833p6NdiPA-URk8MxPrjwQj03skkfmGXkaehvvkDvGK2AUUodsLQGpdM
+Kirche Kollmarsreute,48.10092,7.876988,http://lh3.ggpht.com/hEl5HioJSO5IkExCFDNZ_J8kEjQ1qBAazt70Gvq_-ZVl0Wpb1H-Uo4jvoOcWVvImXY4ER1kgoM6CByeNe6q6Wxcmqj9-wdP4dBYOtcLTrpiKO1MQ
+Altes Rathaus Kollmarsreute,48.101198,7.881869,http://lh3.googleusercontent.com/KTSwH0NCmJTWlRvmMIokVzpQnf7d5f4UAsfbBGleUGSL5jAItSuBzAXXqTjMeFFccWjZAqWiIN2Kw9xO9A0Uug
+Freiwillige Feuerwehr,48.101798,7.879401,http://lh6.ggpht.com/gQPTfhv9d0dOrnpstYilstUbbAKyeBjrZsLYmJNSQ-1tfg26SZdgRJGUjcEmqMIgPfSSMHVwHATICxZQ8czgq6L3xEw97SqBaCIffB9kwBYror0
+Spielplatz Kollmarsreute,48.100919,7.875622,http://lh3.googleusercontent.com/eqZEhcCW23eNYnJkfgPbE8ixLdAZpVVzzcO2SQewUKQ-Zhv_kt9nqQw1m1-iqdJhalfDo9664gT7oWTCsgui7g
+Alte Arbeitsgeräte,48.101521,7.880278,http://lh3.googleusercontent.com/BCtyRiIO-9KYohyUy3p0-oekBBa2wz-82hmttRRxcxp2RX6TZdeTLPzZ2sBCp9_AiWZW58YCrQrojTFKrD61
+Wassertretanlage,48.10381,7.905175,http://lh4.ggpht.com/TNC3ThdaUvW8Obus1ZR9pcOaIvlgJqSLaIPdEnjPYEaKEjh21PysnBp-jRmwwvXRRPRI79b12Q56y4R5HXs
+Abortschacht (Ruine Hochburg),48.100533,7.89348,http://lh3.ggpht.com/xdjIQahg1B-OUMzwdGhmWKOc-QvDK_osDQLSCOq1zbPfrG--mtb95CJErVj2wvTcTNAEXWwWEqPJuGvOBBvCCYkWYRcFd4eO4BkXEH-u_5aH0aWe
+Bahnhof Kollmarsreute,48.098346,7.886909,http://lh6.ggpht.com/ycq6PyFVAs1L9ONEyCfT_WnLr_bzADcXljxhcjsL637Sv6K8COuYYCXp6tVY3iZC52H_p0vOMMwfFpQY0D5Hrr7mAWwg5F7EXzZ4B7JCHNibEhjOjQ
+Wegweiser,48.096239,7.896552,http://lh4.ggpht.com/JWm1HOOj5rNI03XFyPj58yYn__KnxZj1woIPOFbPSZunWo5w8qljg_j3GtAEXo4XLtdVqV7kmYAq4js2umwI
+Fit for fun and free,48.098835,7.861167,http://lh3.googleusercontent.com/TbjB2aFWRuT--T7lzH7dsXET5FV1OK8Yy8PeXlrrTC0X_S_OQz7g5vxh97j4vEb1I42rBKCDJeWI_eIrs18Z
+Neubau des Wassermer Wehres 1921,48.09914,7.859229,http://lh3.googleusercontent.com/TnYpl1gPnfJe8xAcOK_4cBAXCVHqBgTCu0CbfKnGxMeyEj3tHAELQ58fqx7gK265SKBwGwJPMdokGdAATgFm
+Abenteuer Spielplatz Wasser,48.096842,7.859872,http://lh3.googleusercontent.com/9t6e27pe1wOY4uarLVouoiJvxBC6F_eabKoSiG_23nhkfTvVoymGINuXNGXqqgLFA7rl8zuWao7GcbVDAcMs
+Findling bei Reute,48.089318,7.832719,http://lh3.googleusercontent.com/C6p87X1uufU8hJ1v0jwcLan9qmn6UkKdX3fhPYakLDGSIJU2F_2zaS0JY4W20deafq2b2m8UvEMsSvqQMjDZ
+Die Botanik der Rebe - Weinlehrpfad Waldkirch-Buchholz,48.09087,7.907392,http://lh4.ggpht.com/o-pLWC6MG8XVeo42mxAPNh6X7qAjuLcZ6f7HHvOfuhQ-xy8i9k4TAIs18MJFl-HO9ONi9MsBFtJmwRNTDnk
+Alte Traubenpresse/WG,48.09207,7.785652,http://lh3.googleusercontent.com/xSCbU3j4MbjIZoY7ew7mjk0zcmdOoCAAwno7PVezGmTBI3xPLcKYSYjuDqEJZp0DDBNjxkh9k8fQ1Nuyy7Ne
+Gipfelkreuz,48.080398,7.778391,http://lh5.ggpht.com/-aVUnab3TbCdB8wzAPnGcKB2lvMiSgXst3ls5TL6wCRfk7Xg5-AceFC5OO8tWvNw8D1TDUlso0CH3vHQbfDE
+Blick über den Marchhügel,48.087021,7.779639,http://lh4.ggpht.com/FaXBV835cq-v1pAj3-jnTvUPJ_s1DU0M7v4t19cHDr_s00IzIpSvPHDhvBxHWwNlNn33V2_eyj_mPuB4qFA
+Brunnen Der Konversation,48.094274,7.729766,http://lh3.ggpht.com/cx3IccWR_tVBrjFc0on9IDXhVcvNIN81BcPCQHKIgK93FalS6-3-VHFwAslXyWXaGWNuKlvBtPz6pK1eEnRD
+Ehre Die Scholle,48.095093,7.734408,http://lh5.ggpht.com/eoT-0RYqyCVNjMuurC_IhnmfPcu9CJkcWc0VFgrNpF9oYbaVFxn4vVXK2RuZRlmzt28X4UmpSU1UJOMcp6M
+Totem,48.118702,7.853227,http://lh5.ggpht.com/DG148swwTPcB1Y7HaV-zHoQ0K0i8FGDI5nArk12R2Ej_1nByWDEV-GR0iRzO2k2ayVtOB_EHZzvaRAWK7tsm
+Evangelische Kirche Windenreute,48.116492,7.882386,http://lh6.ggpht.com/wkusad_DiR7m6bR8EcOfBNY69TFUM5iP5PE8_kWT0MKloh_o2BU4YiftU5Qqpm255iewdSNQimpVMpktJgY
+Eichbergturm,48.133404,7.865876,http://lh3.ggpht.com/qUICsy2JaijXPxNPDAHk7Sw3E7TaGGlrPzhc-E4BHi0w14q_EzsgSzj-WK9URWmTFlKa9ZkYY8WIDWiLEUcJSp5MQQEZyA8hOk386bfZ8LVpSccS6w
+Ballons,48.104232,7.868293,http://lh3.googleusercontent.com/CaAm4dnbynfEsVqgHx_x6W9-FbB3qneIn-eQgCNPa8ZqaOqE-Lmwg0rNUMhImoTAzE2bR9OlDasY0y4nUaWEFQ
+Stone Face,48.105446,7.86571,http://lh3.googleusercontent.com/ih7KpTlt6-ADWDU9fhCa_pEMWrFm8fgJRsRElT_N1t0PtVCXm8bbqXQ1HNSIcmXVblJS5xcR2AChp7qlnUEN
+Die Beobachter,48.10639,7.864663,http://lh3.googleusercontent.com/-2iCSvD1Sz1mlsswXRJDXCPkzcYcBzOPUfYlcPvZ6PizLRlCHWF40u0ntigmWjQfDyM_3HFChz2F7ENmB4df
+Figuren Im Raum,48.105368,7.865999,http://lh3.googleusercontent.com/W27Ve-C8xctGfgIvKbtbzEUoXt2MEMpLKgUCL7bKtRaqnd2bE5JIMOaYVRXrpaVUW-rZClYZse60mjTcHJg
+Holzpaar,48.104101,7.866887,http://lh3.googleusercontent.com/qNAf_olGpo1s4mLoSXyrKWYpGfBx1L4R4iIqobzTtGGcgjBM3VHDsVcV6pVFL_75x_c6wdqyBTWjBL-Jn14
+Skulpturenweg,48.106722,7.864071,http://lh3.googleusercontent.com/bkDDS5hhepZzfR1dJgv1FuD7GKWi69RFB7-oTPUM0yufp7YLu9q4qtSQjulgkGqfm4pOSSrD_TDPFCgNzoe1
+Gestrandet,48.107918,7.87216,http://lh3.googleusercontent.com/cy8csggttGPS1a68SkWZ4f6yRqpU1-9rKJEqWFaJ_t91GpPLqP9KFY4glisQnZTtSnUpWDhQw0MCXis608-M
+Winzer Skulptur,48.106885,7.863792,http://lh3.googleusercontent.com/7RWoI5hGrS44oNC3YodBqFqEanU32pPBjKVoKTjD-ginBk0JZhDlV8vV6jxcZT2b_vuPP4_0RemsER4ZLqDP
+zfp Emmendingen,48.117991,7.866287,http://lh3.googleusercontent.com/8b58KrO3tLbxllevuKsFjIylJSZEnxWmzkRvveNXHW0ez2aG-jNXIU_otz8AOxjLs_s38SWU342Sm50RsQY
+Fussballstadion Emmendingen,48.118412,7.839257,http://lh3.googleusercontent.com/GXZ3HxOBAYr4Np_SxQ2buuANd71QyCu0sykib_EOSJDRHy4TGMO6YyosDhVAE9SnVy-QR1FrqhQrQItfUtFY
+Altes Rathaus Niederemmendingen,48.123754,7.84056,http://lh3.googleusercontent.com/A4U2FrujsE8iOQm6y9FYOahPZ9zqvA1k4fZYishuRMaHJfhxs3S7QvguTT4uHgskZSVgQiQ50tXh1diSTpcO
+Schweinchen,48.123135,7.840016,http://lh3.ggpht.com/P0pQer3RWpqOtoBsOpvJNRP8GKZiy6bhIszJJFKRLYPXwWPAzDRptINW4Us6ewaUAqVaRo-7qezmx8JIZQ2Q
+Auf zur Hochburg!!,48.118569,7.896711,http://lh3.googleusercontent.com/6dJynl4ebuWgoY3i9ccDDLmJV0kkhY1H2tAhPcPJjPAFKBgaKd2OH-AeKI07aB0dWGn9_dlD4bnk8CQ68Oc
+Am Gutensberg,48.108658,7.731487,http://lh3.googleusercontent.com/OWj5fWDG2D8DybacUOWkjjdh_JG9Qkhdeiq4oZFl1dZZqaAkjxgE01bhgcvkijEdC-8_Jihc1MNbKwrQfd8E
+Heimatmuseum Menton Teningen,48.128827,7.807355,http://lh3.googleusercontent.com/kBslaasR0pqWKDo8Dur_Ps0H08zkarOsb1DMo2omfKt9RaWRifRQ8-tGpouEQzBGxvxI0Pm0yX6Zef_2X4Ex
+Altes Spritzenhaus Teningen,48.126719,7.806863,http://lh3.googleusercontent.com/2WUjQUg51UJi2YVySmisRpuwO1TaFm3SjLzLQ_6NMGEDYgaEw3kJJDa_fM0m62jA-MUaGpplOuh9U67Kc7Wo
+Runde Röhren,48.130444,7.80247,http://lh3.googleusercontent.com/gj7A_huMFGr7okpmZwyqpKQ_ZsHQDo5kCAbl9eU4yZ6sDu4nucSa8AVK8nNUhk-XCmObtnoqfdPHMg2wJD53bw
+Keppenbach Eglise,48.144081,7.919816,http://lh3.ggpht.com/F9Ph373lEgkbUC1upkOKGuK3JPHSG1FvxdwsXDed7vAlIBrYwoNiRF8fn4se1ScV62D9rByfZ98mBtDihF87
+Brunnen Rebflurbereinigung,48.137932,7.824414,http://lh4.ggpht.com/sl_9-kF2VqZQ34gvgWY506-yIxZhj9SLwxK7MhKs9DdXIb3MXeWJv9HG_5ECVONksQoXVuduWMVZX4TUIKch
+Schmied aus Stein,48.132391,7.808572,http://lh3.googleusercontent.com/vfp7HwCRIcMSrUn-BEsdcGGKMDuBc1X38p9bPzLfztTt2mOCsXBDDBitbKg_6RKFs7CerBZDdgrMxUXNZUfbNA
+Ehem. Schmiede,48.126621,7.811185,http://lh3.googleusercontent.com/DgWdtw3GJZtfUC1IuoWl3mb_Vb2vXyuHdCIMUzBSr6VFj6DNXIEhBB-3fM1Ol7R-jzttpuuL5nbBH5ScNn2c
+Teningen Rathaus,48.128121,7.80861,http://lh4.ggpht.com/CV_AuSLfSqWFdb0lk81mJ6XKWqb4Zv9Gx6yMc8MEZAJBtJYdUWfbueYoMSU3Wr3KQ0ydgOM4LF6y6uPKlbFE
+Goldene Sonne,48.127583,7.811373,http://lh6.ggpht.com/uHkWksFkdXbfiLYrg_tgfd052WyHLFG-fdROnFSVUNdC9DILJwYKBfWsR_qHoSRVjKpuVfSoCNWlSlGT9pCU
+Weinlehrpfad - Bodenpflege,48.089708,7.922041,http://lh6.ggpht.com/B74VybSGoc_Y7b7UyDGEQPKwv-vszRwacSaIrOT8Lgxw-OiEaDliU6jygZ6xyoL1cFeT3wZHFXGZl4_JahQ
+Weißer Burgunder,48.089155,7.92215,http://lh6.ggpht.com/X17iynUiNeyGI9wYbgyws65uMZY1GrwfbxlKhNco0NK97WHGzBqOX8Sj5Jg14g1xfF7XuB8Ix2I4lTwCTFk
+Umweltschonender Weinbau,48.088285,7.921917,http://lh3.ggpht.com/iCxp7sLuIa9SZE76amEtbOVjjuyGx6DJElhlHHWZL_2nS4JBcPiGCMg6kpj0gRHNfycYCYNlAUlrgiIOCio
+Weinbereitung,48.087761,7.920748,http://lh6.ggpht.com/915iX64sbFDkl4M1B20cm1tov6XN65L_Ex_QSpnSz7dKfZ6IFp04EafEpMwyQ8DXRN5nWVL8sZ_F29rWi38
+Gasthaus zum Sternen,48.163143,7.831014,http://lh5.ggpht.com/XvVwXo_5gDxSMYCa9hjwasraVlx2aPAcdLAEYw_9r4zo1RvTvcDCnzDEiTN4UB6GO9yEQ9d0NTm5IsRhjAxM
+Heimbacher Friedhof,48.165208,7.832327,http://lh5.ggpht.com/NUsXqotiPX3CrihYH3XTZLtRHDrzmYhYs4fpo1nfb3tOmO8uQB_U68wu8dpdfmI7lJozpn1qpFza-AW2wg72
+Hinwiesstein zu den Steinbrüchen,48.166993,7.835791,http://lh5.ggpht.com/EcCEVOGxTt5LdGPHmM7XM6PMjme51k7cFfH2ESpPRagkyanr0FfxwfDQkqakJ7yPZkx3bH_EjZLhrqcTLPfC5w
+Fratze An Der Kirchenmauer,48.163715,7.8317,http://lh6.ggpht.com/rBnfTqRl1PEWKjmCyVEua1Dc7oMHmDBTDKXaCdpqNZTOwMy5ds6evw4KLqCPFt-1x43X-vXTLJe3MUfMlZHG
+Historischer Brunnen No. 1 of 7,48.164019,7.832307,http://lh3.ggpht.com/sSZFPg61ro9UlRgdmC5_Tm_aE3tudvitxwJQs8DybUYnC9LkM9N1_HU6M7CopEU7r0se8Gftv6P_g9C_sfHC
+Historischer Brunnen No. 4 of 7,48.163732,7.830268,http://lh4.ggpht.com/GUJKPbUhva4gSrV-DynXAx8RqMA_9QX3UsfCTtCmRjUuren41Peqgd8EchPtfD29tTI6uFIMyZPIKw7dHvovAQ
+Baummann,48.163703,7.8326,http://lh4.ggpht.com/7-k0dxerV0LWQyzxxtpEUHOIC3hJxsMzpgkryLrerEpL8VOa2myhVtwb3I0CPquYr7qORo1a9_mVTSXKavTY
+Historischer Brunnen No. 2 of 7,48.164522,7.831301,http://lh6.ggpht.com/7wwGloXeo06TpOC9ABuvJQagvYLA0oom6VKgDkzl2tCIKBRNvmhlISNESPyH7L990ZkIEZ4NiJTu0_qUPNE4
+Burgkapelle ,48.14928,7.840164,http://lh3.googleusercontent.com/RXQEpLHW-88EyRMO62GmJRZd1tvtO1AJUVupZ0vavU-kJGBuUllNqti9XW35sGJ8xsfQH8SsGEOTdRCZgDs
+Dorfbrunnen,48.15799,7.924755,http://lh3.googleusercontent.com/Bq8WcYZyLXcIVtjZJKFNVYNrBMtJqgBCe1WlZcRcCh3BjJ8wtAoS2H0fEPt3kLc_HiH37YUpowe5ciNg6GGy
+Abschussrampe,48.130171,7.822586,http://lh5.ggpht.com/Q5-utRDf0H43p0ITIGdsyRBOmFNqGGHk3Ln0Rwxcjyagi21cqCnE8zKIKrmEic40-4AY1Y1-sxKxN4TLi3IVew
+Mundinger Mühle,48.129115,7.827494,http://lh3.ggpht.com/CNbYfUGJ77XyiFjwgOBtY4jjcDsLZqYSCnMHWW3yH06cznA6dTi5_qJV1XNcVP9oC76AgHMZQYKXfCCh62ytPg
+Knubbelige Skulptur,48.129968,7.822124,http://lh5.ggpht.com/LsEsmuaVsdEW8NdQkUuvd-pD_zM9LjTXfyz2D6z-nLGMzSxf7AOnZYe8bQs_38OGfuatAfMr0y2WEI4eZs0g
+Abenteuer Burg,48.126219,7.823132,http://lh6.ggpht.com/HyniCbRqsiKCrGMc5y6w0essecHs_pqN6WzdnNBDjnh8WFbEzIeH5Fho2vt2RuRmTgvOXLQbZiB3d0YmY6Q
+Wasserkraftwerk Werk ,48.126911,7.819342,http://lh3.googleusercontent.com/JkxGFRzQX4ofBtS54uVsgZrTHlHtdZPD3uNWNP9lo5v3amlQESO-u6oCCLmNc8kOUzjhgkOjFKFIe5muR_gk
+Schönste Mauer Mundingen,48.132141,7.828995,http://lh3.ggpht.com/699bfwvmvlRShioOpCvGJadz0Qmj5PQuVruwqvgFmDYUjQSjGoLJunZxxrZpwVdcyhp4yq2jsZuCNNHaR_Y
+Zweitwohnsitz,48.12822,7.82867,http://lh6.ggpht.com/VL02Q1co5gITYH7Y6jcwOMvgMlmB_45mQ267x-uUOzwdIQe-QgkwG5c-j3HsN08ht_C7EfUZSnhc3czrAcjq9w
+Gasthaus Zum Übergang,48.130882,7.821319,http://lh5.ggpht.com/zpvUcsiA96ZaSX9OxZMARJS-OUCx0j9TDFtV2jEJUxj7yYfeoPtuCJrBfpU24kZbbq0iIQi7CtKY9ThQ23U
+Weinprinzessin Mundingen,48.129887,7.827512,http://lh3.ggpht.com/7g_WcUe6Droq54HqiX8pSQGYK1-9csfwPlbektKM1DzIoTf7QBC3dsoRW5BNhfTTnq-ZJBRwbmOHYKgtWjk9Yg
+Gedenkstein Übergang zur Heimat,48.131182,7.820772,http://lh6.ggpht.com/OrD7ry0NtysD9WpVSEK7dNPy9jbAdfIO1w45R4qQr0_Qg5NCrPUAt2pQIP4Msq685T66TIYSdEsfi-tlCWl8
+Innentor (Ruine Hochburg),48.116499,7.900401,http://lh4.ggpht.com/dtX6a_AKr7VTbIScRxeDKKXWIY0q6iZnO_bRw_a1vzEiHfCD8nT8-c-cz1ukeCvkPD18UsLmWCvYWrVcDTJZLYsiUZHNz0LxGmgelColf5PojSRYrA
+Hochburg Ausbau Der Burg,48.117194,7.901407,http://lh3.googleusercontent.com/9Bsmayz7yXpKn1rDl_KYKUulXLk6qrxLPqaw_p_CBcqMsLtGsoG6Lh3p-1JDTTlg24J5hEUocZsPQ1GPNZvmaw
+Sexauer Aufgang,48.115963,7.899545,http://lh3.ggpht.com/AcH-JE1gBIya9NZp4Ftzzbgazszu6kfEosbLB6QA109eFIi5c5umEhooS-pqTS8-rzKeOi2KBvm4gUxnHtVk
+Hochburg Küferhof-Brunnen,48.117457,7.900627,http://lh3.ggpht.com/2SKXZ5JJBJvMfV8K1CMGSh2P3QnPJ2D9BOnoklNSaQeDBbE4fzf41pT6-EEMsDrqCdNl9UxGBxfyYNSg1Kc_at2rzu3G-bs7vNwUuXOKnwa30dpyNg
+Honig,48.11747,7.898684,http://lh3.googleusercontent.com/iXwxWOnTNSNP5hMGvHwpV3nEP_dMgJwcMfhX8nNTYrbvqndIoLc_8IMxQfne8w4v_2MhQD0d41pSHrmVOUCV
+Hochburg Geschichtliche Entwicklung,48.11683,7.899576,http://lh3.googleusercontent.com/HKSzJ-mTUy_fdCdLgoq1YOrPQvvBpVXgVfFnjM8y1gXZPhQCNbzDcSL8_MgDj8oSepCpDFfsHjTeGuowldM
+Die Honigbiene,48.116782,7.897994,http://lh3.googleusercontent.com/eYXfOGrBuwRJRsym6cbWwKrtrLJYbI5ujmxIKN0VsqVDsb5dT21_iN6T1YYpRWwjllJwrt0rbLOh8yNUywsp3Q
+Zisterzienserabtei Tennenbach,48.144878,7.896174,http://lh6.ggpht.com/mdeta7Yn-qsxKOG5xVyaqQbEnugq8GVNeIF3are_TehysmzEfk6D8syKYGMPQHd6l6ouYA08WqRgUyZydz4rx3cc2yigxHdQFPO9vcpjyK7vp6k
+Jakobskirche,48.161923,7.797356,http://lh5.ggpht.com/p2IJRnNbvkmcEIB21mXG3mNsR9N2tE4b8j_mCZ8NXrGUnxRdkeTDvfe9ZuoZJsXKBu9HJnOgfi0ynoZn7Gc
+Salzbrünnle,48.161983,7.796415,http://lh6.ggpht.com/1zETMDwaGPZWdOGP8GvgIwQXCIx2PXTfqiPyB46hq2gls8uPQ0IvzDURmuOYK3ttmXqoruLDuMUb2mLpDZBOLg
+Brückleweg,48.161972,7.834943,http://lh5.ggpht.com/6oOOGJ2mrw-UpJWjuMLd3Uvpd5hafx2Ug3TYp6FAG723jZk3RQgLmTH2VhyLl2kpl6MO-nwntkwkPviV87Lb
+Heimbacher Wappen,48.162084,7.830424,http://lh5.ggpht.com/EqVG2THZX3GSeviCsBK87hZcPaFYFd5c9RlBqaxYIq8gpKMD1BFwGv4HpDeej5f3Jbnp7IiHqEayBKG2WulK
+Waldgericht,48.151817,7.819098,http://lh4.ggpht.com/sb_de4FRn01gIcmGnuxTAaTB40Upk2ljF-Y00sKNCV_gb-28tsSyc5MeDFCPuCAwUm6N5p7bxHxqCdPyGr7cxI1_7c94FSevBn7vMYRI2Wg1cF0s
+Weinbrunnen,48.161268,7.793749,http://lh4.ggpht.com/ChBNf-PeDrCDL-Agdzw7U5dybGrhMsYGSPAPaUnGr4GM71lZVVd1rhl4yEjbHXOlNPs_udKovuZ1vuavH_0
+Der Adler,48.125298,7.751279,http://lh3.ggpht.com/QF-kuVORsF3_z8aV1WVXFv6QQOCDnVqBZ8vw1xOq-bUq_MXaejqggQmoPym5yGZoKyTZNw_bQMdwSojl43Fg
+Dreisamkanalbrücke,48.12034,7.75954,http://lh4.ggpht.com/nBo41V4-QiEe_zEY4FD9H2iECKoM9J4WE0injQ2jrDeba4RBFRpP_J_fg_bmu4FmdlyXOglEr1-6t0zZhe71
+Straßenwehr,48.120279,7.754425,http://lh6.ggpht.com/GJlJhZR5hNu6j_HsygbN5-FSCViiIxiUcxb49CX1cUEJzRCB1_ncr9P5eO_m6m9ZExrliW-hVhLop71nVBpH
+Bahlinger Ochs,48.125025,7.751435,http://lh5.ggpht.com/urxZlL3XAKtd4rfzY_i4praITNqVqOUK_Fa8EeqlphgP0YI6Vvv-nclkQbPvdP_uTY4F8HYos6pk3QHKHGmTxw
+Bahnhof Nimburg,48.105804,7.760282,http://lh3.ggpht.com/FX5MIEgvbFYQoETLiw0uLqcvoRWt8_qtzL3OJ-VYiYh41EV2ufMKAAwHFUN6m8pcdZYR_7dBROztVF9LW5cq
+Alter Begrenzungsstein ,48.150915,7.752712,http://lh4.ggpht.com/4xeIz0coXsG_gi2r9F-0w_k9C6EM0tdr0zs9WrVDVYaf4Q7JtmOgt1eStrAvvJtibK6WJJdxoh6Tjh6-xdVaZQ
+Alte Schleuse,48.149753,7.753781,http://lh3.ggpht.com/hDiJqYEK52N7hu60d9RLbIUBAaaBFDU51qylFTLAEsqTOs7FYA2mV8iYq2yS40PPi4Z74im3XaEA5aaz0Ys
+Stahl Baum,48.148762,7.753817,http://lh6.ggpht.com/qlpHV0yxj0qBpGRmfpmK0NT1ftHSVJT1NlMHZBXckoH-sqHPL0COaDLbcui73DZsPuTIZvS5stCyMLevSxNXX_hnl_26prKp6OEvKZZTnckyc6nm_g
+Statue eines Boccia Spielers,48.149372,7.753884,http://lh3.googleusercontent.com/w6_TqSlU9e4SDMhrcWlyRJEUdAeqw2yLjErL4saN2tC1f7inHaF6zD6nyMQVKz7J-RBBezD57xTvwsiXElE
+Skulptur Sammlung,48.153085,7.752482,http://lh4.ggpht.com/fNUIxw2l5Pm7vMkt1-Ns-FhtmAyFp0uyIgEpJuBZGNWWNKuKQyFe8z6hH-A9V34OZ06uaHsWDmhr_hyxn4s
+Fußballplatz RSC,48.153467,7.755077,http://lh3.ggpht.com/4_vKIm8cf58Uuhl3wcvHZvt87uHCWO5jafAxAs2UkaAfJjqXvlUHASszr5qYdESWFwPABt9p311hqekeKsht5Q
+Kinderkunsttage 2003,48.150273,7.752979,http://lh6.ggpht.com/6Vmw41X1hX8ZojEgS15379t8dR-ufkJiPdXzpOnxetWjt2pzSibNvb57wZIWoH1oYLs0fYseeheHGEZqnQ05
+Riegeler Brauhaus,48.149673,7.753438,http://lh3.ggpht.com/7tSR-6W_iSASeyY1J9mHj69QvLFta--X7Ocy3rWYEgHD0CjXlWOgwgYOyumPf1kM2B8tTTI5yF990JHnvXw-
+Pumpenhaus Riegel,48.153858,7.757644,http://lh6.ggpht.com/2k1O_jnBvkgjigUFxL7XH6Sj1lK4R8X1Je3ctJBhtytG70T8Q1Mk1B8vmg_QzuXCqAUmAG0uzBlRiyzYsTQ
+Erdskulptur der Erde,48.146423,7.744809,http://lh3.ggpht.com/p_nREl7bzv0Z7SPnGT7QgCu5zB-DRzmTKtdILYmZWlVRihj8HR0lH20ThE_A4EcFzbLdgcP0z0T2NowxOBE
+Riegeler Lösswände,48.147248,7.749536,http://lh3.googleusercontent.com/2v4WWQ9voA28KUJP62t876bPe_Ruoy8ivT2zMV_vrGEqK2eWkGPSMz6DT-cDk-N6ITW1zQl6D15iDokgiQk
+Flower Power,48.147711,7.750586,http://lh3.ggpht.com/0sfIQjrmOVUsNRihPeUAexuWF3w0A_e_gcDPw_TO2ep-8_g-uVLtPSbfbc8T2CDjhdptI8vIy_oeGGdhanXF
+Hohlweg Dürleberg,48.145025,7.744146,http://lh5.ggpht.com/SQJMI3WibtIFMw43RiRb-qe45Fjd6yp3Pit0QGfEcLG5b93XTF810LpcCqDvSl1-Lz2CgkkONWOSKBZ7_aZv
+Kinder  Kraval Burg,48.113693,7.858602,http://lh3.googleusercontent.com/E5VAiBq8W-Kzw76_8gguwEoYaEQgCrUXE0ztEw_bRbF1VevTCYnhQggkj9D4xzob9_bWASYIL2lVrQRmtlId
+90º Pool,48.114305,7.852951,http://lh6.ggpht.com/Pp-z4_WnFmq50_6HY96p27BIueEgkxgmu4NKhbALRORK4KFwpiL_Sp1mnD_VfRIcXhnR4ZOylH8OPubShn7H
+Naturspielplatz im Ramieviertel,48.110627,7.857806,http://lh3.googleusercontent.com/lvhRtO2oWTcIJtWTxXdB4hIZ6gQkSDgoB4Uv8jYXpuf_0j0gkOQIt-WA-KEqZztRZnFcFKOtl8enL_0Rckk
+Alter jüdischer Friedhof,48.116513,7.856954,http://lh3.ggpht.com/uYt1jEDnKh9CseuvRSUenZzAyseqkCpPtbD3MLbVYXgVQv_mQly3ZZYpDCXAuCkj5Hc1XJMt_L9UmLM1ZXI
+Stein mit Wasserfall,48.11161,7.853041,http://lh5.ggpht.com/tPj4wj6NfzoWTcbqqlkzTN26Z8PXv75JRjqzr-H8f1bc4ANDqis6oo6pPDe1r8TQREhJfZ5muXMz9ny6VxV1
+Rebenbummler,48.116675,7.858669,http://lh4.ggpht.com/UQ2hGXH_5rpSMKOCw4Y3ZB3V85fHH8PKc0e3BoLe3cg4I8W4hAYIAX-6G0HmnVtGJhxmICYA7lfAGwYKtkY
+Sandschlange ,48.114349,7.855078,http://lh3.googleusercontent.com/ny0BJtdCu_Rsk9WKtqweaCISrXcphYcpwDIzAweOWZetGW4Opnz-L0vtLQcGFGpTSWmUCui3NrXGIpwNZcI
+Kapelle Mundingen,48.136654,7.856431,http://lh5.ggpht.com/zEISXpSDgmAf8JVytvZP89D1jdqOdmHJV8NxVtZfMcoLWzD-mJO-VXIs7uGWx6v19J67mAspgSkPZie-M8LQ_Q
+Interessanter  Grabstein,48.11843,7.850483,http://lh3.googleusercontent.com/KGpJ2E8BYwQNBaZt16GeLnaseLCbST0bxrPcFW2FD8xk1dPSY4Yt1aGj63EOEq1B9KTyHlrJ2Cq1_JLDJ2qoJw
+Theater im Steinbruch,48.124458,7.845629,http://lh3.googleusercontent.com/Oo-6JbcsafSk5ORsLXBDJO41GCLNv_Ow97D3hw_kqszn8xvRE35ZpN10cTE95yam0tvMVoraVEnh5Sd7UN4
+Historical Sandstone Schalen,48.12294,7.844177,http://lh3.googleusercontent.com/RrZnZ9Zxhl9u1Tk6aNMPSQTmsnEib5T3RHqMLR1sqqphw8KuZy0q61Sn9YeZYIcUCuhn5WSwHNHmDjltsunzow
+Kugelbrunnen,48.12291,7.847261,http://lh3.ggpht.com/z_GUkgVHZi1blFt0Jt6asQif73eE0_jGTWUxyu7l35YXZXHattNU92S_uUXkGnexGNA0DtYybDtVa5axQgW_
+Finanzamt Emmendingen,48.119572,7.849239,http://lh3.googleusercontent.com/0VBG6f0YOfHXhpvwc2qd0Q3yaIhOw2x4XuLeXExRK83l3cGPGF2Yt0v-B8BUFspdLVOAmCl-_vehXUjK4QFX
+Schneckenbrunnen,48.121372,7.850733,http://lh3.ggpht.com/N7a6z0rewYAh7jZoEeMfs_CYkwqfXnJI1gIJR8azzwhyQW4smnum-Rcbn1Rv2RkQnxrK3GuvYnbOgcg8_dVr_A
+Steintafeln,48.12146,7.850014,http://lh4.ggpht.com/AllOxS-S76BPqCWKWfjqxN5eduNIPIVcHgJa6by82cvn_U1WnY1_yeq4At4zKZ7FFi-mglwUVqB3jyCWc0N0hA
+Kreisspirale,48.1231,7.843425,http://lh4.ggpht.com/hXYOUwNefOVEzsp1IkgfYuVb5pJU_LN7RW2naOvsOW2ODGO8mV9uQWRT6rctIEpfxzVP8c2Ivs8X4kYUG_2Wbg
+Alte Stadtmauer ,48.120126,7.847798,http://lh3.ggpht.com/NiFyLwrK1DXB-OMGLIrxiHZNo8QoRRjbQe6w2uJfXGWZMA7hxTsTH5vLCvhOWoTGZV8eLchR87j0tb5h1q9LNA
+Scherbenbank,48.119807,7.848407,http://lh6.ggpht.com/tvAO60NY-MZ2NQMiDCKynaGyTNTwfZxuaz8528nTbvZVJAnZohbuag7jNBf6z65TrMBPWVuFPw9-yN7UCtD5
+Haus am Mühlbach,48.120771,7.845735,http://lh3.ggpht.com/0vOdTNmTmd99xLKnaEzPxYHO1oezSF9O_Ey3eZhQBG8EZN5YI2oJRNxMRgoR_6CsA_pvLqjRvCIOxAPqByZJS84kw65JRIxCT2Ytj391zlsh-eaq
+The Small Faces,48.118162,7.851849,http://lh3.googleusercontent.com/e9_fFP8OVxie0i5Ic62zSf9iKyDh55HL9kGh7RhSE4Wg1pIO2nQu1xKHrfdelQHJoFvXjOpLAqh0yhMI3cw
+Merk Galerie,48.119415,7.849656,http://lh4.ggpht.com/ELJemiuCs2ul9IQ8BQqZktOiEbaKcE7tsK0XQt4fffYQIum9rnG5rS-wR2sINFjc9BYfEmi1pKwsLcIF30c
+Blechmann,48.12112,7.847435,http://lh6.ggpht.com/TAhv6USxDQYEB2Q05q56sczzepBClq8FEcMjAUz4w4MeN-HBlfYus4BA72-fAa1beHQMUL96Z0QSQ1XIjwsp
+Stadtbibliothek Emmendingen ,48.121243,7.847691,http://lh3.ggpht.com/zcN6rOVisbUTSryK4Ljk_WLBsVvQ8dRlruF1MQYkzUhav1opKAKQKJTw3ZrlUOUnxHOJeS0KSfjxAfQiL5sQ5A
+Mamos Schlittenfahrt,48.120617,7.849196,http://lh6.ggpht.com/W9CkuvW-jrBqcPZ1LqFUTyFhUQ7DusH1tqu2W9Hyos3IJuNfT_BGwvsxoQODL8p4Hd3mpg1Bv1KV8lrWAKc2
+Key,48.118597,7.84859,http://lh5.ggpht.com/uQ5Qj55qezkYcTGjMis7xGSWuitgRCoIziLRNzFrpK_RLYjTkGsjeY-FNcB0bJCh0RDP4RfgkJzbHszA9T1TZw
+Spiel Burg,48.122698,7.842459,http://lh3.googleusercontent.com/R38hpyWDeah5Cskot_-9Gi0uix3h9MxRX-rkgGfvczCH3fQldfh7Vnn4lMxocYR4-egGxcAPuw0TYEUIS7g
+Antike Säule mit Bank,48.120521,7.846669,http://lh4.ggpht.com/_nNuxKEttIglS7F2yhNnzi6y9Aq-Mwsdz7KXf5ADR7IQEemiQVzd7hxouQN330r5V7Nh56ANdbt-alT--BEZ
+Goldenes Lamm,48.120662,7.848806,http://lh4.ggpht.com/-9Expuq1kkDCKPlqApoZxeXhRl9B-RZ_C5k6PcizIOwZ_T2-vUeRlKlwAnfh5FXTsQbPzKz2dfiwPPP5IjkgOw
+Steinbrunnen,48.121161,7.848692,http://lh4.ggpht.com/-AuhKpR1pKI3EGcj-lGXhDog9Jwdl73fejeIVUXdtQz2EKtcxGuRmEfHnqpcBt55E8mncnE67hEPjq3xC5w9
+AJZ Emmendingen,48.12336,7.845947,http://lh6.ggpht.com/Z0whB80ciTIUjf7PJ3snkBjihoE8pThUA7Uo5-QK_NjFyHLAn8rmqeWSoLCImxcWJejvZTBTbE-5tXzf1Zc
+Eulen,48.122871,7.852343,http://lh4.ggpht.com/u6QVEHDxX9G_5mu_KrdUEFaOP3qOusSLup7ip7pc_Jpxxr0jdCWp4jFAy8ojQS6qvJUGn2rr4Mg9JmQJmA_uPA
+Bahnhof Emmendingen,48.119802,7.846845,http://lh5.ggpht.com/5BVCyV0AC4rVdasq3go1JJ4nWR9i7wmqFIVDMxcvOA4BknNd6HckAOU4BTSjAyWyg113BPA0eJJ6F6J8_-rl
+bunte Schlangenbank,48.117962,7.848693,http://lh5.ggpht.com/fbzGJz2yuGN8DWUnsLu205ipjQIwr75H2vUExGn5zaiSQYs6ZNZnTApZKR981u9X-jQwDKCKf1IP8Dst1M74AQ
+Meerwein Brunnen,48.120101,7.850251,http://lh4.ggpht.com/J6lWRV7NiSviTWzZIs4X89DoGpAOPpSkrTFwGYZtyMld_Gqi75fP6Zlzc2FTd7TD0PO6Cx_KGDY7i-yYxCwtq0VPwl1Pk4ScF18iqJM84mx8gqI
+Alter Stadtbrunnen ,48.122868,7.845656,http://lh3.googleusercontent.com/wph8LrP9ZaSwRa0OKk8BxtWBtSQqbW9C2h30_SX7GDHLyyhwt1b7t-QzfiF08dxtGNy4p1Mn6GFy8QxU0pNE-Q
+Kopftotem,48.120464,7.846301,http://lh5.ggpht.com/LlMgpxL3nZ9c5SoxgOtr_HKJQKYor706KOOah3gKsc2Kq_PpC1AV4seY-k34DC1-d4SXeRIeomYUPf6TGQ
+Brückenpfeiler,48.121044,7.844914,http://lh4.ggpht.com/YIxNZt1PMlghkZn0_oSm7kpFvj9HLANyt0qO_DjvlQSwEl_oDeE1pOrkhvtn38ou-yp6w1HU7ttO1KodJ0kFPQ
+Karl Faller Halle,48.123898,7.845885,http://lh3.googleusercontent.com/yYL0UTUhBfk5hgz9ElXKVKEbKGqYvZZqzRBMDDwgZvqv1cxZOCu7nq1TscLFQAiO4Ci49PHvy58fMz8PgdrQKw
+Hinterhaus,48.119613,7.852071,http://lh3.ggpht.com/xR1uXdcLeEyMVvLbBlCR4fJLO4dB0cGPKvjvJbJcSW_JoqRJMthakeOfB3oYfZ-PWD1a0EOc1-jph_LI3teh
+Bunte HolzhüTte Am Stadtgarten,48.123632,7.852138,http://lh5.ggpht.com/hvaoWsysqpFl7DvJn-RY79ltkDmT9BEIOzEy5X2PomRrlYZg7RxrGXKQPc_3HWyDf41mX0H66tExNgxw-Jhw
+Wandportrait,48.11778,7.851229,http://lh6.ggpht.com/ZcKjMK5lPlEdAnKFI2Bn1u2SwKQFtHW-N3o_he52SBpx7BYbenrpCEzjeebFbMaq1KzJx9ey2pILYpgWYVo
+Den Opfern Des Nazismus,48.124134,7.852162,http://lh4.ggpht.com/leAyclZISh9wUdukH0tMB6B6shyCSE-m-z-P7_ca-1kiF8OqNVYSaMKDQgP7GHC_5iNHw8kB0ySE7Qqc2j9o
+Brezelstüble,48.120175,7.850567,http://lh5.ggpht.com/JolqfSo3ojkSZQrHtIfCwm9zbmyB0dsK1JjWQ74SCjRHq5ZJsvhhgAg-2p-mH3wmu6oluCPutlSyBc0OGCqK8A
+Inside,48.118912,7.847717,http://lh6.ggpht.com/R7LGdCejtBviC0KS5SY6aJwfuLKnDr70wx0cD83DlhopTw5sL2Y06S4YQwgu7zspPkNrQR6BtUpB0tp9KwF6
+Blechraupe Amtsgericht,48.12191,7.845596,http://lh5.ggpht.com/gX8VC1C_L1fbzyUFNVpAZ74j2ErCbf9U0dBziExDpz8WMEUzGRIJG2SKAdD1BcmYAsg6PlwbyJGj0PY3ItTN
+Stein Engel,48.118453,7.851053,http://lh3.googleusercontent.com/sgh2CvtT7XXMjZlTgXf5DvogxA5d0s3ifPQ3y1vcJj8GlK-coFkQFU8ohyIB2deoBOOsiFf7ofxqH6zeCOX9
+Pavillon,48.123271,7.851463,http://lh6.ggpht.com/hs9_yte8U6PeRVYwegkz5xYEERNXgenUmAknQbmdJvpXcRD4UBCbYKdxeyDNHGIvZkdeUIuOmvOp1BBmAqfmhw
+Liebenzeller Gemeinde,48.124586,7.84441,http://lh3.googleusercontent.com/ujOkzqxOTm6IZ93BSKQxhHpBjJbD95aIyqB16iART27Z_ou2L21UuYV05VVNs9vn5WfwCrErci3pLt1VvhM
+Brunnenputzer Brunnen,48.123376,7.843548,http://lh5.ggpht.com/OzgSj0I0VFx6UG9YDoSPMPaae_JUsJ19RoU45sv7NIZJ8EkgivEEvY_243xYOJUrBi5pz_6H6dx_2N28-zpw
+Holzsäule,48.120322,7.847286,http://lh4.ggpht.com/w7ee5DrN6YpwiCJy3sXJN3uqrylJWHPpwLmitE9o6GNpIyZXBH3mD7H-m1zv_rm_JP4kd5a29yByjIHk414
+Blick auf Bahlingen,48.127978,7.736142,http://lh3.googleusercontent.com/Kcs2DRvVJ98ZCRM5-cxDwUDsk6llJOckENF9n43T2FBh7qV1tWI5tg4XKTvSnzvduSBxME1OgyZqhpPvmdE2
+Winzerhüttle Mit Aussicht ,48.13052,7.736141,http://lh3.ggpht.com/S1AJnF7UKBo0FUqYtZ1_XM5EU9FOTKN8ps17i5hSX1k9dcvdYQS5CVn_rn2zNlB-rxKmVEwyuYLsmywukoHo
+Waldspielplatz Vogel Sang,48.12722,7.858006,http://lh3.googleusercontent.com/9uCp4mzXu8nialYyMEgmRgfj3hr6Z2oi0Lcc3sbrpCwBdOR9JzvejeFm7cUyJWRtrTph6g3LmvmQfW22dA6GZQ
+Stargate,48.112631,7.846625,http://lh6.ggpht.com/xAeRJEyIiC_ql6xbvjFGqhk2h_yxqFTUBEFFrBxW0GHiHVI2aXH7EywSd1oKFrSrOQKN5V_S1YeehcXFj37A
+Moschee,48.116953,7.851827,http://lh3.ggpht.com/aMgCc4bg9q5bjyvw4i8XVu4m64Zky-WawrMKdSC_Rflk1VU_ra-NR1cI1BD2OJlCIGQsDn5rDdLB-0k-HUfr
+Skulptur Kreisverkehr Drei Linden,48.117617,7.848715,http://lh6.ggpht.com/GiJzE_qeUm_r8mv62rLLG09SFLpwhewR1VJxt3lYYzwl3iRDcDQYXmku8d7j4WuWEWsot-nw2eo6cW_y8JkVbw
+Angelhaken,48.115286,7.851826,http://lh5.ggpht.com/EctDIidWWrhTcdSFmQbqWTLHZEVxxVqpmBF4m2elQyYMPKYd9eXcyiuubYS3Asofz5ACzz66HklX3UFF0BWtbw
+Schwarzwaldstraße 3,48.117468,7.849559,http://lh4.ggpht.com/7FS9zhpsWMg2HRDAPrabl2ON_CE_D1tzx48teYIlG3l3P8F9fF8x2s6MOK9l18KrTM96l6nsEDdDSX8QL02E
+Spaghetti Auf Gabel,48.117214,7.847859,http://lh6.ggpht.com/6i2c5vg1AapxMj8ilbilugT7jBUAwFNwc1jxNuMm68g47AuhWZYdvQHfse_-CdVi6j9SdXljz3MskB0DYBM
+Winzergenossenschaft Riegel a. K.,48.147468,7.73975,http://lh4.ggpht.com/vISwfmA2mwCFEHkm8u_5JI2Nqjg4_dKPLty27xnybrM38hwMQB1DiOPmSUq6X6Fv3hwgdfVV40Glwu3pk5Uf
+Das Gehirn Von Bahlingen,48.116927,7.736375,http://lh5.ggpht.com/6GzjxkjGr3RRT5CW9Wvp33EYhrpkjbl1e88FArF3YFCI64DzfYM8O2YSlRq81bzaeoGC83zbO-JD0H6JKmo
+Antiker Engel,48.160606,7.829645,http://lh5.ggpht.com/xFe9b4KlCYOIzecixbrewHKzerOn7p6D3ED3-s_qmriB5vD2SSow8g0_L79SvLid5RSLcRCKGH9kS-eCvvg
+Steinernes Baumkreuz,48.159168,7.824975,http://lh4.ggpht.com/t3D28p2WO8buDU5T8YhNgNHauMzKujkq3bnuGcLStKxXt4DvEPyTaKevgxh7aVKYTAAdU1PzU65_ziQk4aO_
+1200 Jahre Heimbach,48.161438,7.829718,http://lh6.ggpht.com/8vd3tji2i_mw7WyXTixH4tGnY77GEluv5YgAl3vaQ-v6ezkQeuhYbQZri3HCMJkxEtY6fO_4TCfRuqoGOWB9TA
+Antike Mühlsteine,48.162559,7.829129,http://lh3.ggpht.com/HLTjq3-jyLVFcp1unHbYsmmW16UnVmxP96PPRj70gH9uXxV3JjxL7F8Zz0s2nrX_DLIViDqZdG7mgpeshxd0WA
+Antiker Brunnen,48.16146,7.827508,http://lh3.ggpht.com/92BRiozWOXtGfmLMw5GV81i_h4NVhzgZxpnRg05ALES2tQ-sVnU0NMYWlqZBhHTY61TjQkVel8k5F5qA8yrm
+Squirrel on the Nut,48.159726,7.829381,http://lh5.ggpht.com/6eAZrLt2z9NTul3e5aNZcMA9RGxHlUCgMujn6ja8gcPGP-u4FqvqIsTHbQuh9ipRlYu_lrp-HpB3raE_orDeIg
+Maria Statue ,48.160405,7.822454,http://lh6.ggpht.com/0zkM2p2JK696beX7j28raYnEHc-ZseoA7b-lMRAzTyB-CD5yrgQt5RfyOa_Nk5iqVK2M7ahY9ceztXui7B-b
+Holzmännle,48.117529,7.72386,http://lh3.googleusercontent.com/KPoPFnYq3GlyGyPjZofbBJ2MlPhvDIcgv76RivBJuaH9-8i4-g4CHt5ELJ0elLZBdHS0DqFM2bwycgisxHPN
+Riegeler Stadtstein,48.148067,7.739138,http://lh6.ggpht.com/BAqBSM8joXObgENVPOhUxV4_1bXEjZZz5z62kowkVp80iKVZJ0CofTP6MCOVarRwZ35aoIr-1N3tIc4A5cOr
+Wachturm Teningen,48.123463,7.815867,http://lh3.ggpht.com/8jEDFVGC-_7x8wTjcWqzGL-5TdzsfkUZboIzHqDc-W8OkqrGPCuTm3OAITIoD35kB9mVNiYXd8nzsMLYroM
+Stadion Teningen,48.121153,7.817151,http://lh3.googleusercontent.com/_Yhy34XrD0FxgMgBmrcXUuQ6kcjp4dZuSIMrZOyAgdjaOFLxTYQne1E5iGLMFmVHWDSJ_wLI_F7T3V_kutytQA
+Hände hoch,48.085567,7.830931,http://lh3.googleusercontent.com/mYSI7II--WvBIBmmB4hBwL0o-1dAQpMxx0asCUrZLpj8-sf_YsU928APz3HEw967nQb3uN9rr8zv_Mr1P9ZY
+Besucherbergwerk Grube Caroline,48.119133,7.909292,http://lh3.googleusercontent.com/-1NMq92W_teaKu7sfh7_mRbrpfarPb1dfD7vRU9v60sf2OE8uL-JK7kMB_1bzYTHxpXzz680du4_Ym9hnResEg
+Georg-Stüble Wirtschaft,48.091775,7.892962,http://lh5.ggpht.com/jii5IbahpZXdvK4nIsXzUJ72vOyoCG4XzTrQreY1xdlX-HhXLh3lEyww7EujJuUxNGtM-FI_BUpdX-J3_Qs_
+Kleiner Brunnen,48.087855,7.892853,http://lh4.ggpht.com/SstKEykwvjEvXevT-XKFwwIoLwIaNhq7NqJegko-3hnfm64dvwTK6YL1U3ZhbVg3aJ9AkDJi_AT2vCjOTpcK
+Alter Brunnen,48.090356,7.893042,http://lh4.ggpht.com/ooRGQ4tiuAYCdCdEFl9_jlR9TDBrpJ9-9Mxw7uErN67CXZANPADmxa8dl3O17Rm-LR3rUHCsqcnsgtpyVc-1
+Windmühle,48.090461,7.89222,http://lh3.ggpht.com/4tIAbLCtPk9UKxI9HlpLKvbRTN946mTu-vfEF-lCLLT5nXMlbfRO7ntCYrff-CwCIdflU_CstUIeCcD9Yjlh
+Caterpillar,48.110533,7.786572,http://lh5.ggpht.com/2v2rTGw2qF0VXinFVTgXQaJyxc4t8btU0uwUP-pT2R-XA_H7ymwoX2CvI-snL2gnPJz8n48xfgVhHhkEM7g
+Zahnrad,48.118409,7.792569,http://lh5.ggpht.com/vAUVn09Ag3Dy2foCRm1uL_xeNUJuF3Hit44qKRn7FXinAhbExOosrdI-9g-nfmscnRTD82IH9tPt8LL51gE
+Weinfass,48.126738,7.832387,http://lh3.googleusercontent.com/Rv2mkairL7TV_EpqhM-ODd6d10ITU-qYk4LD0yWxbFB_De1l6d2ENgrM8uOIqQtjnQS8u7Y3W9oiuFb5Wexx
+Bahnhof Köndringen,48.137366,7.80343,http://lh4.ggpht.com/hDcKue1mOBrPy0GoPY2kHq6jYixlLuVfsk31wlK4Hf2sJ85lEvdhZ1r6z7NnbTPEsPrVUj0r4YWWfLjwDlIc
+Brunnen Feuerwehr,48.138152,7.806279,http://lh4.ggpht.com/auocWoVjp5PAoUg5zhZ9WEZXZZdg1wU5NclSPxwGu_d143rMIz8Z-intUZfMuur9TumvmQ4nir0h8gs4CcA
+Winzerkapelle Köndringen,48.139194,7.803634,http://lh3.ggpht.com/ONmiyWylJ3E8kvEj3mCFq4rTKg-I2ZPB1kKikBmDDzcDa1JQfkkMwngjFay6muF3qeW0jbxhlNoYTvrHQeI
+Mostpresse mit Eisenspindel,48.139028,7.805999,http://lh6.ggpht.com/d1UID5yoFPfmb2x1whz7CIRcDna2losuy2tbgyNH_5XCq_0_fhxTiRLbcyWPHsjPUAcxkF3s90TWWuUjfGXxPQ
+Gasthaus zum Bahnhof,48.137093,7.804091,http://lh5.ggpht.com/0rJ0fHr7R8n4muMKIxBQ9RMhVGRM1Yl4oSQ51relIZuMyd1QwXepGnJPvopDbxOMsaiZQl99C0b94QamVatl
+Kath Kirche,48.13316,7.80725,http://lh3.googleusercontent.com/ASjNW1qw7lyJCw3Ow4BV-siRO4dVKAcSvmYYX35EFB2C-Ghqf2EKfNnXlzVx4l-1qrPKaklGzsImnXqE1GhD
+Sand Brunnen Mundingen Von 1870,48.135587,7.836183,http://lh3.googleusercontent.com/vhyOxYGFWkGaM7Gp7QTiGzX0YZL82dshvJofno72ES2aZjSuT-PMny1H0MPE2W35Q2u7bnj6SDjqH-Y5gjY-bw
+Winzergenossenschaft Mundingen,48.139869,7.830036,http://lh6.ggpht.com/BIW_JY5zEngJgYFzbps4zt9l17iNPR3KQzMHtUeK5vPgQstqy5pRqMMiM1UV4M5h_ws8qAY2d3fbCof3FX1rTA
+Historische Kirche,48.079958,7.810497,http://lh3.googleusercontent.com/vZIoM0OfPHfQCLg5QvPrt4CYZfdux7qdRHur1j05o8H0_Z9bc-hJCe3hK9UPNRbTokE9HwoDWHRMcE9gE1U
+Gedenkstein,48.079657,7.811204,http://lh3.googleusercontent.com/3TopYiqiGycrhfoALPtA8LUEz2ftyedtnbkxngYOujCHEMcoo7P7RJkmz8NpiOhi2sHKJL39i2gT_p6SJL_A
+Wöpplinsberger Wegweiser,48.124682,7.820023,http://lh3.ggpht.com/F15ZTcZ38MgP6qk3bjZUmS6vYEYhDIOIAGFNw9AWzNNKgD8LVa7cuigSOEDH7k2Ja5EhvCAJcLPhFOVVawjDyg
+Wegweiser Malterdingen,48.158319,7.784858,http://lh6.ggpht.com/KKQ9i-kd-N-TCQGEKS5EtupRfWkv1T-hMTK3yLOipRamp_0e1xZRx3qOnkJK0-rEdmwgaWv5qFKi4_xmzlQ
+Bergkirche Nimburg,48.096425,7.770187,http://lh3.googleusercontent.com/qyVrFkxlLMdZBjtZDFzPik4ra-BB1pQ-med-ROXOXASfMEb00SKqy_JmLkrpeoBmBCBUV_Bv5uLLnaWsV021
+Michaelskapelle,48.147376,7.752458,http://lh5.ggpht.com/oIaPImarZf-DI0rv9lPV5Fi6OqB0BMCBnrOnfcQ0lqU_HfZYiuNUF5TcqBTMNleZzI5ESkTbINwCQja5aF_8isQH2oJyaIw3PLl67HwHbwUCsx4
+Riegeler Brauerei,48.147424,7.754227,http://lh6.ggpht.com/4M4I7Odua5F7Hz-SYmNuElm_xO4gq6QsUfuuqS5nQeYIcb_VG_6eL-o_eeFTWx3j_7CLeDkHlMowEnb_qXY
+Zwei aufm Ast,48.098375,7.780488,http://lh4.ggpht.com/AXJKjtnT4hmDkGK_nMrd7Df7QvR59Ea8ebanDr0x5RtH6mz1w04sg9N7QtDxbn8K6x9TQU2flFtDscNB9zw
+Blumen Stein,48.156082,7.757009,http://lh6.ggpht.com/zEmLAHUZ8vZ58j-9-GObFni88sJWfqlbgWhWE0ujQyh_0Kx62kPwMJ-p2KqGPRAZiRuESDLfrb76woTnZVvWkA
+Kunschtkaschten ,48.155812,7.756948,http://lh6.ggpht.com/ci9DEJ3oa6_m_90DxjPiAczMvKi248T1nW4ZKcMsel8PwhjhrKMOgrT4WaMhBPAJIKCrWhvKs_U5cpzGl3ZJ
+Riegel Bahnhof,48.151792,7.770677,http://lh6.ggpht.com/2INGVAVmuAz96NaYqRm3dB52cqgK4tQtWzsZxSoj6reLk87cxBwjTxgsiDhx990nVLc6ICuSsnN_dNjGGno
+Jesus Kreuz,48.116607,7.997697,http://lh3.ggpht.com/3ZGBPyWwtJze63dPiZH4PQMigd5Q3yg2XiMBY6o410auTrs1V5VjTttHoScqC8MlkZKmsZi41voB3IIWhqdGQQ
+Holz im Riedlen,48.118677,7.747771,http://lh3.ggpht.com/NqSk_9bu1NDsYQ0M7pNKq9PLrVMUTcMnJA8OOBwCJL8blSy8ZuapR98NWH6hlfSWPWMO5XwjQyS4RjLfJuY
+glatz Kunst ,48.122134,7.747712,http://lh5.ggpht.com/6xMdK1eNf8C3x_yvx8UqBLwY6aPL8H_l0thQE1XWBS7MRENJkGUKbNy1GBP5qeu6VU4519MsdojOC7vxuM4
+Steinernes Rad,48.12046,7.743432,http://lh5.ggpht.com/azYYzeFFWCLxz5Wny4mlO19mVqiGfZdjS3d8Sx5aDsJtkkg0BUH4ru4GysrgAHAxEVuJPMNVZv7JqHJSB2fb
+Bergsteiger,48.120121,7.746382,http://lh4.ggpht.com/z1yphjJ2KP5dNxWFN4zooZXiEPlGPvaPAy6AEiSGROO6g16Hr2o6OcUcHoXBk8Z0wD0ZbEcbt04R6AtzeRsW
+Das Nest,48.12403,7.745107,http://lh6.ggpht.com/UNPXPs46dzY00XUcN5HpBd49B3OYZwxX8VaVRtdO2NmRnRC_zjutX57ewSZazN5x_cnF2W87acyg5vRp9Wyv9g
+Weingut August Häuber,48.11979,7.74076,http://lh4.ggpht.com/eBlFC8T1-ahtn7RqV7QK1cMzOkHFEc69ZYL9H-lVqz_7px6TPdb0d_KMJxge-91gDXGIURIfS7USp5U1N1I
+Neid und Haß...,48.124117,7.740015,null
+Kaiserstuhlstadion,48.119392,7.74427,http://lh5.ggpht.com/aeYzTweuMO52vcOA56505ZbR4PQXk0-9rF-752PIRLhFses-VVvL3C97syWqtZ4vmArIlIWJrlwgJSCtLmQu
+Rohrkunst,48.120502,7.749169,http://lh6.ggpht.com/uto-hh7bqiuOk8THCa8WgOXBi6CyrjvRJdEdubv0YI4FsC_np9eRq6EtcWXXEmy_4Y0-bZLzXIaz0pId_E31
+Gebrochener Würfel,48.124617,7.750837,http://lh3.googleusercontent.com/CSWGrOxaDwOzu8Wo2NebWE5EG4Y3QVoR5B2qwf-zEifzZmSmj973yAk-GrfCxyI5L1J78EOKin4V0k3U0Qxy
+Evangelisches Gemeindehaus,48.11948,7.742789,http://lh3.ggpht.com/sbgKkqJ5G9Dwxqc4TMsyQn3ZT94VjAbjQdoHp-EcuFhkKvaQeEOVWsqb2DpALwT91y6svolXQ-xexnNCCFBq
+Weinfässle,48.118361,7.740344,http://lh3.ggpht.com/5DFNSfj15CkGuVvAatPgBfEteaLnS4gytB3MZpIEMOcODfUbKFC3JUOwsj5Gzxmuoow7aN7cFfkVj8T0vS0n
+Weinfass,48.12021,7.746861,http://lh4.ggpht.com/pEmFCvpsernTRwG4M9XpDB0LL7medyP9jg9mJQShRGrhZmYfqchs4Ywono4yK8J8Q-3i0PDqbXIAYBOTjs8F
+Steinlöwe,48.124234,7.741039,http://lh3.ggpht.com/tqd8JuBsKFjKKvx6s4W4AYvLzxR_Rutl6MPAllW5ifWNW28e5Rwq_bm4TtLKdioIFkOCbhAdKnBEbk8OqsphZg
+Nebeneingang,48.121782,7.740849,null
+Figuren aus Stein,48.117453,7.745633,http://lh5.ggpht.com/mqGhB5K8uhXYy-YNt7gDgzW3PmbbYIUx7Udk-43W6VtZ4G-JizcCWRF0c2nXHV_SNZMEDLFGGjHqaTLHlyfW
+Sägeblätter,48.125761,7.75115,http://lh3.googleusercontent.com/rlrNwXXLg4hW9i3TZKsPK2aSnTVgM1JVNj3wDGYW1GX48qWlKs4hLOO-zDA0XWgdw4lgkXOy7IQ4_5Szh1EPng
+Schnapsbrennerei,48.117854,7.72542,http://lh5.ggpht.com/Kn8P3a2PU3iTargMKclomjv8eDPskZBv38OWzlvFDii3UOoIEkN--xq-z4ho0EDZJDNaRpK1B4BzsZd8Q2Q9
+Ehemalige Synagoge Eichstetten,48.093537,7.743563,http://lh3.googleusercontent.com/BSJYvDpJMeg2BZWi2sq1p4-K_vwaeBojai4u0mh-In9A1s_cJ3T7BKnqQrbXvP9mLMCSdC4hmJyhQOMX-FR-
+Fünf Bogen Brücke ,48.093399,7.749059,http://lh3.ggpht.com/ML3Po8fkNk3udZmVj8EKyhuyfsph6QyOlM3BAhdmVvnFRDfdeHu0iIHSEqK700x078u9yfhAuN4jfB5xwy2u
+Robben,48.150253,7.747769,http://lh4.ggpht.com/maRZb9ikgfRy7Uq-qVs3zaaMsgX5wTHx0ut_ysZF14_fzAg320F_1tiZdZ0acWnOQLxWXMeYK_aBqAgV-9g
+Champhol Platz,48.149522,7.749216,http://lh3.ggpht.com/gG5LV0EH-gI7rjM7frD5WARLLgS-hBmyT2b8FBDan2DvJZyUDwC45BwOiToLxR05oEcDD_a3K-0q458udWn3EQ
+Brunnen St. Anton,48.150435,7.748056,http://lh6.ggpht.com/zb6zSX1T1w7SWF6KczSX9kODcSD6dVc0cSXUqYVSy187YIm82gDr059KYIr7yCvL4EeOnRwsudfFQ4BxaZEejQ
+Bewegende Kunst,48.150916,7.750949,http://lh6.ggpht.com/x3PMcCzqjEcmqPBu09TAOAwiYa7d2O74JzEBGGGuxfWANnC_rrW_X5UtI353asCbSq9fhGLx4aYUw3l2q9mA
+Römische Marktbasilika,48.151175,7.747916,http://lh5.ggpht.com/xzNxrXng5N5W9366xcNPmqG-SKzHG4Mg9Uu8xFDyZxBINNp8wVsmh2NzYD7Jh-TDqj9Cupu58tmvnxBN5jPlLg
+Römischer Ziehbrunnen,48.149592,7.748393,http://lh6.ggpht.com/tBx1qQvp4GPdyBE1bHIk80-jyIW7MfKjMo-wvBTB43_m9zLy_cDPTdZzF3MfhbmkWa3W9YOoUAjjdKljfpU
+Westtor von Lager 1,48.151807,7.746117,http://lh4.ggpht.com/Up-y2fDk4qXzxDu3nlHfGrutw1Z4UhN8HuGYaszaBxpG5O-YFWszRBS27pMJOspTK9sBaP50Ez-OSsIZT-MNww
+Ehemaliges Schwesternhaus,48.152099,7.750232,http://lh6.ggpht.com/-8vQWg8sZaKwA4IngGW5TGNcEAWEw_3ajXw0XKtpJcrCuxQq8anYDH0CdwEV5vzLRUVFyBV6DwPN5jti6vWa
+Wasserwerk Riegel,48.147836,7.750963,http://lh3.ggpht.com/J1sz-ybHvFVpcFsvDtVL4AM6QKueLPmZ44UslH7ntLQbH6bK0Rx5azzPgRRFaA_tFikrGJoqAaQEI7Z703jpwA
+Römischer Ziehbrunnen,48.153917,7.746316,http://lh3.ggpht.com/63f_pV7euqtzRkYDnz9ADbLs6eUmdNnJcWpLrGhq04vLQoh8tUJ8LcFohcfMUrshLHofR5DZae37w72_h-PY
+Wegstein,48.152766,7.747285,http://lh3.ggpht.com/k3V8KrH0hv_aCb99QnFTzElkI3MabE0nUUxeH0N3Rt-tONIfm2bX4Wfb1igGUhnGUJvz73uT52YUeYOyXwQ
+Rathaus Riegel,48.150567,7.750323,http://lh4.ggpht.com/uk7Qf20awa32QEgcqTZt_OWPpyC2pdJDcSLJayQmkcpehw_CHtxvE-TmiuPhO5qxA8ntMXL2eqhZjKEAYIY7
+Wandkunst Der Reiter,48.148573,7.750843,http://lh4.ggpht.com/S8BV-d6lQFK9lmocrOzgB-0nn0zMySmPFxngQnjkBS-PwpEyNAdzIeHEDpZ2Mvr95LNo2PTK-vwDfTIkYUs
+Mithras Tempel,48.149972,7.746616,http://lh4.ggpht.com/1-B-PVZqCiKq0mzVJZCFjMpsLTzKqUqA5buMfrN3ZTtomsCZWvslhvWkDTejpitoAcXKV1AfIAdDGeurC3C1
+Riegeler Kopfbahnhof,48.153758,7.750578,http://lh5.ggpht.com/DF_N8lBi4ZAKAT16T_H7_rqwDfuRTcRGJ1-RcahtRpsBJ4PMe3ngJuFVA_7201K8FAcgegy6o4nAs_dSaGLO
+Friedhof Seiteneingang,48.153541,7.747115,http://lh5.ggpht.com/74eGc8RImgGdTK8StevjpuBvt8l40H_DuZ1A0gUJYknEP19yI2uXj8FrGeJl14DeYUjTMn6WShRHHo23luMS
+Roemerbrunnen,48.151106,7.749991,http://lh6.ggpht.com/05wUQPU3SDAMVqXxOYq2UykcKDhasrWJryF6zM-jOLFxkS-RhBT6haIPLq81WIKNeRia6mTIEi69fJ5yAoH9
+Ev. Kirche Riegel am Kaiserstuhl ,48.152024,7.747578,http://lh6.ggpht.com/FQnWu6sAvlz8ESWbb6vdW8W22Vnm0kWRnzmRVo3FCBgH7kpp--li-FMdVzbUbqXutiHJgLqlafK163W8QpTG
+Rusty Bikes,48.148196,7.745948,http://lh5.ggpht.com/XjDTS9quDv0H5FEGI4mcMdtCaUO0MK1fEuqZun8_vAlvHbZVyXj8_iyxJaW2MyhOHYeOmGHIqWo9Gki58yuA
+Wegkreuz,48.149322,7.747486,http://lh6.ggpht.com/huGOmLeA_9Q-8KTvB3mH2hjNJ1uxryuRtjzXS4LwFINp4Q3OMwFcnHlDg0EuHOAAnYE1WR2MDVu5OoBuenrqEQ
+Krönlein,48.121911,7.734826,http://lh5.ggpht.com/entVMpQeXb5dmARujTInTS9FNXRQpSWzCGItCZZqwa_c0oxXb4WjI7WAECw3q6N459FqXO52oVCK4mVz8kE
+Triple Cross,48.124368,7.736007,http://lh6.ggpht.com/_bnX9Qfrxf5bZokfMAIodVRBfMjUeZQDZ7MM2urhP4rPeDOY4J8kH-qwU7QegarAizjm-jZaIYw2-ngX9CQ
+Schneckenbrunnen,48.121447,7.733742,http://lh3.ggpht.com/IMbL6jS3OaqcIihWlPQX7Fcrdi63Q9E89DSze2Fpj89Ne-AMl-mefAx3OPSSf_EhrhBHyUETdrgg8qJ083RRYA
+Bäckereien Kunst,48.121249,7.738795,http://lh5.ggpht.com/xcJQgHWiSPatKvNvEg4C-qQQAYGJXPspt4ZEZhG4B6luURPSLX747wg7UiF3pWYNztQBgP9Iwb4FYjcsUWF8Tw
+Gartenengel,48.121169,7.731645,http://lh5.ggpht.com/kPG0YhRNWWo3Mf_yy3jAbKyi6gZV0ZuMdOUmN_5hLoqndmuMXzCIhpmHDqmX27_Nru-bKtaSkbnH0B1LfyKo
+Die Ernte,48.120833,7.734401,http://lh6.ggpht.com/zIrfQIjsVXdFj-Iv2ioWbyUAXAdxIvFzP4LX6m3y6hISD9akMx4C2MjAZ_KqXWgOO3Pk5Auu8tdKSNO5UtnAgQ
+Zum Hecht,48.124337,7.738372,http://lh5.ggpht.com/Ne4Xqj0TzFCI7Wpi_XVaFn4P8HtjnWt8OlcQ3NCEV4YJqTCmqsna8OZotDuROZc41CkX1BL70_vdRdzcqUu-1Q
+Rathausbrunnen,48.123315,7.736346,http://lh4.ggpht.com/lZ6KyvNj_Hnt1Zil-epyTaagnWz01YkVzXX5UWFVTxk3nsKMy2xukzL6Hfnmv-ah-30pY6Au8Zo2dKJibgZQPA
+Müde Frau Stein,48.122262,7.732962,http://lh4.ggpht.com/YaVjbLJpo6khBkVPZi-17njh1huQhC7GDo5wCfB8pZWJERWO133NktcwAZ6WW0rjGUO7MnStp4WKMURWD4-G
+Das Schönste Wappen,48.12293,7.738023,http://lh4.ggpht.com/no_brfkwCGuSv3fMCr6r2kaECyNGZnHEwWN1JLk-FCe3G1K7J3BGeid_MWndWz_simpFKSotZt-fQO6M_CQ
+Horse Mural,48.120279,7.737716,http://lh3.ggpht.com/Tq-j2YbBT14WYHEbvcqxZYLkUircsBlscoruJauhpUf0OjnoLI7Cjs19JwqGXeGLHGEp4pAukM987X7PGYM
+Lammkunst,48.123631,7.739297,http://lh3.ggpht.com/6IFiHujh7y1T6YGorKOvmgDBewOqC-7Y4G05-4eiPUkKILfKiFD98xeUfHyOs8IqShH3yQGEaZ13BblV-i8
+Bahlinger Brunnen,48.118584,7.733333,http://lh3.ggpht.com/c_NJXtxmbhmHjTqY-avLupZ3Wru4OE8wZPqDH4AjQVgPenGPDPTSxeF8sGfUUUjVy3r2p4QVydC-BiTqd_9E
+Dorfbrunnen,48.124332,7.738039,http://lh5.ggpht.com/JJgVyR9izNpRREtOViF1iEBTX--PYoUh2hNybe8ll4JKBP58LigHqa55LnOAQ05yxJkbhAsSUoL62DVHii0
+Weinkompass,48.122786,7.737043,http://lh3.ggpht.com/HQQK1ZGxVYhF9v4qvgBymCz0qUwnI3zjdHdJXbuvqzX1Q8wjKmMCA3Mk0jiQI5wCKM10mi7COcAEkkymy58
+Zahn Der Zeit,48.116743,7.868905,http://lh3.googleusercontent.com/qyPBuZi0KhUdisK-p6fAuxnWcy2_C4Lc6edEyVItUuiQFmzXv4kH9xqdrI8L0prWup5Mh6sYt_onSa_I9xz-
+Verschlungene Kreise Emmendingen,48.115562,7.870781,http://lh3.googleusercontent.com/bAe0cLp0aW_aGGrqeWnI3frsAvOyZX3-eIUf7BTo3krpSCc7xp_P6WW8uGvGpwVwup3cELPqSjwdoZvhti3o7g
+Kirche Im ZfP Emmendingen,48.116126,7.868467,http://lh3.googleusercontent.com/tAHGeMhcEZYlve8tTfJZKj5n_uHLe1eAHJJ0MHz4zi4_e8JW9Uglt8oRSdwf6VVLbLaUh90wc4CmQUfERWM6
+Ironman,48.11589,7.865086,http://lh3.googleusercontent.com/oqXtU07SUZ9QLfUgBEIhlRyM9RqNDBt28cbnLOl_Oddl7AGLHFC1i0hnyHtfTW4EMs742h2JpqG9sFvaC7k8
+Steingesicht,48.166014,7.829152,http://lh6.ggpht.com/AA5cyPymaWbnRaGayx-Oz1yapRcdkhkrAXAgfO0no2H9LpGp1NDjl8OGusfvLkmboAYVAdFucNShVCycFhE
+Historischer Brunnen No. 3 of 7,48.16395,7.828792,http://lh3.ggpht.com/XQ2b6wUPm4mYfJZc97ojV9Cgqc2igWgRcsss5bDVxnZBgOS1pi6sq_CsgjxkYC-0dDlgb5Ku5ADk4UU5zUoLLg
+Wappen der Abtei St. Gallus,48.164953,7.829777,http://lh5.ggpht.com/lx7EX6FKKpPqYvINz-N0w04Nwtp-MsuMcnJzsJYK5Zhgs8-MTpM0a22z8ObiXh_CwMnQD9kNKFmiadOCdeyV
+Rankackerkreuz,48.165765,7.824689,http://lh3.googleusercontent.com/rOtkviwfeQfXtmzl14XZhteGO_MhSjJKxJz3-1mEFHzrnBClNgw1V2wY3NfHJWAC6redSj7nKbgNEkGh0G4
+Im Allmendwald,48.114839,7.825313,http://lh3.googleusercontent.com/WYZ0zxNfOQXsx7ctAJOD6r5YCc3IKkcia5cBx_nQ0FfvZAjm1cepppIWms5ppMe1aXCb8kOH9mwe5Kd-I0K9
+Pilzbrunnen,48.163267,7.797139,http://lh6.ggpht.com/iTZaIDS8wXaSAo5ng-TrczRfV-unktsWUrNpEkmxfXXTS-1eyhMcEjP2pWyDxSM3gZIenpJH4QNmLcukOQbdoQ
+Bunker,48.092071,7.758052,http://lh5.ggpht.com/rYPlV5Jico5OaMFCYAPPS_UxOWn-jQlXCS83vj39Z3I9xChxz5acMPlw19XhA648eUUkFA6heMK8IZc8fpsT
+Schneckenbrunnen,48.130029,8.012594,http://lh4.ggpht.com/RWS-GDOHplpCnQfbTi6R-As-T8HRnwFKa9HDKRNxoqgPMfa-s5qchFZnU4RBCQhbpWaoqRjv5mqQjPhPBU888A
+Kinder Galaxy,47.982595,7.810257,http://lh6.ggpht.com/XOACydvnP6z-FN5R4H1IY1GHgIKtcpzPOen-zafSa1b0x819SkDONrltN9GMOi7iZBsv1sxv8pav3nQYwkk
+Holbeinplatz,47.981445,7.845121,http://lh4.ggpht.com/ulKVDYciopTVTXmNSlCfLvGWLWKliGzQmnD0KzjI97dQSf2Wxad9CDUvIjA5OE8_GysNkHrn-zoA9FLH6i4
+Wiehre Ritter,47.981666,7.848055,http://lh3.ggpht.com/QtJ6W0m1ShlBJ_cpKzLGQjXzKcr_B5MEUwEcSDWK34iASO_7wX_ZyOi4moIVAvyp8nNiNa4zeScQm4tRnCaZtvYqHZSkePvF5fi0nbroT91gtkQ
+Waldeck Rondell,47.980753,7.849551,http://lh5.ggpht.com/agV4IxyoxKII7BjPNfZH4vWTx_WF2aiIRa8qpcic8JCc2yrkDlrY98JdprNrVezprZVI9aj1q9MIB-cBTuyguXUTSfkBarphvs3zPOHJEGVykdppwg
+Plätscherbrunnenportal,47.984565,7.840844,http://lh6.ggpht.com/bHYEARqJWUTmF759GJEV-u2FmaRvEEZB7_jAYtNeD3ECLmG3JkoHayxxaUS0B3w4jx-DzjLgHjMVmAvwl1U
+I. Jesus wird verurteilt,47.981665,7.838852,http://lh3.ggpht.com/vGAPdR4AAUuwX0mhI9Hsm3b_oUblF-gvXkdXs_kPAzYa1TTfPkjlVYfUclJadHj7K08dRE_howhWcgQcRLhu
+Terassengarten Loretto Krankenhaus,47.982234,7.840305,http://lh3.ggpht.com/qX9x7xHmOhImeLug-HsctUN0AZWIwQ5-iIgHTYfXG8p8_2uShgah--zIwHCK0EF9ixbh3bKrIYrcUk4hi8uH
+House of Dwarfs,47.980805,7.833876,http://lh6.ggpht.com/208iw_y0-4_BPq0owDz4tXs7yM5IRwjLuH1sNucga8H7SUFyuFuYVDkfKB34xkn8b4E8DSyUgoJWECm_T6WNPw
+VII. Jesus fällt das zweite Mal,47.981732,7.837622,http://lh5.ggpht.com/gTLPbaLC2XpyB4RTFnBhhrRoAOQ52FcfpKNq_9q3KzlitpB0vBAQp8oSy8j12Xz_i3J2UxZpZCkGBSICUEeT
+XIIII  Leichnam ins Grab,47.981216,7.837763,http://lh6.ggpht.com/z8QC8q6P5JsBuBJ3ZdzTi57zrFEnq29W3tbdQUPor3LpcW5XxSOXdVusXYZa0688BsjbIO-33kr6eflQPhE
+Upside Down Bear,47.978545,7.830251,http://lh5.ggpht.com/VPBXgf8UTJlaBQrg3EnH2whRLUA06UQrQ8YWzCeKPRbprQMvn4BG3hjag_C4uACUyvUW9vcCoYWsv7a_BrN9
+Jesus Christus,47.981465,7.838618,http://lh5.ggpht.com/Ipa_84oCrBFbMIJda5WLwJCUPQiAG0ezHCuoNooVD3JWkpxV9VboBrpW8vuiTKbiaFfqD7qOHrA2XYVzAgCK
+Jesu Kreuz Andreas,47.979105,7.808623,http://lh3.ggpht.com/AYUZxqzfYFudohhfEoesqqX0D-nqSmZJ3fVlIggbSAzz2IurjLCRwNJRMUjiIIFegsQb2rIN8FJnEI5rTOA
+Wigwam,47.976128,7.817982,http://lh5.ggpht.com/JRf0U8Z9Q8QNYttlBeKTrekWNyVTvVxvgeP3cuCfvzncztf3Y0um4IEP6P70uogN4L2QVFFrfc4n_j-QiOp4
+Sonnenuhr,47.97872,7.81101,http://lh4.ggpht.com/6LxLTABBH__gSkJWXMRo8fmjHRAUFMCyxIdR0loR7eyWP_fLOE4w0_VuCN_r9_3HS-b-GPInlDfL5w20CbvC
+Reblauszunft Statue,47.978592,7.811319,http://lh3.ggpht.com/vPhMlEQLGVrftp8VKoG-w9-9EQdqMxz0LjbjiXTqS9FCHc5rG4JSrGMa99PazALniAKVH9ePIBP2FsbfTJVwC7RnH6GbOEh-1xGn_T13n2iVFGRZ
+Höhlenmalerei,47.976909,7.814761,http://lh5.ggpht.com/JSi-LuBbxz-Pv6eA757tOOjU3jcC2ZAue9HudXt2Fq0WHAdYMo96nUNgLuwK0v4xElVS9e5_CI5rqj56i9UE
+Noch mehr Graffiti,47.976537,7.81239,http://lh5.ggpht.com/Ay6XeAJX2PUe3D40fBbhR5TMkbmvapJBT55oUOgtEgi0ZozPwqfjdv4KuuXWbRZvxWQDj_46m8H4hY_l6A3U
+Big Table,47.979914,7.821559,http://lh4.ggpht.com/oUBb5X4a1sBOEC8tWcB4EkKjCe382mu3wnSYu_zvRpJhOrfodO0x8XVjAM9wKXEXcxNhIXtebYZfd8e8_2pSDw
+Greenergy,47.981706,7.825419,http://lh3.googleusercontent.com/a1_3XSh_LeXhX72hnZXhQv5jTMPsuFcI0pxOCiWphKNPLw5Gzdt-PoeI2Q3_nkCVdNFCt2RxS3BKYb95WKwd
+Amöbe,47.976549,7.825817,http://lh3.ggpht.com/nUVNbxeS2zxSGPFDvtQeIk1eAYFfCEbqJQIKPc0reKoLgDgzmWJ25HWCjBJVpeTZutMWB-VanI8yctJXk7JQ
+Lurchi-Brunnen,47.975381,7.823571,http://lh5.ggpht.com/4ef6hxzM1uTgqWRY5WHxb_Xikm4gWsJEGbfo5lCurp_xC-Ufkga9eMOQdVlM3tZGCvz9ns3XX9NiieO4GdHm
+Best Beer in Town,47.979226,7.819406,http://lh6.ggpht.com/iJ-ubVKStEbNx4IN0ODTQX6j8iv-OjBPjt1izY7eVk2kDlRDEOUVUpucznuSqFkUW2GtkvfMu7Pyw-3Nhr-e
+Man With Arm,47.979171,7.827973,http://lh5.ggpht.com/CtR_Nfhf7j41V-pKZWH92P_JtXTSYVjln38mGB1lN_2vTztIvr_25H7l9nqvmHUGxH8NFuEBU0KzBMfJ8oPvpg
+Uhrentor,47.974571,7.827127,http://lh4.ggpht.com/gTtsfShUjrSTQC06OWTghm0LQer56qz6jFaEaPBBGBurD2iFmpkgg2tJGWpvelkbXWCtw329yCmnv_La6aO1
+Multistar,47.974239,7.828368,http://lh3.googleusercontent.com/QptFIj8H4iv-S5ftM1J-2qZOlAi2OrrSQdm9G8oIO6lz6ePycRU_9xsadn8dLqvJs8JkwzZq9v-R27bSP58iFA
+Der Hahn,47.97423,7.82538,http://lh3.googleusercontent.com/LfWkJVHsMpBqXsQe2W85cJBpI8Es6GJrLNXUMBnhPf7xLKqM6QjyHidbDSagrSiVyFaktg-Kyrtqsv2ODWbV
+Stepping Stones,47.973686,7.828384,http://lh3.ggpht.com/rl5JXTd_HKatnGyiNfI06RDl1TXFcyUg0GzuHqsscqI9Z0SqoE7XYWl1H6qYk9c6R-YLlA_J9ckwAkK8_OnA
+Moin Blocks,47.974301,7.829809,http://lh5.ggpht.com/FT3cPvsiF-AsEOGBoOBq9GGIHUv1YfAigHSDdBex2_zSUV3MhxsQ8bN4abQAi5OSCfyc_EcvXA_LNvvBa1Y7
+Steinofen,47.974764,7.823236,http://lh5.ggpht.com/2f2easoq6OrUXoxqAILtH3Hp4xS9Kn_kE80UWenX_NkVLg_dcTN1JrmlELYm4YYKn8PYEmb9ClIQPRAjxZE5
+Geschwungener Brunnen,47.974758,7.825413,http://lh5.ggpht.com/6_gLDo7pvmBrRaJU3mqtPU9ndeeX9t-4oLKjv7VUDkxw2LLwmd8WIf7iwtugL5k8C1vg_x2qR75Fo_Ps0Ics
+Doppelherz,47.973631,7.820224,http://lh3.ggpht.com/HNgzYdm7OKUCUzwrRkeQFoI-7UcRCujf502ckPI-NkFngG5O8Z3tFn13iN5W6TDLQi3YyVehT8OOmqF_hSM_
+Schneckenbrunnen Spemannplatz,47.971591,7.837683,http://lh6.ggpht.com/fqq2ceLLIqqOUObLgXbWUU2Bo6mpcrxn3I3RBy9G0VHbhiuTPtWraJL4_u3OzYvV2dmFVcrLk52utCh9Mjz-3g
+Fraxinus Exelsior,47.969988,7.839202,http://lh5.ggpht.com/DdHtqOu3EpakhKH_pKB8mwYjvAN5Be48qzVgy-KzxIjhlnvTrs55MS42GwInTCObfamuwsIR2R9NrlnU_L2U
+Unser Wald,47.97087,7.837378,http://lh3.googleusercontent.com/r-8C0-muJ7Jt5RpfYHkm2j4ohiVeIRN1SujlZPVVSZ8ONEV_aJpDups5P56Ne1JdnDd8dnJ5XHwOSE1_VivZ
+Pinus Silvestris,47.97033,7.839774,http://lh3.ggpht.com/WaCWUqqXAVdKondIfz0n4u6wN7c1hu-msoaQsdEackXbSlrRpaNH2gvS5IHnpoGm9IuNRG11ix3_g-pBISACrg
+Waldhaus Freiburg,47.972812,7.841885,http://lh6.ggpht.com/uHDk3UfAdq6EpLTfikJBMkUfcoHiKNm8-u3UGSZjyw0KZeucCPuPAzLOwzL5lufikhHfn2mIzgLjE4RrV0W56SQP2hLx8mQ0cXv_DChdSQng0zsr
+Waldmensch Schneewittchen,47.970887,7.843907,http://lh3.ggpht.com/m9Chd3c9H91vgdG4kMCbHxpRtYlChn2DJslK5TyxzAUZkHDi0M4Qp4-HZ4jIBsWLbVhtCdj8D1LbXcVgeFS-
+Hexenpilz,47.971329,7.84226,http://lh5.ggpht.com/rIVyh2Twv37sMIBw3uBqH1-TJLe-1v-T2yQ6AUxxg6dxOwwJll3t5xndSe9X5asTn_KSh1UC66cBPxtYflwU
+Jägerbrunnen,47.970978,7.851869,http://lh5.ggpht.com/zXEIGXARpVzuxdwyeuZ67Q4PVBlpL_zHHzHyHdUVT8wS7cH9VTBeqBC38q__bh3pzLAkfqz53C7AytU2OYY
+Braunkohlewaldschautafel,47.973652,7.849002,http://lh3.googleusercontent.com/ZUAqPoWkWb7zKl8ff7PbUhqQrCDnOyYhnYncmfqX9ZXVjOwIBiRmG2JNw8inuRMrVcLNoqdCsR7_qmUNY-zm
+Waldmenschenreich,47.969775,7.845655,http://lh3.googleusercontent.com/4B9AQ5qB3uCfd8b2FqdoxYsEsIHhqwMZDicThHez-yr9DOep3bHlA72Y2F5tA-s1FBVyWpRoyUxnp9P5KIM
+Einfallsreicher Brunnen,47.964742,7.826925,http://lh3.googleusercontent.com/haE_CZUw0kI67eU9bUh3NiuXv-l7PkNDXido4IevA9tIdJObiCXs7wkBiEnINlpRDiBiKhdxEkXcskA0Thre
+Hirsch-Mosaik Merzhausen,47.965627,7.826496,http://lh3.googleusercontent.com/V0rjHnT_WiuEaq9lfWMt1KtFST4t41O1tspSKbRgUuNHIkiT9GOuOxR94AMzRkG15Dd82BkdUCX7xXvFE8rf
+Cross at a Crossing,47.966055,7.828599,http://lh3.googleusercontent.com/LWDijIsUt1QvNu7q4qCtO_tOX8u3RRJw0vW6WCMxx8kmNg6Q8UTiJ9d92OIwvmlGQKT4qe0XH9WXPbzVrkI
+Forellenbrunnen Merzhausen,47.966434,7.824552,http://lh3.ggpht.com/F5U7On4wk6ZJbp1nyD8PFrJz7GJbW5Kazo1n5XXcgtonccc1A4IeTMSmcpvrZaLErWpCIsJEDdWF764hkokv
+Brunnen vor dem Rathaus Merzhausen,47.966113,7.825685,http://lh3.googleusercontent.com/WYEkKah63uc_1S0XZ7t7BCB3XtZzmeITRYiQPBP5JBa6yOpv3mNhHeJmLKcbsn5-BSC-bgcRbTJRVkgLftByYA
+Weinwegtafel,47.967203,7.821009,http://lh3.googleusercontent.com/SCnRLY2zq96kMbc7CDFCu4nYB6pfaAZ0S1z6h4WY_Vxns-M4z3cmz4scNbXdMKwHN3mZIti-u4H30UqJ_ahcgw
+Breite Rutsche,47.974224,7.814846,http://lh3.googleusercontent.com/0lAEeLJfVaCamGYyTEZAvpr0AEphC6jt0NGVEtDYBoDXQEunLNkS3K727AAvQ2Yh-N1ZpkXr8fPF9_rY6jwl
+Nashorn,47.974256,7.818121,http://lh5.ggpht.com/m8rO66WirwFX4eolX-P9h9oynruBpD9GSOeZgABJI2Lfh6K_oDr9PaU1jybjRV4PnBerOF20rB9A-53MqEktwpQfY4rpteveiOmXYQPAvaHHbZw
+Gedenkstein TV St. Georgen,47.972109,7.810069,http://lh5.ggpht.com/LsiCZ1gZKHM23fBmmShM3W3kWjlz9UVrhBWFvwle8XTtkBP1GaFwLJJ5XmBn9o60XmK6Q33mJifj30tDHUYz
+Brunnen Im Jesuiten,47.966258,7.817442,http://lh3.googleusercontent.com/wYoYuqIQCIEKyeE0aPbQ5SEV7j4S7hDJlWT4qts6seFMLSnkln3GonHfb-qxAnrFdA3IBqd8sASPY_nuSSSj
+Copper cross,47.965494,7.83352,http://lh6.ggpht.com/y5onGX2_iGZ3IYEJWcGU7ROKI8ihUgZVeM-Ne-N0oxeds1tVIiyBjSbAWvNQ4eQpl8xjL2jqVu6D-uWHljYH
+Stadtrat Karl Walterspiel,47.96618,7.836113,http://lh3.googleusercontent.com/huwDKpcPpY99kg84VL-Lm0EBME2H3jayJUYFeqFrwHOymEtVC3-Wp5LJ4KXzHmIlYmGRXGLG_PmqzspmDkaZNQ
+Playground Günterstal,47.968131,7.853047,http://lh6.ggpht.com/5XhdIwr36VQQBvKiAuDkDfJQU8ZP-Lws5VQWBmwq5barT8jOpStKOv1FmRs9ZiAg3sa9rXJKgjovMLuEgwMy
+Jaeger Brunnen,47.971354,7.852956,http://lh3.googleusercontent.com/kDhl5wqc0nCTxUwtWxr-iE8wEPpeLi721HAFRtanlmFL6yf7hgs0eO2LZVpRsYUMzD-9peg2Ab5i_nTuRt3F
+Quercus robur Stieleiche,47.968875,7.854033,http://lh5.ggpht.com/o5cGTBQ01X_MrgIiXkiaVsRN2pLgtXztrfrbdHbkJ_lSm01gk7VdsRr7V-l0_RjlXtSKHwFxq_8FVF3AzliB
+Zur Ehre Gottes,47.980874,7.883157,http://lh3.googleusercontent.com/8hdQDik-tX1koaxbgPahIiq3w2oBNjTKuDOBfP4MMRMy6MPmbHz_v6GEyfyG7CmuoladfJb9_r3O0PGhFBsR
+Sägemännchen,47.978626,7.886146,http://lh6.ggpht.com/wb2dK4xuOObaqdH_Ejubr-Lft1oPrQsLCsAB-WlJyOBypwi76MSz_9K37t0RsZqHSnYOeSe8ytzlco1cpB6R
+Münsterspitze Günterstal,47.962088,7.861815,http://lh4.ggpht.com/ncZEhNM9XvDebL9OI1q8ieE0po2AXfMDQLGiw89a-dsivzEpamvzIDiEJTSYO7wVZ7T5fdbaGMNRcm8LqYn-PA
+Wegstein Eselsbackenweg,47.980813,7.85814,http://lh5.ggpht.com/BD9WNutvwtMnbYRAB9qLU6HH_51q7Lko-bHhJX8nsKz5oT-X9B3O-milf-z8MOgZrs0g-qypo9payjpdokE
+Wegweiser Jägermattenweg,47.981035,7.863434,http://lh4.ggpht.com/G6WUWIzW7ikhCrAkfPhTKcC0DYSojj45jTvgPVCYgFLmYhp0DC1fj9zmZ0LLoTOOL8Tj9VoDZnZGwHRWwIc
+Trimmdichpfad Hangelleiter,47.980789,7.856051,http://lh6.ggpht.com/NfcTJp9zF4QupGqfM3ByKrj-yP3O3uyXR2I11a4nEebnZ-4c1BEv1v0Kzo41baTfw-eu8fGmCAWWrdAjGvUy
+2000 Meter,47.981702,7.857034,http://lh4.ggpht.com/Q7OOJnv8DGhlMPsdgvMrQy-8GwPOyyi97mbIWO3g_u0e_8WfPCxxviHfNnzxKSdm5TiQr-r6Gr25Ifb-fyVv
+Drachennest,47.981165,7.85474,http://lh3.ggpht.com/rm4xZtVdd901ptd_L36DtQtwxU8sFFlRGhFDivPH6s99papLr59bn1prI2OmvWBDOPdfUUfVLB9Wb3amPnA
+Wegweiser Trimmdichpfad,47.980426,7.855463,http://lh4.ggpht.com/SfRyWc-py0Ml3ESJbvUoKSZadir8Gp3F3y_pF1Ffkz5As9T0_lYc9-ar-hM7Ru4U5uxrT4lwqOQxAoyTeRZK
+Trimmdichpfad Reckstangen,47.981651,7.857554,http://lh5.ggpht.com/vpmxU7h6QY0zIply6ZEmp8c3g55HOv2StmYXxoLt2xvHB3mf0qVVhqEz-0_wWW2LBKvMEuJ1UscdbSX_wUU
+Deicheleweiher oder St. Valentin,47.980148,7.856391,http://lh4.ggpht.com/GcbnBBBMFXAcSbV0hda4padjZcvmCufq_1iSQt4dNkHFC-e1als_blsNQbT5fOGLEoZbqWrhcjzeQGfLXtrS1g
+Wegweiser Jägermattenweg II,47.980965,7.85916,http://lh3.ggpht.com/71nSJvo_IBp4I__ck9J46cG1aiIpty0eHnxMYbFQ-rOdW0mnBCFVIzMkycP9zuDYlK0FqH_1_d1aZ5qgXvCO6Q
+Altes Rathaus Littenweiler,47.97931,7.895824,http://lh3.googleusercontent.com/xkcd0VxKIYDBuPdDZzJvR-LsTzS3XdqSN1calsWzrEsT4yWG0XVs9tGu_nY6fVi4d6vipC0dbB2QP80mMPE
+Cubes Sculpture,47.981443,7.893425,http://lh5.ggpht.com/on6rKGgjxmwwQcBsU2G4oXZLKKDRYbdOUr62miqp9vkpA_eIxf0lkB2FYOEKwhJ-O0ARKT9IAx2oli6z3DiWIw
+3 Säulen,47.980258,7.888919,http://lh3.ggpht.com/I0sfP-mM-NRgjbOpeK-3d9Ly_PXBS25sGHohbJnprs4Fw_PETipAlZQJw3Ka9ocU25ocZQZ1YaX8YCKJHrqXsgXzPFYH6ugLx9ZgVP7DvG8hXYk
+Die Hoffnung Ist Blau,47.980793,7.889535,http://lh5.ggpht.com/HTBi4jYy5zR8lom_lkdVb8GNMLbQatLA1GDOY8i8rWwsiabnajYHiz_4HK6z4hpklMNiQnYkbDvjfQSp9__y
+Frauenstatue Bergäcker,47.982338,7.887384,http://lh5.ggpht.com/KOBnXMQ9p4FfCd67qvtOHw4YDXj1NPdvIQx6PsrHrAaBust1Z_PvHrcr7wB_Ryb89YqywLvg2BuP9K_jTGAL
+Copy Cat,47.980684,7.89672,http://lh6.ggpht.com/SHSzfkqY8HAntAv4r8RXoLYh_U-pm26stPQnpnPfbZPcFuMzwwzbJn7AmdkKt2fp43ey8XUq7m3CwZyAeaI
+Dschungel,47.981069,7.895431,http://lh5.ggpht.com/IHsfTN5PO98lTg_LQ1VsPjBQQK6tZyLpCnKYmKTwvqWTORYU4GZ-GKFXORfE_DOHeF1RKIcCiHodEchpsYG2
+Frosch König,47.981212,7.889596,http://lh6.ggpht.com/WTB6tUkzkWLmVLCdNsAVs6VJr27URsH-Q7VF1Ku13kTIjVXCTGu2ZiLtvHfjNxi0qf9KlJJkbY7Hp90CpcOI
+Chromosomen,47.980678,7.892605,http://lh4.ggpht.com/8XhS8rdcnAmPZSM9Ig8TNCdzX9Wk_vtZDnfdYYrpSkRyA1KBmZtUlhNCVuzstk6OqNBHghQvPpOkE6SHQSN4ww
+Menschenkreuz,47.982328,7.888611,http://lh6.ggpht.com/0HK5NY_sKCHlpAnWRraNKyimR2jAuFCD7iiX4tjVqLUpm-bNCuzwGL74y8eCF-GHLeiv_faoIUrwu8D4B3KA
+Heckenkunst,47.981691,7.892677,http://lh6.ggpht.com/tMPTvgNInsr9xD-R3xBvfH8QG_WvWzMwxQpwCDUXik095mYRUdwjnhB76qA3LXQEM6PMZuAPFOp7mAu7daQ
+Jaguar Etxea Estatua,47.9881,7.78841,http://lh5.ggpht.com/-7cs6nPPuPCf6o_D2ojpLkdrJBnsARR97Lpn9HWyUYi330qquEW1xTY5Q_WX8neImCQsvFd6_AY4z9FP47A
+Kreuz auf der Haid,47.988986,7.785175,http://lh3.ggpht.com/L3_bxN3-fBsl6Lr0Bm-moujHJFTylIurPtEu1WcJawO4vfznNU2st9CrNIg7cixtZt-MXzYQuItQlU4z1zYo
+Monolith,47.989142,7.7943,http://lh3.ggpht.com/o4GdLUrRwjO5kXRpur1OCjh0C2JMuk-FmrzHF6Sw1-sWKnN-3qNORKRWIyiJy9lNVUZeLfdjg67v5v8z0oX_
+BÄKO Südbaden,47.985632,7.805837,http://lh5.ggpht.com/Mo1bmfK_WchOP_HzQS58n32q5rDHMglkVBm60t-cb3423BbHDvkc8EDly65xsHHvQyRDyBg7wklhg0Eoad7s
+Löwe aus Stein,47.987587,7.801211,http://lh3.googleusercontent.com/ra_2mbh2rFvTj7gH12NEBMniVJkmboXTvo-8AlnUFXy3JypJH2yA-ovvtLMXMERL7jhlc-D50W_chMEUPBuY
+Badenova Hase,47.986351,7.802762,http://lh3.googleusercontent.com/XFG_spxT5WwLYtEgUQqyDNbQTX0y-622eBsMqyS7mmAVPmCNhYBDB08cYBsQuKX4gDM8N3ts6QVPLaAKENYM
+Alte Presse,47.982548,7.803958,http://lh5.ggpht.com/kGGvlDOMqkYmA_Zg54tlBgXvp5C_PRX6LUNvCO6GZOVZOQmOO21K9LdN8PZ-vOzuiCSM-AG4FrUFlEkTz4rA
+Conni Statue,47.983522,7.797318,http://lh5.ggpht.com/J23e3OI1A_9JkkEz8x_KfmFK1n6ovUMYFCwzmXWtiQTCoFHq6YzgmFKkbAZ2kiVzVeX9TVsUAkH2ngFsBYWdHAOfXezTaJg_SRqn21zri0QyueiJRQ
+ Blue Marlin,47.985995,7.81174,http://lh5.ggpht.com/9-1r8jRVl3Bzqj3dB95Vmp3Hu1bJUJRlS1nbmZHoajeiKQj0bgXXIz3Ui_LKIGwoRy7mouOUZrvTQxAwPZso
+The Lighter,47.986295,7.815996,http://lh3.googleusercontent.com/2qr06dO2CanrKqdlGLe8AfWtSG9QuOEloxOUZ2eYCZyO3xSlNpeDn_qbMRm5xZzLFcqgvfGqG7U36lbpM9icAw
+Stonehead,47.985727,7.815339,http://lh3.googleusercontent.com/7VTSWrxuoMKEyln0GU3vlaU3cDG-KASV3u57atex6IvqR6uHY_s98bOF1Wjc6UWacO1jnf9JvHHsY3ANYALI
+Spielplatz Kampffmeyerstrasse,47.988687,7.811792,http://lh3.ggpht.com/j8G-n_IYta0EDHUOSv4MgydTNEZLgniSre3AOO2Hm891Eq9KAfJuGoYQdoe2lbsq8a0_lJgPgbBIO0zfpplI
+Pencil Case,47.986247,7.816812,http://lh3.googleusercontent.com/VsgW-QG4nSb0HrPAh_wf6Gjmg8RF6WfwCMIQpFg7K-moKNZz8RGVjIEIaByTGk0O83tX76eJ-9JTCAhORhig
+Pavilion Tausendfühler,47.98804,7.813166,http://lh3.ggpht.com/7ne5qhx1Gs3IjDD8dhJFAbbunurfzTCv4xA1YOdroOIoZ2fmdHqXaBHhDeuOYvfO7oGdUYsJrw8CAK8aLio2
+Affe und Eule - Brunnen,47.983619,7.829663,http://lh3.ggpht.com/I6m0L0uhM-wfOGE-Yy3nH7cKV8t4NZQ6c-ZHgPNQwwPVy6kPDLM_IZwp-cyKIq3rC-v3eqs-C5z_yeAd5ks
+Entenbad Haslach,47.989657,7.823252,http://lh5.ggpht.com/WMCj8BDXiPaI8ZxdtgK8vL3HirU1JZftBC27e6mecuTUn_FbCLOy_cb1X-WPLhaAeUg3M1BQDSN6AmDw9lg_kdqGnIuLt4Mj1qutVtEOa9ag5KW7
+Badenovahäuschen 2,47.987811,7.827452,http://lh3.googleusercontent.com/HYp5CHRZNvp_7I09U9gQ3B1sJly7JYngGOHxSAn1Af5EpMu5j8KQ4BniFYjcYq0jiKoOQ8YPo_MTFL917Mw2xg
+Badisches Mosaik,47.985363,7.828434,http://lh6.ggpht.com/UlrRKuJDaItTNFCrROfbApdQ_7UqVzztNU3N0j-Tt0Zb-OFiLRrWosmGC71lqCPnrjUIJ2LThu52J1_U_EJT
+Mondo,47.985408,7.838543,http://lh4.ggpht.com/FkdaSTm_wftke__kyasVVbrzEDRWaHGoOTwhkn6qpBVziIBd2u0lnRfx3t1sLQ8_0WlarWJaSp7avUwPTdMi
+Historic Locomotive,47.987432,7.832,http://lh5.ggpht.com/i_ImFRzukV0zDFNtsw4yMrR3xHpqdEaly9VGk7vQ_bvwGaMS02xlqzk3HrbuSP19jY5ehraOqG-v8d3YmerG
+Kleiner Steinmetzbogen,47.982833,7.832445,http://lh5.ggpht.com/U1pa06mx9wOOWF00nZ18I0rsta8gHbvURQWG7HnF8xrwJcYqFayePn4eVp11s039k-oGSaupvyPTb-olo0g
+KTS,47.986006,7.831103,http://lh6.ggpht.com/OCQA4RhJGGu-c7ie8QuhmtwBgh32w0zirLt9UvwvtWh3ihRp3-AB_ImStw9MAFwWRQWRMZfjX_1kLXv873Y
+Hotel Parking,47.986951,7.838928,http://lh3.ggpht.com/WkuzdBHwoJbHGK2Hs1iN0leWvMTZA1DEdzrn_L_Fet6q82atF-_3hiY0Wy33gKyu_I0slV5d1w_KxK1d-rmJoQ
+Engels Wappen,47.984548,7.837729,http://lh5.ggpht.com/QKaAmeu5CwchyYDRsC-Ja-4yDq1hI7nuV5lneOu825CoTzC3htfkYheSmPuEh5gtAjzEDKk0Hcfc4HBMbD8
+Bäckerei Bühler,47.986898,7.850582,http://lh6.ggpht.com/pAeZ5pEhSFVV56N-1znbcR0bZZKtv34J850RT0i3j9FCNqYmVuMx8mq2VSvwW8DV-vyTq3jezYCUbhzsxV69FA
+Sleeping  Man,47.989107,7.850637,http://lh6.ggpht.com/ptCZLkjHpjxC_ULWV-B06pLpacUZYE8C-Np8Hp0ZOnJSuTAFAzcxQQLb3oBRb3MsJyPXDBg3WG3xlXcCqXGP
+Dionysos,47.98835,7.846017,http://lh6.ggpht.com/zUdTKKjOrYYtDFjTV10XMXw-VFzENH4HfiJMuQ4rSfLiMvYnKhRh-nJGhZuN6Y1-6S26hSP3ui5a_v0EtQ
+Lautloser Jäger Der Nacht,47.988657,7.851117,http://lh3.ggpht.com/FO5Hn0_9fB5QQTOpivyThvJMtGqVBGidp4AykpZz_UmqiBVPXc5JGBzYhdvgPKYYay_lQiqfMLu0EVeS5qRT
+Loretto Brunnen,47.984444,7.847777,http://lh6.ggpht.com/yo7kpuhrmv0TatkoURnNVNmHPdkcYv6W5lbosA89ishhq3k4upeH6hfFBad2To0Iaqjm_d8Ff3gn29Rac1DYcpXfqS1uOu3KVorKpovphX0lJ3_0
+Gertrud Luckner Stolperstein,47.988965,7.846101,http://lh5.ggpht.com/K3fkqkWQUfJbHrv9O1KKgFCAYKAVnFVI19M_Mdu-XfjCRxqJzOvOOdrF7_x-6K-Miei7m1vd1iB7rPVSpQvP
+Schwarzwaldmädel,47.989548,7.847529,http://lh4.ggpht.com/F5CJkLubpTjWuAo1bBs0ufah1LsdpGW3OV1_3PsSfmH3FXGednIRbdTGlP3GnDW1rd6IhUUzPYxUaWO5NAMO
+Kronenpokal,47.989293,7.843808,http://lh3.ggpht.com/TbH51sUPUUeil3Ch3VQEYVITDoNwj1bDURWg_GbhouITAas98rUuMcUqK55VgmZS64b8dtgBHWeH8tESGJo
+Stolperstein Dr Hans Pollock,47.986658,7.847167,http://lh3.googleusercontent.com/T5scq-rpPedtVttJ6r4YyOAWNrSniEgHnP2i9PLIvfjXERCSnf9hIBFtSDoJ5hFWbaD39mEntM93nl6f-zAK
+Kopfloser Nick,47.987131,7.847922,http://lh5.ggpht.com/n0Db88oCLOtG_aBDYAzWytDyuaMYzaKrNd-tZGQCjDQXtvo13DxPrRqU1D0dQCLVEqeiQMr0UEDC6omDgkNc
+Giraffen,47.987432,7.844474,http://lh3.ggpht.com/5E_dlVk6UUNl6L40aWWE5MUcbh3o2BnM_g41n9tXUIbWNvWYWXS0T91z1yGDbQFhOt6rOOBoevfohV-iryIq
+Gedenkstein Talstraße,47.988918,7.852383,http://lh4.ggpht.com/SEvlZ-wm0ULU8vPeBOCG7q7VORpD-lAIVeJxVztndp6zZV4O-2FbwfWQxZDQQL4BzzFgI2ZJEy0NE8-D-M0
+Rudolf Schilling Brunnen,47.984938,7.849872,http://lh5.ggpht.com/sm3ehCNek4R7u74hAuwuk6Fke_5H8q_C8chs4gD2InIZsddyxwsxzK1AMy5tjFzuRuqvtH90aHTEEIK6eN42
+Christuskirche,47.987081,7.8494,http://lh3.ggpht.com/2BXH1FfA9Qsoej2Y-k_Uh5I6Q1ehNGgldIljBod4icYRHqjPdkdUJ0wmZudTpRQdv4Si8UtbpaZTmoNlAc5k7Q
+Icecream Mariotti,47.989252,7.843076,http://lh4.ggpht.com/k-u-0SvaGNEzEkoIdF9r4Xj0kfO3X_ru7cgL0-zlLmGzGuZ1EeD7bDeHkE19xwlQr7ro1ISjPFX36I23iEkn
+Spielplatz,47.984789,7.851332,http://lh6.ggpht.com/JFu2w-VIZixUwbIGKmqAgV1hqgBnMvRJULFskbADlR6XOsu9ArqAv6N9l7wwrx9-_m4Pf6mrpOnyV7VpmdKr
+Elementarstein der Wiehre,47.9846,7.849126,http://lh5.ggpht.com/Zp0Hu9-hHsBphOkqw-dgX2o9pgDtQRdlur8SWXAv-epl95zu8dpGhGqtKTsrqJPCqb0tXnC3yMFQzantnzISzcmbEXWvkDhFyl6R8-AAy_75HFwx
+Stolpersteine Jakob und Jette Model,47.986066,7.845432,http://lh3.googleusercontent.com/QUWtEacmGWFYiDXkvCRw_FH9az3P1TpWGZNaT11X6qKPVClGyPpGzgC_2mbltrTZkr9eZaNiBaWnmCG_KNE
+Zähringer Kreuz,47.984834,7.848152,http://lh5.ggpht.com/36aLukMoWAnyXXq40KiYVOQr3GslwT7VB8ZEYDjgAKo3jLPUR4ldKlTY5gypWLX9c5f-jnVNwN62J7R2Y3SU
+Advent Kapelle,47.985318,7.849626,http://lh4.ggpht.com/A27UaEHDrRYRZjs00pQhWCaynhxy08ZzP1H1TJQgP9mdWtQYvBdW3KDXRc7DnIjW-uYiiEfaklqMctHEbDEq
+Die 3 Fässer,47.977991,7.791263,http://lh6.ggpht.com/wURsRsOwfE7swSaxTA8O0sBKaWzetMrZ6dNS4uzdiqMifOHDQ6y9YosIXy6oDFqzRoj9sjUa384C93yCHTc
+Mach Es Wie Die Sonnenuhr...,47.980129,7.78982,http://lh3.googleusercontent.com/sVzNoCvJagUSWDmANInriJeD2mSnwriBDu6hXhHbR44dMxR_p9Pq0xubhrOLsjXpIvBZ2zMIHPBR3AfE88zDUw
+Monolith Old Cemetery,47.981656,7.788399,http://lh6.ggpht.com/WzYEoV-DblzOwgmBu1wuh0BkdV-_PR_3MZQAY_0lpdk1iFYeVoFWsf7-szmZXXhho85PonNWeYMBQNPSgTBW
+Kirche St.  Georgen,47.981392,7.79354,http://lh3.ggpht.com/h3yvtbdVU4jxxv3Bq8Q3jg8Fs5AxhasJt_6Y2hQMwtKQ01uTTxRmAPfaRC0gn_qyhe7Xz9kgSVbJrCqf1t3j
+Stiftkreuz,47.97829,7.803785,http://lh6.ggpht.com/6twaOvo18Q3oxkSqXDXc5Sb1p2_kNj75bvbuHF68ttrOz0Jb7PRcvcn12MexmPQ9ZvhEZZGt7gwYY_nYtXUL
+Eisen Engler,47.982249,7.801343,http://lh4.ggpht.com/zl8y0eoBJAH-TDXXH7tI7BnTHfoIpYkvkxZg1lSTc0PLAblfCx2bixRWMWHFJ0CkeujmNDn5itDWMHDsqXdu
+Nepomuk,47.977177,7.798019,http://lh3.ggpht.com/Ro95LFljwVLLRwWOfncP9J6kos4cfw2pQ7P8J8yt9Fl4Gg39PavJA4BJHByaLZJtzf9EExhvau3Ogdz7yYsK
+Bhf. St. Georgen,47.97569,7.802795,http://lh6.ggpht.com/SrEXDG_U4ZzOZEaJR6jCjUWhOKzV72MJ71NaTwwF5qjxvhmYahDEn17doa8fP8ZrTe2SFK3qIwUCn_FP9v_tBA
+Weinkreuz,47.974508,7.796095,http://lh3.ggpht.com/qDP2U_pSfPkMBpzh2Q7C_yrS5IodHQSrRByNmGZmH0c15WZ0-3FBSZLk9q0zzkc2efySG6q_it7giOo3zsbo
+Noch Ein Kreuz,47.973997,7.794038,http://lh4.ggpht.com/wG67JXAXf3iE2bzG21u8q3CvRIaErfo_JYAyUr4wbDn30dNd9fm7L5ZYPVlNMrvDxCu_Ft2iGCZbLgkgOHEC
+Wein Und Geschichte,47.973859,7.793146,http://lh5.ggpht.com/ZwkTUDmiQnobfyqaMqT0tVY98GlPoc63F48aodPbMbQlSXMPUY8Yxi98B_bwv6sGQmacSZRTzIhnw234CRqo7w
+Sängerruhe,47.969263,7.803072,http://lh6.ggpht.com/LRMHZK0xqvAHLNJg1mKDV8kgZZ4wJwt4U2PCHUEYsopXKVHNadevIIuPuH6CXHrFTlwgH7LT_Ph4xBiPXenK
+Jesus wacht über den Wein,47.972622,7.805551,http://lh3.ggpht.com/lMfXxl4lojF7716eoG9r5or843AL2DFzHsLs-zy3bFgfNgr0iOeZQae7PkJET5FIR-IMrHdrEDZ7jsu1t-U
+Skulpurenkreis,47.97472,7.801884,http://lh5.ggpht.com/TUUXr5KVl0crJgFvjokyiFWMI7gLQ3YhnRMdZ1SVzpRnyFEMvP8RQA7nr9vDdFP0Efey5C2_O2--Zsvz1pU
+Waldorf Brunnen,47.974087,7.801215,http://lh3.ggpht.com/teTDe5Ic4rAh-RezvxR-rzztE-KPIa5v1I1gyF-hj4KtT9zykuEHTNtQSHrxgbK3ffFQV4-yAgXzAeGWumu9
+Steineule,47.983131,7.887281,http://lh5.ggpht.com/HPiZqcqvQ3_UCipb2dnIGfI2QrPT8zaUEje9NFlGuAegvfrUrgOvZhe_JHvaSwJ7btc0VoBgaq4ciC8Dfvk
+Stadt Freiburg Stein,47.989834,7.894131,http://lh3.ggpht.com/_Bfop5bK3zLKafnGz1B9zBtWQZjUqMPUGhsVFGgCDaleIg3aftG2vLL3cAlWPJghA0QJOI5SNt013HCrgwM
+Gästeeingang,47.988138,7.893205,http://lh6.ggpht.com/7L-FbTXKA_wECpLQcMesqflgBf3URoRllBvXatfEV3YoNDylgw2ilJ3YwPB_BuCDPQCfPptxrAumt-SnSHk
+Der Mars,47.988603,7.897108,http://lh5.ggpht.com/dGbNjsbFSMPvd6tqMZ22yCUSVgmY7qwuNKVZ2SjdF6Jct7it7IJsud3wBbP7PjQJeaiNC4uSUSFJXn_89yg
+Nordtribüne Freiburg,47.989366,7.893636,http://lh3.googleusercontent.com/uo7eI-ep59CX_FzZnbAf8ExKjf8ukh2sBM-b3fUSQMBUM5zS_bYaghzeFseqdiVwKwt7CIQkFHApDkadjNAC
+Post Jahn 2,47.989416,7.890127,http://lh3.ggpht.com/8RiMYbnq1pVkKU3SYhbX1jBoQS8XPkQM9OeAJlvbNuIZJ3DMlH1L3cQP1iCt8lPfvkV5BOfy_9TK2IxWUT2J
+Haus Zur Heiligen Barbara,47.983685,7.894521,http://lh4.ggpht.com/aT53heV3UGWkDNVZRbf0B1yNQEsjCr0Pl7GNnsqgF0VoQMRFobxumBgTy4f64n0rAzp8T2vu3T398vrAfhlETg
+L.Jahn,47.989185,7.888986,http://lh3.ggpht.com/ReaT-p2udOWrScU3s1DOTMjtY193mcDvuwlnit2tNxoxklKOGPJh0OPYIDIwOxc46DHc6kYVSZil3fsqfAg
+Der Millenium,48.022625,7.827239,http://lh3.googleusercontent.com/vIzrGnWgS58kP9_k5DEN_zOw69rbzCVQT1I1SI6ZyEuC14lfVwi9tRH76jwDl6qa55BLBAD4OZOrjOp2sdONZg
+Walddenkmal am Wolfswinkel,48.022338,7.823282,http://lh3.ggpht.com/ykXbMlCTTTNrnWcLJ6MEPAyhOmoy9ZpCdXdRILytjXgpv79jeDLNpr9btQMSRfl-PhMwsjBEIx_DS7bT2tl3Cw
+Brunnen St.Urban,48.005604,7.86717,http://lh6.ggpht.com/r3L8fU0d0yflWUndLiRuxmRTuxytE2AcwNCoDHfeadgNbREzlraEn_Itqt7glKU7JCE7QkvNdDRFEPqgxYZk
+Lux Aeterna,48.007404,7.871225,http://lh3.googleusercontent.com/iTWdJlNPRs8081aNf3sazT6lh1Faudqbk0SgjfxwQG2zTIz5XxPc4J6eZ8R9DPZGEchooJBGHdQbU1q6Iocu
+kleines Steinportal,48.007788,7.869689,http://lh6.ggpht.com/am34-dpJ4T0HVAqe9OcVFPPC8NEIJZwIjZbf-A_eDJOi63NJ_XMG03aYuXXVXCMLbUkO3migpcJBwE9yEOpn
+Hebsackwiesen,48.009221,7.86663,http://lh3.googleusercontent.com/ID7rjcMuiC7LitlE64JKOhWNxtsVVy5w2S-XLOw7MINWac4pKlHDXXS7lvnYODGNxgWffHhWBQOeVoOH0Pk
+Internet Explorer,48.008267,7.871881,http://lh3.googleusercontent.com/aiDzehG71c75XCYpnEHuYBAR_pyO3pgBDbwhrltY1bd2pufH7UgV04Js1GDmCLYzLjiRzLMdQ3N9CeifM4o
+Stahlkunstwerk Jägerhäusle,48.008741,7.871807,http://lh3.googleusercontent.com/jUW1g2lBof7HK6DJ4T0dJ1e77Giy3klW-s1XN9McxbMe2f6Ho2VYAG7SyaOs3hjznZOWXeOWKGj4e_01A7IsGg
+Klettergerüst Waltersbergweg,48.006723,7.870407,http://lh3.googleusercontent.com/7RQ7PX0Ar3_Vh5ooIfQLinqbsvWcXmhdlUm7Xf7zjjOUhttvVcqHlOoBJP0l6PxDWeqbEl2787AOofygd1E
+Gedenkstein WW2 über Herdern,48.010093,7.873154,http://lh5.ggpht.com/PCj8KArNazWuPP76YrxNaTGIlLXQ0i5XyaQesmfHXGlocy8uMc0JZWPnwhfG9TxiRQSQCK5GXwJ1xVkCGl_V
+Kapelle der Uniklinik,48.006557,7.838137,http://lh6.ggpht.com/-cceP9kjXVDcVfkukPa09FVJYykPc9AYooObKzVvA4mSzQqU496dREKsw3VxuzCwubRR1v9liVVJ0zXbDRB2
+Broken Arm Statue,48.008558,7.83998,http://lh5.ggpht.com/HZUnKR_Tq9owJTm3PtJquSXUatITeszGrWZKue6LE_ldEz6fnWx8fd0IYyTpDHPobmdg-b3zkbT8KdjxczyWyw
+Das Auge,48.006996,7.835686,http://lh4.ggpht.com/PM65DAPkLMMsNsMLtiv0l2-OhjN-f5wX5gTt4_qry-uuaTULs4iPuBzEWucguo50A4Su_pTuMPzHXpEuzxMu
+Grabmal des steinernen Baums,48.010321,7.839993,http://lh5.ggpht.com/Hmi2PlvygDiO_AqIfrKsnzFPg8TI8Sd4jmv0FFg0XtwST8BTTL11p2byEVI9JQ9XbduX6V5J2Pj7IEqE3sc
+Springbrunnen mit Reiher,48.005877,7.838562,http://lh6.ggpht.com/3vadHDQpRUzhwQVB6DBWDftoIZ8uPqjQs3897RVZVjib9fbAxOiiWv3VxydUK6BKbDKMzErgclm0LCFdv-veiA
+Riesen Rettungsring,48.007403,7.838655,http://lh6.ggpht.com/Fat09A_676RY_x989b_2q44pjDWW-fORq-3IcJQcfBu0fBCejnn6mhNRB3_9Y74utKohxnwWws3hYX-mYDWL
+Wurm Park,48.006683,7.837325,http://lh4.ggpht.com/gy8rAvPijfTvq80lYr6ezC37YIuC7hU5brtCEZ6hWpa8mFmGVTAUffkgBRObuhqo_ItWiZXA13eJ1waXq_2ESw
+Südwestlicher Brunnen,48.009459,7.838625,http://lh5.ggpht.com/UnsYSi0QYbSPq7VMHlryCicmF9WZZgx13WgTOshRvRyciciMGPgD2XWf2aMp1Pb-yHgBU_CgIzme1MCnXo4C
+Frau Mit Kind,48.009288,7.840731,http://lh6.ggpht.com/6dIHqo_vH70atjg3qaPkmEO5aRY2edPxd9yPmC4VOUyEPm7fMW5VMEoHalokzu1S9NpPkuXP4KYYVFgu70eqAQ
+Iron Jesus,48.007812,7.841089,http://lh6.ggpht.com/uX7FqqJms96NiABl4j0C-M04QG1dn8bHvEhD439avmJNy-yFkCddiy4EM1I6lMSPeyFryNu2-pfolaAMxNW4
+Pyramide Uniklinikum,48.006848,7.837195,http://lh4.ggpht.com/kc_iVHfujk9STa67PC49_6-OijyjL4KByhO4HnCjMTSH0Vjzq2zAfWLbq6fWZQ_eXw3f4zU3FIoy11FcdfGum2OV6QWuisfx9taNUKUdtzcV5UQc5w
+Helga Salvesen Memorial Stone,48.006215,7.836373,http://lh3.googleusercontent.com/aDPjN-9m3mTt-j6pRtu5M9ZoyLTmQ6nt7pdtpX35HhNYJn1hm3rmdtVi4OMCeOYW8VAie0LKZrCzVGJri3i7
+Hidden Fountain,48.008764,7.841009,http://lh3.googleusercontent.com/0FeW0P1JiWEDTY9i4U0M-0Biq2Bji_gg4nO075sAR3hI4N6VbaP1s9N-H5MOHxhYmNTJbj3Xupt2GNBBasA
+Soccer And BBQ,48.009158,7.835468,http://lh4.ggpht.com/P9KMxEyhebQCqw2tgxw5Cxuf5uurod7vV4P5JETvgqrtALqxmgGjNtc3O7Qks90HCyn5sJqm884jg-erXANp
+Vogelbad Uniklinik,48.00529,7.839876,http://lh4.ggpht.com/F_QbUrTEI1kYllF1sPCtS3YExxAxgBqxxycLzqJ-q7lodLv2DrGIOdWeLlvqjKf1gruKpX1Ft3rvwOEno0lb
+Wappen 1889,48.008861,7.831575,http://lh3.googleusercontent.com/KjCJE_J2hkztqW1TwPTizlHPEcw4nl0cD7deGLoW1wfSVg8bpNxoU_6UdGcswV6MT1oXBrLBn3ut9BUWLXoW
+Namenlose Dame,48.010234,7.839715,http://lh5.ggpht.com/Jgq0mUl88MsaFzs6hj2DNLqRRzvDh2kAG9mLgH3cUiJRQhfbPX4RW972OuZTQ-JihfxMPGlc2mrOM2fnu1Qp
+Kinderstatuen,48.006058,7.840085,http://lh5.ggpht.com/VZDpgBT6BBNJOf6IW6MtjagKkLAwq3fllq3elPvH8oJ9QbZvphZ7mV-12nwvuHTFjqAdLqDhTHVQhbG-RTw
+Mosaik,48.007161,7.835691,http://lh6.ggpht.com/vPNq4Xbo23MyM_SYQ7fh_KkpeutswtB4vQEjK-aALseb2DzVrzWDBPs-6I4K-S2gWi1-4lK6bacw3631LwM
+Kirchenglocken von 1921,48.00594,7.833276,http://lh3.ggpht.com/KpnqPxxyECObslS5iLni5-SxJMPneP6uN9-_Hm-xBua5xArB-oYApce7llCSWbaOR7d2_LN07o5dK2qrQvWuUw
+Kugel Am Klinik Casino,48.006799,7.834282,http://lh3.googleusercontent.com/JLQJrjENGQDIuCdTGdEZTId2iTHhDAP42SkZiqDq2Qxn2DUPiRRuR1Z9Ap5Xo5e4ecQqi4Darq4yDk2rURk
+Tree of Life,48.009884,7.839064,http://lh3.ggpht.com/lx76mAFImG2o-U6nEipDZv3umlTNiVwLqTJneBweguBnQlKeGG754bzvgXMT53UOFLvC5sML0Tpp_4Ky20Cj
+Springbrunnen,48.007504,7.830964,http://lh6.ggpht.com/OxtrEfLW_5HOyOD3eCBCE3oqj1k3-pHG7dc7OJs_2wug5LCFii3VrqMr8unpoUM8qG0yjwCzkco24k6uc4tk
+Solare Energiesysteme,48.008672,7.83437,http://lh6.ggpht.com/GXoeGrRonAOLBpbKMRYrFceMQn3HgzlCt9w6nKTTPcCmZXaaLuvkEv6wLXbemju17jrF3QUMdhyzoNKlYeM
+Wasserspender,48.008942,7.839728,http://lh3.ggpht.com/9iiIeQ_XYB4szfaZQahCGVQzDlBchK-ZEzMwXZb2cm-W3iWs5ARd8mRw8luAwYySYZE7wSuRRR85-l2IvFxc
+Kunstwerk am Universitäts-Notfallzentrum,48.007975,7.838172,http://lh4.ggpht.com/vSojK0BvPXQSO-iEKF9fMSpqj74q8q06AK27K0SWdHKVudeyIiVT4ggzh4lxP_4MNCZd8AaJukiI9eTGp6P9
+Evangelische Kirche Der Uniklinik Freiburg,48.007296,7.839031,http://lh3.ggpht.com/KUJs0Y7ggjFnEk1z3UfMS-4k32zns2cHmHqWuwGm8ih1SeUKBZwVoDfr-HfDitL8F8FsBTehI1aeWniURew
+Kinderbrunnen,48.006173,7.840357,http://lh3.ggpht.com/44SfL-VgdU7FnIZlgiS52wg6etfllbSZJQauA5Uk--dPPtLTh1_YNmTxoj6-KbJPIWXRRmm4bQch1KPoNOiq
+Pflug,48.011756,7.808066,http://lh3.ggpht.com/0jrz2sxncNXKyXQptV19AsuFW9W-R5tJgc7u3Uh1kOQyPiV3Hn54fxQiLW2FgahCaBSbPyNU7ymVjY05N6ik
+Wendelturm im Seepark,48.01154,7.814762,http://lh5.ggpht.com/LjfO2_eYMmekZw_p4ONK6zDifRrQPrMAMY_tc0YGlKs-f-eIAsd-gaK-wm1et8PW_AiW94ahgGrafSx6PqE5JCq7Ro0_gwJnutgpdL7mVIYeuxNF_Q
+Personen-Sonnenuhr,48.012344,7.813319,http://lh6.ggpht.com/2CVZ9Lz0n1tRF_YX3mcMjY5DI5coquwUXy9qynmXHcbeBruTTePiKsvtI7Pb4sCqUAzrMhiOUe5jck6Bz-AwE9QN9iVuBGeorJwmF5SsvCPkQ6C46w
+Gedenkkreuz des Friedens,48.012486,7.81645,http://lh6.ggpht.com/BZLyrioICTy9ecq_5_YB0Oc0Do0YyltH9Pl1H8ygFB8peuTqsk8caBn1glcNbL-_GssQKYXmoV409bv9Dye9AbwOmtwingXMWN_9RMswncD_20I
+Matthäuskirche - Jugendtreff,48.008956,7.813979,http://lh4.ggpht.com/D-ZTh2-FpY2CXpJigKxs--wGwFyXT97VdW3umHWr0uDC5m-FN-4LSrL5IsXs9DAv3ShX-UIyF_VlHqADSJtT
+White Lions,48.011305,7.81123,http://lh6.ggpht.com/egu3U6m8mPgOYVK3qTAPgwxMTpqpBn9nIbej5b1CVbdYS3gjJ_DQENZTby3fvYsaQtboypKztZhZLV-9kELB
+Klettergerüst Oktagon,48.007113,7.812409,http://lh3.ggpht.com/xY1IGPm-i7S92Yonv36qErS3094mDbyg71cnsLh4SJaJidV22g36skvSvCRezMFJHozPuW0msN1IhVAEJA
+Purpur Tentakel,48.009001,7.814685,http://lh3.ggpht.com/KSko4EBe3jLlD59W_hDlEybemm3uYosDyB2gUyFe72W2S3jWe42HCuZQrXKqiw8UggjwKHOuYfNK0Ihc_O_0
+Sonnenuhr,48.012267,7.817572,http://lh4.ggpht.com/Cht2J0_-vDyne3hocaYgv6p9F45jTnPvk2ZwmizGL8JM-NTwCuOcW8JlGKK0E-gSPcqxf6Dqox36ijNG6L06I9RtUQMEk5yt8JKAiPikZga6RPe5
+Forsthaus Seepark,48.009972,7.81673,http://lh4.ggpht.com/RrOtr29jmMqGK2nkozwm_SmAU-Ii9JExA0Nzl_06T7SUJrkMO9P-gtWt9reZbxVaX_qMXw38vDxaPI-6c3xFDJtWuQ4OO7IE5kPtQYMXuq7wIBva
+Betzenhausener Wappen,48.011429,7.809341,http://lh3.ggpht.com/8C1A8lhjm9R5c-HELsqdaA9hcIiYIWSM56AhwRKcEQalykMIP3jQkbrmXU93CObSk_QZiDbrjzhWqbxkOdBI
+Italienische Brunnen,48.010623,7.811255,http://lh4.ggpht.com/uRJ97X-hbib14yUfBG6U08_ou54wal_zisrMUotcuJrFpxVAKTGJWI0eBkJ5W2BEkhEevbYSTpc3Sma1PnA
+Abdruck,48.012116,7.813499,http://lh5.ggpht.com/2NydTE40OSoqAl-Rwftg2HoA-gO67ePIK7vg-kCsUubsxI6D_GrZO1h-_ukEhjkZt1yEI_1Sb-4suwkEIfg
+Betzenhauser Torplatz,48.01092,7.811745,http://lh6.ggpht.com/lmuLAc8jiFWiTNKn09GDyR_8vLq-VV9am8oXK2ojNcdADARrxvADliv_WjPyv507v2MYZi_OpM_AT-soSA183JgXMobDoMWEpxAjFNzCw-Ae0ge7
+Nicht Die Nachtigall,48.00961,7.811496,http://lh4.ggpht.com/9tDhU-BqOEP3DGOoSDzjAbuKE4r_XiG0H2h23P9W7M2ir7u-5uxp7LUREDgIRrA-7LgdYg8xmyWZxvEa3SDV
+1400,48.01166,7.818276,http://lh6.ggpht.com/zlXISVwi3azzAXbDZ8JYOtDK7BhFcGdjmIGMkqNHGvo89kfALg4E6ARWtx9OZGCSVbb6JRBnOSgvheTdKMU
+300,48.01049,7.816338,http://lh3.ggpht.com/PpYgTUH0vaDvO3Q6FBqPwmW4dNwdMvyZqmYEh8Td6gEQoTvMmPft82q6n1Lcw_F5ZTyFF3aR8v0UD0OoF8-nMA
+White Dragon,48.01118,7.810919,http://lh3.ggpht.com/w1b1KaE_e2ovtTIShOIJtZT0xPrpUm__MBoNP54VD0qFsBL0ujri8_JKeCdBgKKHLSpyA50KJbOxk73yofPAQoBpXHZJ805SlWMM9soL8SsViDk
+Graffiti (Tunnel),48.012202,7.807792,http://lh4.ggpht.com/lr2kT5CkAH9hzj8wSKoef_iqpHLR_iYUmQbFG-zSDE_MhcJhDossP3jYeYbhvnHE-S7hc5UWycKyq5c1agya
+Stonehenge,48.012167,7.811611,http://lh4.ggpht.com/pAMpKdreq6DPa_z4OaMScocnv5ClmxiA0xp_KP4LYGSi-yQg8oRdc3fDKqfAQzWvskFdqILt-C9mH57aoHYePg
+Kirche Betzenhausen,48.009631,7.808021,http://lh4.ggpht.com/J08ta_NKqp6Wkuvq6YLS7TKtwh3Ojf_4jP_mzdBA7A1wn-OHBJFwpoPqgtlD5dMqedJ97YSaU4F13QIlxZMhSv4kP_vmmlnHTHMiorVCm9yPC_N8hg
+Spiderweb House,47.997023,7.819184,http://lh6.ggpht.com/_JHvPkpayDZHlGhMCzJ0YhFmBX_O77V3CyfxWIdIBPTYPk70amowboKuuQhQvcdzGgUpknHn8EV3bIUpx3Pagw
+Mutter&Kind Relief,47.993965,7.829452,http://lh3.googleusercontent.com/o5mNt6LXFD_alLQRYdGMA3B_whqjBGvuo8nWnYg2lnobR5FPEt49w12f7w7nnNHEHf7e8mGR9A3X48WvI2w
+Staudinger Säule Nord,47.992561,7.825431,http://lh3.googleusercontent.com/2SkFshrkfY8JbeiTtolZGGpJ9e1tB4rx2FBCspESSH8i9o3_8FUYEU0EK3inAvPuNd7hNfRLXdzeJx7X-a2n
+Haslacher Str,47.995641,7.824799,http://lh6.ggpht.com/5rqNqzQyXsjli9roFAoHOgQG6XlVIpMZ2048xwk2k40jK0ihXVoImG-u7t2Xf-oqv1Wywf52_1KZWKl-NAXF
+Gedenkstein Haslach Scherrer Platz,47.990606,7.819985,http://lh3.googleusercontent.com/6hV2uGquwmGdy88rQ8C5EmRvzaT0jlg_9vBRaB1cpDQQQIqTG28dr0a2K70yipKDbGlIeYN2F_S8zsJzTNds_A
+Metal Cloud,47.992138,7.824948,http://lh3.ggpht.com/14UXL14q8-zfZ0mxY1q58lRdfXgM5kBjjFl-1TCRtOCNOhJ8BGsVdjE_3YAKNt9pGFEclZrEoyaJyKUlIjyWbA
+Kinder und Jugendtreff Haslach,47.990611,7.823685,http://lh5.ggpht.com/iMpDHR6LiK1nlKGpQSb0hpJv_HYRM3lsXf62uVgdUfG84NGK3BJBLi7uo9Rr3xvU9hp_tCqb9GbgmaqemxLlcbVK_-D4V33fOZRZUYOn8bWCJXP9
+Kreuz St. Michael,47.990335,7.820992,http://lh3.ggpht.com/P4S3iZcP5APYmoug-ulIB4Q9MKFcP5y_VziFJRrWFNevhW_ZRM8FH5c16uLs6nb0tyunJQS1_sqX4OAzqj9ql-yYdlOz9_dBTV5gCZaIcWyasyKm
+Hokus Pokus Beat,47.991594,7.827222,http://lh5.ggpht.com/1250enkgnFUgzx_Z3nm16HSueRKFotlGv8cDlwej5iI8ADZB3VXwfrRsAW5MhYI4E2rQztBpHyo7I1PblRX9
+Ziehharmonika Relief,47.994218,7.828705,http://lh3.googleusercontent.com/7dxdDz-rl7WnuGsFT8IS9cdPofFjpx2CEbl7u6fO939o2LQJxcYBhd8nkJ4sPLeStDaQM0vIkg0fHARfPkMn
+Kirche Jesu Christi Der Heiligen Der Letzten Tage,47.994929,7.824242,http://lh4.ggpht.com/Mgqzd1wOdQN5nNNjwB2nRf8k8ATub62Nzg36OrBGcTJKp-DL1j-Fg3ymCsM3IObvrai82Yum59IXjgWS46M
+Elefantenrutsche,47.996503,7.828997,http://lh3.googleusercontent.com/FlJGzi24oIZpCrn0vA66AlPWyVeMyVOFONtQTfz56jRPBHkhSj-VJbGltUS06eJX4dt91MoUhoiOU7SRMDrwXg
+Warnwolkensäule Staudinger Süd,47.990763,7.823909,http://lh4.ggpht.com/6xYnC2zpKohGr_XlDp9y29vhmOvNiop7aioxZajhDc0azkNC21ZEKxGU7WCd1pR8zABi0AUboPkVgTIVHEnkn113nmezGZ-TlbMSfD9FBzEGllNN
+Minispielplatz Haslacher Strasse,47.99619,7.824346,http://lh3.ggpht.com/BhWSAoMT4AC5wjuVytksXnQBKfRN9cH_KW08TEdLNkbm7ekIrfVW57vZuZeHnm6oOpPSpxVFs4qfftOj4bCcdA
+Badenova Häuschen,47.993731,7.821809,http://lh6.ggpht.com/oqSSpCeSHQSd77XEMjZkj2RX5343AkKUKnmKZ2MR16BWkI55O5uI_EMzGg-0cIfVXosrlTnLZ5E1mMOctrK-uw
+Centuries Old Foundation Stone,48.022805,7.864712,http://lh4.ggpht.com/0M5oX-In0jNRt7lupYUssohZnRcCsoxTDZuwQyxAc6WfmXDzdbOVOaiM5IjBHjOs6Rb039onb-XZyK4jQ8-taQ
+Weird Metal Thingamagiggy,48.028976,7.807676,http://lh5.ggpht.com/z_u8YZPVFkoU7lPNYexSSQvuJHTcn_G0wP8RRb38neDPz_JKxG09yD_EkPwi5OccHPoXqL-r0cq8NRxOBn5BsA
+alter Brunnen,48.023891,7.863368,http://lh4.ggpht.com/9hiEbVYC8rjmu9Rsfx4w831T_8pgnY-5a2qw86ZMAmGOwO1Sf_xCwcwZv1cFPrn75qElSJa1p-rDcsjK_YX41zmJyoZb7650CY9vv9u4Gq7qhDE0
+Kindergarten St. Blasius,48.022082,7.86222,http://lh5.ggpht.com/ZAK9AIGkBB7oECyG2RUUdnP7wGihWrrTGZGxUoNxtgpWud5xxdjUGidLVMaOGWyx8uQ3f-mVra1f-x_w9RqZ
+Tischtennis mit Graffiti,48.02078,7.860443,http://lh6.ggpht.com/5s_C8Jefg353tyRYfQyQMWxdBGVv7-KrZEZQwNI2FSh09MaymN86LI6k3dO9Pb-Cvk9cQCFaZDqjmlbweLe6
+Wasch und Backhaus,48.022767,7.860631,http://lh4.ggpht.com/8mJs6b71-zQ3q1c9OIYVVqcvg8ySkRDjKLo0wrYnraU87r28lTNksnGHQlct1v3BeAd3miAJeyQSHbSUdRzo
+Badenova-Graffiti,48.024177,7.85514,http://lh5.ggpht.com/LVPHsicYc0mEPyKmEkBQ6hZ4b8QmvHG5Ku4rX96W2tVXdkS5us4QcUcASSc7aBhtXQnAlrB6FaZsmonq_-jSOkMEe0ZhkwN5X2UcLTODSnirW3Y
+Nepomuk,48.023298,7.858667,http://lh6.ggpht.com/wLUj1sHsC1v8ABvxGCe15RQhOVeyKUcM2DrRBc7CBvxxAxKnGYytjsNgyftQej84Bp3Yz3gQSjpbhQ7N9fu0
+Jesuskreuz,48.020328,7.862371,http://lh3.ggpht.com/nux3w3m0fjIT405FV0o_Z9Mc2RvNFO8dlUYq1KmPCxOS4AWlysJhOrnMVFSeN9cf5Lb16RxBnlKHzziRkk-V
+Emil-Gött-Schule,48.021748,7.859499,http://lh6.ggpht.com/RT9IC7rU3b5Tvfj9MB-05MO8w_kksCB9PWC0r9og6MUO9L6mLsLa6BQr4IEm_hNf48o5l24GP9cX3pCs6nQbuZGTEigAXTSV31tEyGRcQati1K4L
+Gottesackerkapelle,48.02195,7.861134,http://lh3.ggpht.com/afPg2P1CnPQSikJ-AOiSR0cR4U05_gKeoGrTUakDjaj-xz_7Cy5AHahIFXCvJtErikCoS_d6lhyqeF8RW835
+Madeira-Frösche,48.023464,7.853875,http://lh5.ggpht.com/6j0qQaDf_HaznJTaEfN-PJIj6Dzr8Okd9OS3Uu_yLK9Exole5RsNtkN3K9XwTvcGNyRrmO5LcEocCvWm7Z80eWF_vXw-gYAcKIHlt2sC96rCqUU
+Halfpipe,48.032275,7.803769,http://lh5.ggpht.com/GuMGXjK1UZy1lWz7A1fVn0O3CD_kw2jXeMqtKukZFtJBkTED-82SvEb7Tnp1-TK8--2vf5hoKR0QbvhjVqL7-g
+25 Jahre Landwasser,48.028679,7.805132,http://lh6.ggpht.com/cE4JqNtWX7NbG6iXr7KcXmPJg9AFgZumABBYSt56gCfTWUegLGZJKJ_P6l3-TUSQ06nyuLrUtYqo04HUgRyIIg
+Altes Depot,48.000977,7.867378,http://lh3.ggpht.com/OUm4eNKxwXUuEVuCMRgBQdfJazE-RgAC1nf-NTonrG8GIbI7GQLEEzlKTDMkcO_sihX80Q8fT4U9AeAIc_8q7Q
+Rupert-Fischer-Brunnen,48.00496,7.87346,http://lh6.ggpht.com/ZYTPpinOeYB8XLOtwZeVghgch_eZD4Nj4t3485h_t25ccDa65ney3k4c_wIKP_lFSLEwfA9OpWqs4y5tf_bG
+Kletterwald,47.997243,7.780742,http://lh4.ggpht.com/eiYQ_9aV4u7W-foh5-ItcLImocb79N0nU5uOw8Mx-eOLW5icsv-HHD2cujMcOExruMSiLYiIVAY7SOSBG4Q
+Skater Park,47.995836,7.78475,http://lh6.ggpht.com/sB4aX1ccoQsNIA5-hZ4qrWdkY-of2g5a1DE1PGYzuoESaRtoKzNlvSgI_iQI1drX60GUV-qeZH_QmzlQxXg0
+Pagode am Mundenhof,48.011028,7.779911,http://lh5.ggpht.com/6sJj3efM6qEMYjyQhyDppjaRlu1bSMGeMmE7YS4ttzvl4FrPYNgGzMoIEFE_-a8XwqmGsuFmbjN2_YBa9ZI8Gw
+Hölzerner Hexenreiter,48.010692,7.779287,http://lh5.ggpht.com/5ph720k94qmjKqihnMalro9wyGc3TwzPhiXNXB2_RN3Mzd6JcyrlboAMOdKh8oXhzNrVOV9VLW9viVHz7y-U
+Bienenhaus,48.010048,7.782252,http://lh3.googleusercontent.com/j4m4AvC9ZN17mO3R33-toLlWJpiq894wT5570y7H3qYQ9CsGZJKPfeb12ovezePcC1OZmea1JE7gG5NGfLA
+Zelt Musik Festival,48.008385,7.780259,http://lh6.ggpht.com/IQyLzgvPZr95A_DjC1WwWghHCXiP0AgN2lkliB_VGyPcQNQUJZz4Wuk5IjL1iD2jPQmMraCFc9ZVN-oBI-9z
+Two Camels,48.008609,7.781614,http://lh4.ggpht.com/jhJR5s9BWaLuKxpJltTr4kqlSsg0ZpIzlOj6iXX1Cyuct_60TW_Lu0bxTcm1E7wEFR0yLmLrdyjsXg03NeZq
+UFO im Kornfeld,48.008114,7.777971,http://lh6.ggpht.com/lYWSKmFBBOnZL6OC29HavmFY7d28UdMctUGpkj2rVvHHooU_7xM43k0J_T66XSwuKgkIIyDBXRzMHHjfrlmv
+Cross of Kappel,47.964854,7.908129,http://lh3.ggpht.com/0nEbIdOlcWXA__M9RZdJEWdDnn6mBBlbwsmSHheHFjEeFyZ708B2NJhEeZyGUPzmY9RJgkvSwmE_macNtZw
+Steinman Mit Mütze,47.991697,7.880158,http://lh6.ggpht.com/aMof6wknmG85VZq-7vNzpA8Woup57asRxFJDO0Us9Q4Z3UuiHzOPO4Tg6gqD6xrzIrnLbZ99whlkNh5E9Z8
+Balanceakt,47.991124,7.878989,http://lh3.ggpht.com/dHivT6nncA0wE8nqplBvw3SyOD0WVqGj5TmSwwR9Ani03P0XlSQ5g_d29xxvfzuI_lbM2A9dRf9KnkgwlY8
+Arachnides Kinderfang Netz,47.990967,7.879178,http://lh3.ggpht.com/eCTrOL1lptc1XOAZYnBK5LGi3DqhY8DNGPtsIz3bHAWh5rAWZxeR8iQ6acyqSEK6zY8Txqb1FSpgvnmbV8Er
+Kreuz,48.022304,7.801538,http://lh3.ggpht.com/P-GrnxuZVpQqe1r_9wmHg5zFQuv41hUOA4O_hjpONw4NpAEFr58hxAv85h-4rEPSi1FI_8YQhsbaOdMCsrc
+Schneggi,48.024332,7.803915,http://lh6.ggpht.com/Ypk1OUXrAE3Y8dFieCGADWwMV_0KskK7MO2xhMh04JguKMUvvnf7Kli7wnf5ruSaGldNPAYGAXr62R85rA09
+Brunnenversiegelung,48.025397,7.804037,http://lh4.ggpht.com/0CjTavg53XOPjcXBKilUYMmvP0HEedpjY1EKIPradPBlpJUxljUtb3VU52u6vnaxwjDNhkjXkmGSRh2tPHCG
+Die große Holzeule,47.997706,7.777518,http://lh4.ggpht.com/Kd-ZwSgiCE7zshdhODXWmBhi_KH1TBP6pTQsZjpefW6woglO6BlOj-j3ENYxqO2R2XtmXs792NxRrAsc1IfO
+Naturschutzgebiet Rieselfeld 01,47.998188,7.784389,http://lh5.ggpht.com/FdVW_x15gMXSg25aB5HuBM8FLhPfAZK_yiaAnGOfiKhkZ1n4qfu_IZVH5_uMlRd2nkJdIPjedVoG5l0-n7qh
+Hänsel Und Gretel,47.998236,7.783691,http://lh3.ggpht.com/2Rs-TbPC6S3EuIUUhwzsipZMJ78IAsuIn7lSt6zeLZAlXKPE72_J8PknO8u1qTvFsQdpGYREAI_83A8ZBXsjCA
+Morlock Luftschacht,47.999812,7.856675,http://lh6.ggpht.com/k9kKU-mPJcci7LtpbS64MNSminF1aE2Gl0zfVoA-tN_QSCWy5sTQhQCx8Ry1xFZy1FCEvvT6yZgYfBFbms6L
+Fels im Stadtgarten,47.997988,7.856749,http://lh4.ggpht.com/gKgnstLvvDxFwuL4X9QneYPoVVQpKTLq40k7A3H1rdmiYFUh_CbctEOYWCfM7wSlULyOL08k_6uKsbbW3juukpBoVAamDMJGCv1ngyvlw3NSmE5w
+Steinschildkröte,47.999154,7.854442,http://lh5.ggpht.com/09-5zChdQWgGCVlC2GNS4Q6iTo8dbEoVfZPG5XLk__pzBexDykACi1Ygs_mMIi3hzkyybRHGeZn_nvbN3k4
+Kleiner Brunnen,48.000599,7.857519,http://lh3.googleusercontent.com/OTVzQI3p0HRyjRT-E4ktlhzRAhHwI2zg1Je5wn8ML44XCG-5ZCHy4ZNNMDR8q7WeHIBSg2mkDFex-hbMWFaC
+Eulenskulptur im Stadtgarten,47.997588,7.857315,http://lh3.ggpht.com/aI7UQdRk7KoyLcYGeB4kSZWujiCxS6Jlw3N0oMANWhj7xQkddSgHvMy3xfNMEkSzl2Fuha_Q8p_wftgir6SU
+Kunst Am Platz,47.99755,7.859092,http://lh6.ggpht.com/h-PfvtUPOspZjM-X_30BNzFO8jSNN6WHGCo4Iw3arah4M9IdeYNfjHUnjjPmdhjUthZhbrgmE2YTBHWJK5z9
+Weltkugel,47.998473,7.858336,http://lh5.ggpht.com/_MFpd02bp7K3Z1CFMBaVNWMrYg8vfFTFNes4HUht31iwUq3h1x2as8WqaHrmInoYLg607wV3cZAqi29pdv5L
+Karlstr Cross,48.001352,7.856594,http://lh4.ggpht.com/-g4MQYaGEFcRUU7usIa2TEsnU14Ziq_WD-Yvsgr8SpM3Zsd8-RcjYA3jt3SB1nx79Hde_cGPuluL_zWbzJKX
+Siegesdenkmal,47.997947,7.852937,http://lh3.googleusercontent.com/xpIC1xR-54zVI8JY3vL2WIOh4GfZyNMAfIDx0SKM9NKGHiUuQGUANwBsuWKJMay33nfVUWnywMaCVefHabTv
+Weiherhof Schule,48.004923,7.861059,http://lh4.ggpht.com/9JxYqNbfEKGxW-zD8C4fcJibR-q7QEa0ESVOdJ0nTZafyOi-2sGaQG3zMnGa7Do_vKjBdt0FOKibXVmUg9M
+Maria voller Tränen,48.002399,7.860233,http://lh4.ggpht.com/eCQL38AkVutgUdjRx288c_8L0g20jjkZLSSD2f-7S9siyNKyziEl8wWs4F1zE8HzAxby8Bj61gYomzkBeYK5LQjtl-pgI_Xakv0KiwLbDCmbqRU
+Ev. Ludwigskirche Freiburg-Herdern,48.002167,7.85906,http://lh3.ggpht.com/RUylTbglgq4vRYW6hL5fhHfS0Cs5qfID_JwqA7UP6sViKu-sT8Ny8wBuyVAMukiCb7YedRP22WP4C87qI1AB
+Freibourg,48.000311,7.858467,null
+Weisser Kopf Stadtgarten,47.998481,7.857003,http://lh3.googleusercontent.com/unsqCEXtaA9xO2ewDGIuKBUkBP9kEkn8QEJOgZcPfoNUtqP9qAR2qqYhidQ2SfOqGbPIaWhfr-xs8tp0kB-x
+Goldhuus,47.998008,7.854229,http://lh3.googleusercontent.com/JGNqlVbCA54Te8Ul_KObaNYP7Rd8wDCZd3qdwlb1XOjJz-2bKstErdSZC3CbHu31531OMMbMAx_eXcrs5yRR
+Mund 👄 Zu,48.002624,7.859799,http://lh3.googleusercontent.com/8aZhSGLFNVGLioDth2TxVZln_Z5tlY6eiWwN_-uldve0lR5Ah_pN8e4EDKK9k0BBRJeDxF-CAq7dmr84jzY
+Sonnenuhr Alles Braucht Zeit,47.998684,7.858284,http://lh5.ggpht.com/0Up1mWj15k9GQ_XM6K7uFavhGeKZd4fdm_L-W56jqaOs0OqzJMYtnl3YZCwciKwRfbOc-subq5Xj3o4u0NpRDA
+Eulenbrunnen,48.002309,7.854294,http://lh4.ggpht.com/J0tYR-GKFSXsydXrJ_s2RikGHu39ZnbYHPwTFhNbDgBp1vRzS1l_uDGvh8vC3Du2oAMAJ5jUhd4zs_Sm9jNn
+Holzkreuz aus Stein,48.000994,7.858433,http://lh3.ggpht.com/ha9gXPY4fOflyL6K9VbPmMWs3ubfH1CPMXgKxJ507t1oREaiaYUAgcDQ3AXYWhREk4SQVfV33eBCTIbp4Fiz
+Geist Schafft Leben,48.002708,7.85316,http://lh5.ggpht.com/tgXcs-hRuAoOqSlhmkpOf088rmJHwAEgheLuJecgKgsyOaRwDSOU6Nz9jOb8xIHl93mWyGHXqq4-f9vbqWE
+Skulptur An Der Katholischen Hochschule,48.003889,7.856966,http://lh3.googleusercontent.com/ukwNKDpc7_kIAHolDkGVH6fm33AuQlNGTOcxpJB01T0-UTfPiqNbaf9yneCzEKGlmXegMhTdxpOY3V5pcMtKBw
+Kapelle Im Alten Friedhof,48.000926,7.857031,http://lh3.ggpht.com/Ak0HR6pt5PAOHCrCe76-4hNFQn4xGhXBdpKBqcI9sM1RwyPY9zCpzVCcvPaatC8YRbODbLIqT_sK8lLalklUYw
+The Eagle,48.003876,7.853516,http://lh5.ggpht.com/r20mXO6IB4h7KJWlJtBeiRJKYPWAIBKD6BeaMCWpkcAQU43Xub3cMmGoLb14xzUA-qxzrQf9-LLqM4YSZEmk
+Mikado Playground,48.00467,7.860334,http://lh3.googleusercontent.com/XfltNN9US8uPwgC6ItqnYIVtoJNYb_2jxoEMM0VuVpfOh7AvEVKCCA8n37OBcyEF7DEbW1HkjYF_lLVmEEA
+Engel mit Kranz,48.001366,7.858644,http://lh4.ggpht.com/AyzI4wbAnyLyM4yLaNQy2Rl74uBQmXXzeWDtkbaDzeDiaUk0vXQrMwoU2_UGjNd-BRLi1jUWBOh4DuzxiE8j
+Heiliger Josef Schutzpatron des Kolping,47.998809,7.855048,http://lh3.ggpht.com/cNWb6Hw1pXZa2tSI5wJadzysHM0t2x4HFaBA8oJusPXvPepomKzHN665DEu3FWtN6YSL_-5T22bC4WXpEGzY
+evangelisch-lutherische Kirche,48.000652,7.858593,http://lh4.ggpht.com/yEyX2aTPfnn9dwPZZudnfahg8pNHApK_yYQh3pDA_ChqHFaqsrpAXtXOe72U6YsQcFU3zbGofyJoKlzKbsaGPHICEVDKtemFeZDH5oZrrXEnihIa
+Herderner Rammbock,48.00333,7.861962,http://lh5.ggpht.com/k9BiynaC-YcCoJFOVd-SPbPrrEbaR5W_DMIHgbHeVmGzRf9y82WDdyYhicilEXVCQ5Jb6cbUTeAmvgB2VDs
+Immentalbrunnen,48.004571,7.863077,http://lh3.googleusercontent.com/_92me70xktSGWroyjTRejAsfZXQ4L1kJRjhQ7QWJgvPRj_DdvJ3IHONsOsy_KckJmRpxiN2XYV4ekdWiCVl_
+Kepler,48.002909,7.856811,http://lh6.ggpht.com/NZa7jsEI5qPJAV5GS6BmmONCEe48ai6Es48mytspBZJBKrCV5ZytJZ5P-k6711n4LGPuS9FqHdNZg9MwPFoH
+Rottecksruhe,48.000227,7.856665,http://lh6.ggpht.com/iROOjLWLS8jEyFxikPfIhUVTbTfYLwHOxUb7lA153sWNBdbN69_adP28hE60wpRWWsGb9eUBxP20OyGcOpASVQ
+O & X,48.012052,7.822531,http://lh4.ggpht.com/CPFw9KViUweV-OlCZ6C4WS89J9oJeMlcIdJZKy2a-3W8rJcaJTrVFjvCtkl5Q2zxXua8l1bNmcpHpt-Z1YY
+Brunnen,48.005995,7.820045,http://lh3.ggpht.com/ugMvtTBAWTZKngGjKwKo9YDTMZcpVMdTjw52OSybMndPFX16D6ub0w9jaGrp7dJeu8MKIUHOiMfKI4DA3bLb
+Schmetterling,48.012156,7.821916,http://lh4.ggpht.com/qCXRb14wMDB-UDrCUdAagoIcYawWqw72ubvT24KdJzMGe3u2tHhKIFPOHoP95ryQiHAmqmi5AdPaHHAHxTU
+Eugen Martin Anlage,48.006716,7.824081,http://lh5.ggpht.com/BKTEp1jLsqaKKe7IVNgXhFkRUEQMOGF7PZI6yTVMjWpRsBtOzgOz2SumqyPEfezycAfI1YXc3E0GReKszk-s
+Eisstadion,48.009025,7.826883,http://lh3.ggpht.com/Gy0vJ-fOZx8dTEhOfElpIMFux7rXa3lS7WTjrE8u_cdHWyTCm0XAcJWCB1e6ABjUGd0IKmKxzMtxaZymt3P1Aj00af12xfTWU5XrjjkSzSkERiJy
+West Stadion Portal,48.005906,7.82547,http://lh5.ggpht.com/VbImi8svVyEp5QgzpBRHf5K9jhEPwoRpbCv3Brb-gnDPEB3nwUKSWGkjDLcuEMlvQUIsvXVFErL06kdq4Ddk
+Lochstein,48.010977,7.820843,http://lh4.ggpht.com/hf122VyjMdOUJIHGqTMyiEDtrtmH_jG-PpNqbsBpepfACvor8k6cQl5FaceBOKlpBFlpdmbCge6wnm-Ev5_06Q
+Carlo Schmid,48.010191,7.828187,http://lh4.ggpht.com/05y_QYHWtnL4FbJW_2mymMbepkB8GTSkK-nVe4gyF2lvChUzGWLDpHv_LZLnCBVEz40-6Vv5WIBSdmIQo2YW
+Holzturm im Seepark - Freiburg,48.011261,7.820263,http://lh5.ggpht.com/yqmnopj8ZgIzgl4aV_s5fIoKCx2ebJfYB-MJDheMhimxDN9qXqR_LJh__6zGDmWZUwhzGPvy5JRjcX_DpTxM9kWVGkGNmxV-0ojmXeYFZHWPKsar
+Bodenkompass,48.009392,7.821655,http://lh4.ggpht.com/e4rLkBi36JovnHngBiW1gy2ibfbB5fYDQABgq8X-ISVkoRQ6XulSjCqPp7UFn-lzYr4nYOcUzIQUaGXCbz8
+Zitronenpresse,48.005698,7.820533,http://lh4.ggpht.com/KRXxY750wfvS_Xoxc382mx73p6oHopnp0CQXnrZ7HtySZj-KbHBxK00JfMXSwx1ft4Dk0kBwDL3MI-C4Ob-2og
+Mosaik Muschel,48.009526,7.828959,http://lh3.ggpht.com/mxH9tYS1oktHJ-o8P7M15RZyuOlLQDv8IhgUyljKN_c6UPCyS8x_tT9EWqfJ9Q0RNfbcneD8saZAEnqcdszy
+Old Timer,48.011903,7.824464,http://lh6.ggpht.com/uN6Atyl5iBYuCScl37B4iXrmbcWhkc0wRPIHKio3KTNeXo_RxPHJ0c5PsGCZZpApQcUofwHmLXpG8nAv-8Dv
+BD Crew,48.01076,7.821369,http://lh4.ggpht.com/2JTOjzbQevv4iFg7AENH0AHSM4oRZLbzDpe2qzM5ReHMk-xZpfZTcJT_6Xg0904oFlBx7I7ubnbAQ6iuXyuWOg
+Mülhauser Stüble,48.012029,7.827192,http://lh6.ggpht.com/LlvWnf_cIngqiRu2pTLaybb3CUlKWuqhy8-LHaajBzyJ5HR3DYF02nMvOjua0oNyaFmK5U_WkdGZkCCPNc18
+Steinschnecke im Seepark,48.011414,7.81891,http://lh3.ggpht.com/8kwNIx3I1bDZuA51CaKr8XTG9TOcEezeG5lExyCd_0vBNhc50v38OPDpc-p0TOHYF4nPoXdpeLL58XczILCeGAiGzy9-_V13c4zb6hbz5cLFIWJz6A
+Schneckenturm,48.010294,7.82122,http://lh5.ggpht.com/cvpQI_5moJdtC9AaU7qeDYHfVPCzhleGtsQ9FpOZYMEtO4q6ozpgzUxwc3ocaLSu3R9tbOSxoYEm9x_PrDHPJMGNCNmihiDcC0EzpWH_gT6w4SM
+Besançon Landesgartenschau 1986,48.009897,7.821903,http://lh4.ggpht.com/z1Ll1KXAL6VQhRNU1W0wry1fQ0fF4WTqr5_YLbSKoNTQuAVHY86uDdiTuAWOk7HVAJg-FElLgtgAdjBV7tSR5i6HYTmQkPemPm2yNb5XhJuM0sbaDA
+Solarturm im Seepark,48.008758,7.82192,http://lh5.ggpht.com/6Dm8Hypn6Del-72QAmbWEDA8mA36uAhTDuwimE1Rpz0m1kzeAgil7gfUQLd2reGpFCp19ovluMpmjI1N4EqT
+Gazebo West,48.006519,7.823463,http://lh3.googleusercontent.com/F9lwkbdfWNbXW0sdMQs4WrUe2pUhCNEmKlggbufd5BqsHauhSf_B9IAc5cIGnSWj4aE32a2l1sAGVOTT7lwcag
+Bender Head at Westbad,48.011354,7.82278,http://lh3.ggpht.com/n7m8IUU6Ud7yp5szApJl9IMzmhUE2rB2gJ1Pkie3OIMZ3o0ODFl0PTqAdM8nQFQUFhvilL-6yr5f_rHXF3qsK-95KWBFpIfAOQFhcOcNj_rj_Wx2
+Wisteria Wasserburg,48.009054,7.820512,http://lh3.ggpht.com/BDqlOsJ_UV_CwUKpFuBpx8_sRdGKphBHrg82Amln4Qj2NQjjL-7Fm41d7z5NUdszTCCFcmEHBqlFF0vjGTs
+Pontonbrücke,48.00966,7.819694,http://lh5.ggpht.com/NiCW12cBPRrx5fE-ImWMNIauNq9R7R9z36S7QA9r8WBTLBySym-U1y4aO0kjNmCTd-sDcNKv7N1ihzn5xift
+Hobbithaus,48.011858,7.82092,http://lh5.ggpht.com/oVHEcY-C2wHPKo9c9nIM2D2Wcy-MwexqZRezO3AY1OJdGiBqlWXj_9Lg_FFZd-X2j1ILkEs337WIV44G3VoSVn4ilhQIf2_QpkWFkpqo7pa--Xqj
+Wiatrak,48.010781,7.827807,http://lh4.ggpht.com/_8Z4UIzJD3TnUusEzcn22gwjO6CkSiKWa43kv1exLWlk9KZJMoWar8V6GkOgSbDdqSQw_A8As7oEvaGnEAlr
+Eselreiterin,48.010827,7.826015,http://lh6.ggpht.com/JgzevP3iVySJVbymKnCAttwZMICt9UMHtQF7j2ECfiw-az6gZnOUOOo4oQK63hGkyPgGU8g_yA1C0iBpIJk
+Riesen Eistüte,48.005722,7.82728,http://lh3.ggpht.com/MFPOsvK6QyqT5HU0mdxFC7dXFPZ0onBT7JI7ell9VkagqrNTbELVELLrmJeZlHDPf2pLk9laGj43DYkOxIY
+Fiddlesticks Grafitti Wall,48.006441,7.820398,http://lh5.ggpht.com/H45L4uxNs2sajNuw5lY_iCtMJzMNtLvxdo4w8CY6HkJsD6h5LDca1PMiZ5I4A6V0c1hBMwAVPZ9tX-_ksJD5
+Skulptur am Rosengarten,48.007611,7.824036,http://lh3.googleusercontent.com/xvxziHPbFz-_R2YRjbR64LWEh2EJoF1dj4WvZFMpY6jVOJ_HwDm0tpKht2DJGOp_uMUbnVDy9EE5RtIC5nw
+Weingott,48.011053,7.819498,http://lh4.ggpht.com/Wi1N3rJdp3CGAkIZMrdeJ4uNbcHUTriUygezp58HCiEDBYKTCgBlvgcrN68dLaPL7yOfCSDJ6m5pF4aJN6ZW3lxFNejZbsR2r4eSZLKfeA2x6F1_
+Graffiti am Westbad,48.010885,7.823458,http://lh5.ggpht.com/EPXoxD2t2scxeM6jVFNc_HVoJktdnYP6IF9A74K5b_awsc46sfM1YEtNh8_AZO0guGasVV2Z_LAddh0i6OImnsHMnb1F5z5eb4k4TgdNfKYbzW0
+Weststadion Freiburg,48.00703,7.825502,http://lh3.googleusercontent.com/BglYWV8Nwmdq8XLlkc2JmSq85Wltw6aCoNu9uU9bOy277byhg0E7SomR3TxIoLS6rxm31po62O_h9255BNq3
+Piratenspielplatz,48.008848,7.825406,http://lh3.googleusercontent.com/n5-G_V7iJCpvvcTHPE73TZ_n6nuQWUuHHO9_hpyqkx2Bv6TcO-jAwQylREmCoHIsbxsGn2zhI7T8g-DU2xt7
+Forest Temple,47.996972,7.870494,http://lh6.ggpht.com/4_YWh-T3pPYpeWOwia0N03PHfZdjkfBRnncyHnODfR5YPK7WhJ7P4yHjEaVQ53QhcaYLnX6aynmlRQ-7lPa8Bg
+Schülerkunst,47.990193,7.873021,http://lh3.ggpht.com/-57XjIMzr30Q4pFjZgCUVgMY7xPh_VQzE0Tr3H4YgqoJ2pxIOFQ1XwIYwAlCXt6zHeSqXQKJYTzU7XM5QjA
+Stahl und Stein,47.992141,7.86878,http://lh5.ggpht.com/4X5OSZscV3gCWoVWZYqIcSjhPRzuhEsDXUjv7w39msxp-tLQqNUQ3Ey2Ra1LJT-moCwK46WDnn16q-oJ9oemYg
+Festung Freiburger Schlossberg - Der Kommandantengarten,47.996811,7.864973,http://lh5.ggpht.com/F3SoJR7d0neTSJwJ-9f_UMwZB-EcQaE8egRKZB34TGG2zSvuUMHTkJ3B6hpjlV1-uI8-diqEIqFqsI_DyVhq
+Abenteuer Spielplatz,47.990445,7.87405,http://lh3.ggpht.com/tas-gzuYczhcAooud8HAeCK30R95LHSmdsPzrU9HfWMHOgGLc2m05YBoAePeM08aoEb0a6HN7KK1mBe83b9N
+Energytails Fountain,47.992089,7.872052,http://lh3.ggpht.com/EK6ecN6a1uFFxdMr1V5wgtYt1mqjkhnZS4N2s6pljqiU6BRP5Wnzr2Wjv_H5rPrFd5yVnVN8DjplUTzMIm_9
+DFG Pavilion,47.989989,7.873879,http://lh4.ggpht.com/zXITScTJYP-W6cgFLqKOcAnnuqpu1a2-x9lrirp758KGRIyenJtc6ypZrGobjKOTay_rRtR-nfvENw9Gl7K0
+Festung Freiburger Schlossberg - Die Peterskirche,47.997431,7.867329,http://lh3.googleusercontent.com/-IfmWvMayiSg7NPq7NOImtr94qX17IwPppa9lzfnPy1NTkY6WHGVztyId54r_W5LDCcu0WvscFzfcA6u94vj
+Gedenksteine,47.997563,7.844755,http://lh5.ggpht.com/6rhSn1Qxyd421UAOOjAj4bfgQeTPgf1E6ZhEzjmdCQsTf9A0udeEJ-CRigi3gpPEGuAtPId0a5e11FCzCekpPA
+Der Anker,48.000783,7.845103,http://lh5.ggpht.com/amQXPypu8yHZELBr7ZM4xKQccxMbYd4j0slZdTlcasOFHbqBelEvjg9-RGLKi_qpn0Pnp17MEKBsMhyemm4CemhdlDbss-gnLrrAOT9WeUArEwlYnw
+Kunstraum Heiliggeiststrasse,48.00447,7.842485,http://lh5.ggpht.com/-IaTbAD4cQLyfxdLZYVqH8VvK0ohk9ozLoNxvTUgef4eukDZbm83TNHenIBhbqIgdWTjUJjw3xe6SmQn-sMygFZdUCifgzKCtDU7m8dmyoFuu14
+Stolpersteine,47.998363,7.844539,http://lh3.googleusercontent.com/_GIJP6wKj1aaT91XY7EuePEEhRVkrZQz8jVkx2P-4axpQ9Uy1BfnryXNhnKMmTzN40l7--5htuGOJVBnc-P8
+Geoinstitut,48.002301,7.847976,http://lh6.ggpht.com/OA0iDBzDhzDZIj-Z72Xyp3RVxt9bJqq-uwVgxjKwYtiy1zmPDSfrfCPyXi7vIWqqyZ4r8sURZgIXywOFaEP1VWdNr5lT46u5xb221i7PzMaj6n1C
+Freiburg Flower Fountain,48.000562,7.846078,http://lh4.ggpht.com/VJH4IuDzMKeDggnBgbtfnqKZx6wNy5wE2X-XpXg62TA-a6ddNX_PW35IAUTSHDeFS8K_8XhYmrBUcfeae5Q
+Brunnen Friedrich-Ebert-Platz,48.003278,7.841555,http://lh5.ggpht.com/ssp6Kqfyp3AWJlUg482PavhMd69eOxQkVqvPW8XNlqYvcpu9_lJg8d8zzZ32DpADZATbqaIt-jFN0FbsNC5RQa1J8BWaiqKFhoomvb9KjFVLmPGt
+Antike Vase,47.998211,7.843328,http://lh6.ggpht.com/adMmr1uo7Y5X6NufaasWkqgIL6m8wHEDpwg-vwS7YOwSCitySjNYLeSsFaefyNpWpDhoeHhqfhplbzuZ-WS-OQ
+Commerzbank Freiburg,47.99858,7.843627,http://lh3.ggpht.com/y4NUF9P7v8D3zCWFCcBV8Ggc8EU-iDiXLoVM4Vta3SaA28txVoYq8-KaphRNF336cf7-rmohdhGPprbcuRy1faFmsBNeR34-PkR9NZsiBECooVoR
+Frosch Kinderklinik,48.003409,7.843476,http://lh3.ggpht.com/BgLZUK2AknGE4DmeuKPKn8QT01wUXb-E-GYRdEukmoqpJj2CZB5ea0hzWgEIPsT9vFWknG-v_yCof_Y7gRlI
+Shake Plates,48.003598,7.842993,http://lh5.ggpht.com/h8mkE3LUhnMxteAsn_ZVzx4LZ3F4sQfjEbAg3ZBZkccPFq0u0H8YTS4dzlDjs94mCiChXATZxplFYCZbKRlH
+Rutschenturm,48.002576,7.844275,http://lh4.ggpht.com/8dgtmt_vmUkNipgDftCFO2l1wVrFFYXvyQmA9Vcm4gmx1jebj_1SduN4Ze2pban6X6uz05CtW3_P34UGUgs
+Nie wieder Krieg,48.000756,7.842487,http://lh4.ggpht.com/110sWJb6NzqvuumDfxz6qZ0-z-4qafpCwQP75H2pNg0ZCrZqghcrIpgpVYgc0cEm24Qu-Q6CNQVUw85YrGzTXg
+Secret Opal-Cubes,48.001058,7.844837,http://lh5.ggpht.com/XWXFbDeCWGRfZPndkZNYaGdnLVx9bwD-XQU0S2yNJesOjwqXYROek5wvF1NQ6sT2_q9RaOhTJmGBIeyjLuUZawsEAa_Qsmnzp4vA2xTLQIItQmKqFw
+Statue Alexander Ecker,48.000941,7.850436,http://lh3.ggpht.com/uBOguKXAnGUE5zdY5_MXESxeBlXtPNdw2ZgCC0qwO6FU5IiRtebVy1syC7JWBm5r7B6Xpyk116X05YUAz_P6tcakUODvhxAHRuDKNVOdqMkzDTyB
+Freiburg Hauptbahnhof,47.997595,7.842275,http://lh6.ggpht.com/ujvpjJvf4xcj9VVaE8X96nJRcoRz6PgBR-7C2LhJxpF60VgEIGfRAhNr-KxC4Cfq_XWZwkw3QPp_o-XDJIyH
+Alien Ice Cream,47.998164,7.849284,http://lh3.ggpht.com/awATqUK205WojGTgI7s4O0EmnK6BkkDAn9RyMcm8PQ3-V6dwpOJNMUr_e4jm2DYu3OPriymSK4CvKp_XbkeqeQ
+Colombipark,47.997615,7.846739,http://lh3.ggpht.com/jCnttITo13UxkoEPTrSLOLwqRnnO6U4Ep_zvXNJ_eOArWvkElXiT4zFY3Fs_j8gfPL33Sp5Kpe4DsierIVmV
+Windrad-Steckdose,48.001104,7.842367,http://lh6.ggpht.com/OpOLto-jF219a8jqgBEYuRqHVS-2QKaZf8I68eulIld2c4R2j4a7MfpzS6pA-tdcfdqFQRaSPDYqgqswBvkd
+Pharmaforte,48.001577,7.84648,http://lh3.ggpht.com/M6oSO-UJXnYLknTRMv_1qL5bm7LroBsmS42N0Wt5XRdoYxkKAN_C-7DrYnfZSpwKOjEJ8Jp_FydMV2sc6EzPKyh5N6F2390pRnE6Q_hKsxB265agNw
+Planetarium Freiburg,47.999188,7.843148,http://lh6.ggpht.com/TG3UYW3vO04tdLBRcnpYZsYTX0pGWxRSTyivbcPoo2MxyexJwabCpUe6ZSTax-LwcSnUOEENQY7DMdH5h7s
+Rusty Needle,48.002646,7.848147,http://lh3.googleusercontent.com/uYDk3t_wWQNwB6clzI2qAEk_v2F2lTzjixNkizPAmv3qSIn_oEeWPLFxYe1rIbTAPnGr3Og2EXWySE2ll1Ms
+G.v. Hevesy Stolperstein,48.001365,7.847575,http://lh3.ggpht.com/xBMWN-zifVe82gmA9JdIC3Upu74DOCGS-EZmrsKFDSp69XBb2dLWMgO8Gq0OCSnyAmFQf6q8odrSR5YCW8SEEw
+Heimat,47.998239,7.848161,http://lh4.ggpht.com/FoZVe2dgA8Vh3WyM0tJ_mMfnbNqbLXO3A58t5horxvuSblgRJQ-h2xuEojqAR4cne-AjHym0JJroj36Zx42n-DPWzjj7cgVfvItk4YAjW2M-QWhd
+Solar Energy Educational Working Station,47.999342,7.845794,http://lh5.ggpht.com/8_UBOdI0hWJQdRpZqeaxKtebAPL9-D5PBBYi_QXar1M84ZTj4sEhCM4cC5NCSzuDKW5l2OmyJ0oYdBVFKmip
+Urknall,48.001564,7.850817,http://lh4.ggpht.com/F_SVoUXuudnzEaHk0SGqYfDBxV4P3OrRMGIn-TSv4KWG6snmp_EvxVLQYZC-mueVflpGlh28kHNX5coqV7im
+Brunnen Merianstrasse,47.99748,7.849569,http://lh3.googleusercontent.com/Fffd6KjbBWx5LVTq31wzaYawKb2_utW6rOBWe0eoO3R5R64Q7IwGutvpUimEv25yGtNLCppR6Cf677hXJgU
+Sonnenuhr & Uhr - für Regentage,47.999584,7.845498,http://lh6.ggpht.com/Pefq0z5Ha08vccmxOjirX7MVG-bU1lIqu687KWqpwY3E2zj0cbKZ8otRstL0OkWa4A_uUTqAMnVMqfBj1IW7
+Alter Brunnen in Freiburg,47.997836,7.843024,http://lh3.googleusercontent.com/3kax-ERdqVmxZwntRulugQsghb5rwuymp5WYjRMXK6qW78yNK5ctRownLKgq98sl70CxbOlZnZipfdFLcZxaww
+Spielplatz Ecke Kreuzstaße-Colmarer Straße,48.000721,7.842913,http://lh3.googleusercontent.com/00c7DnygCxvBZpd3qDP-Y_dNWSti3Mso0IkoxO1OtXPI-eACdc3OtJGEqxEXe1MKxJI8Hwf--1mWl-QlXhk
+Mensatotempfahl,48.002449,7.849214,http://lh3.ggpht.com/fImypMhUXn1BRwLVhmlf1oNT4VwthbXpQcfRT37VzvarwPGG3_O-BFLfzGeHInHEz20gl69hCiUmp6Tqh-1sj2hxVo03ktdQYtVi6kZYqRHTiHTD
+Stolpersteine Herren Joachim und Fam.Mayer,47.999086,7.845053,http://lh3.googleusercontent.com/29IEClrws4mhztgTg7JW6jFlxXsx0gZpoJWKDSe_lkwt99293thiotmiILk6KDtA3LMOxQZ6ZmiIcp_J5aI
+Kinderstatue,48.004321,7.843176,http://lh5.ggpht.com/J3srfR4KCk59FhC7YBUbdTy0-8PJfxBPEH8iQvyJcsMdx-CRuOsxfFnPK18uNDWWurT99SDG1yv29rXbWm9L
+Rechtmediziner,48.000749,7.851324,http://lh3.ggpht.com/n8xxa4Y31zUe-0gtbAKXUkLHISDM61ZGtIHNi2da8Evybx5ve8Mnq-32XF0ackx-35Qujfb1FGSefEWtzvc
+Grüne Pumpe,48.000513,7.852121,http://lh4.ggpht.com/MvcnJYTuR7VeGuCpq3i1YPOxIqlAyfIHCtLIS70pFHSvww56WMTJwRzBAqBolmIyRnoiooCyFmr_Krzd-ujK
+Stolperstein Isidor Loewe,47.998636,7.851528,http://lh3.googleusercontent.com/soMTr5DDqcvZ6wctH8rgFX9wlGHarb6Gv0rKgeZUCS86npCzqZGW9kSU_hINFyfNB2LIIHjNo1tASbLLIEMo
+Berlinische Feuer-Versicherungs-Anstalt,47.999043,7.846873,http://lh3.googleusercontent.com/XDT9vOJzRIvBh0zCfDinxm6Q-8VC-Mr1nx7rfCziw5DiMoLIOpk1_ZgVcrzu4mjOjRBMvBU42gxgZi_ZTeqA
+Steingarten der Geologie,48.00243,7.847189,http://lh3.ggpht.com/ZQaocKqyEBvBs2YqWY0L8Pd2tfGLIehOlKOoMmNzFQKRZAjG85u24csW_dXjxi7ABTZWiG9XlM7l6N8cMUCpZbU0iKcpYxdFOITn78eH-vluDpSy
+Kristallographie,48.002677,7.850305,http://lh3.ggpht.com/e8l4k6b19j6GcYnUxZTtlPVHEA8rK0q4VmrPv6i5TmJANEb0CQCcg1KBvp0dWKJRn2lWeMYXBRXxy_3VcPRznQ
+Freiburg Knights Ballpark - Homeplate,48.002337,7.807678,http://lh3.googleusercontent.com/hNcdnjRj8cpHiM96BkI6_m_d1zY9qV6TqAb1VMfdf0MjnmfNk7JyrTW3LOCtIF4aFk6Tr_5-q8TiLJcTtSQ4
+Schattenstein,48.003313,7.817049,http://lh6.ggpht.com/nBHQ96ElHfbTwCBeZfwH2-BXQOgtSLztMxzb60NY24BlrKItyYWjgZIj6HuO_4H8kbjRBmPs1Q6QucquN4E
+Schachmatt,48.004886,7.809802,http://lh3.googleusercontent.com/Fhyl0nbts31FSdz9giuTy0KTAxMUocw4RGi6W9L5GaOfIKQX4W_L8vLw4HkcmTWqbVPrWpUTv3qk3NAMjaLo
+Post Mann,48.000312,7.8131,http://lh3.googleusercontent.com/dMHfvMh1bPkuz7jLSVoNNGflSrWMFkt7lQFDwEhKeVbEAbo2iIDF53AIw0MouyfoYnID7KPmFDJX_J7jULkb1g
+Rutschenturm,48.004467,7.818518,http://lh4.ggpht.com/pOXyFKQVHsMklCAqufx5GVf4LBfIEk4ILNMOK_D2wpia5T-aBIZ3viVrTweZzgwdyCCC33iFJOdD3JQHSu4
+Hotdog,48.000853,7.813744,http://lh4.ggpht.com/kF_9KJjI7H-5UTPBOjSy3u4WPBJRG2naYrwg9eihxcEJcGXh_qwQvNc1-r9yYwJNpkCFH-F9b4X8fJUCvrd5MzOGgFPXaxMenTPGP95O_jo5_pY
+R2D2,47.995715,7.843792,http://lh4.ggpht.com/cQWn_Vg3ByUjqEOe9ob6L1Q_NxPn74T2t5IEs0UTFWZZlvrQkTJMzXXhqP4dlDY8guqSdug90RLJkh3oiDL7ELaEDBdu3C9H7Is0FXDofhUW8BI
+Kanaldeckel,47.993961,7.847281,http://lh5.ggpht.com/QxfRC1dzQLJIkjfr3Jg-oFAScq-HjaE9mkYgdjW8Nq26I7AWwhL4JIGP25fWqZuKfn04UKMgI02KPmVMorUf
+Rosa Mayer Stolperstein,47.993838,7.84404,http://lh3.googleusercontent.com/J0IvGP78CxsQaDKS-PYAZBDjiYd4JGwfu7o_83CKHp__zmJfk3FMI_AeQHBOJP_cxfRrBgYdz4V4iAsCc8Xh
+Freiburg Im Breisgau,47.99579,7.842209,http://lh3.ggpht.com/LTIbCMThWC0IXKCRf5cqThpgt075zyiLIp64ppW4BRPbJeLRi30X7N-FnPcQtGv561Bzkro6eLT9TmWIuzPS1g
+KGII Concrete Structure,47.997158,7.844247,http://lh6.ggpht.com/eKs8j-20rNrB80BDPB9cIGDJWrE-FtK8OowOtIqUgkyM6h12EN41acUozUnpy4HcKskenqQm9LvblJWKbSXNqsclshlV5OUnvylLesPRFZ99QD_g8g
+Drunk Monk Street Art,47.993371,7.850858,http://lh5.ggpht.com/3DfcvOSa8LMrMfARUCmBz7i3MknANPGRaVfd93ZS9AC7VoD4gvkP9lu0qiCg9uKODH-IthsNChErDHMfAYb4dw
+Tulpen,47.995439,7.850358,http://lh5.ggpht.com/MhD3SCZbHggri2QJL51D6rQd2whc37iWJank0KtnC7wD2pt07z8WZHg3gLKoelB7_vzc2ckTjvNPIXyspaY
+Keep Reading Mosaik,47.99521,7.846992,http://lh3.googleusercontent.com/Poa398yiUzrI0cIJ7zHE6Ve5lUsks9TS8vW49fRHgL5aBp0AL_WWk_GyhmPgnDJ8Mbkd6soKwqkHBonpZr4a
+Nathan Block Stolperstein,47.9942,7.843178,http://lh4.ggpht.com/NAK9DKIUbUwUiVagxDZY20mDJ1kQnbPbCwOufGkONAO6CtLwKWaJKtjuDrU8wm_Fw-9OBIKeTJR0aSIma4_7
+Welcome,47.993094,7.848005,http://lh6.ggpht.com/_DBZJyXDQ_jhP2aB8jbvDK3pBGEJSVKG7f5AV4RSvuvCcztznO3JYaOUu6603yRMwABbFJcjaxINjeacKRU
+Gewaltopfer Baum,47.9961,7.846522,http://lh3.ggpht.com/A3bcfSZPqhZwz59nQbXWHHanHq4hjV53DGNZ6InZMmT9UpainlgsUvy-ijMUgdgoKBBMoqnJpGX9THumkoY
+1898,47.993561,7.851226,http://lh3.ggpht.com/aAlggVK_EWYplMGurUoX3G27d7J6oxJd7QNiMLnFEaR4hjlJWJqy9wDBpqvm-qE8By0mVexhZeDYKSv8zbo
+Anker,47.992421,7.851521,http://lh5.ggpht.com/Cmq5c_mZgXMDRY7mUKqubJkbdsHzeje9DhX2rUmKMAX_w2_alg21cLSLGSEkqJuSv12Eui1YCO8UnMxpc_mB
+Brunnen In Der Passage,47.995467,7.849663,http://lh6.ggpht.com/vcR1atR4Ogq485mpO6lnn6OSTuaXynyABfCmmdjlqEtyPTldhaowQ0yoeoiReGK6WeTk6WCPaEteg9a6GoOj
+Katze,47.991231,7.846571,http://lh4.ggpht.com/w06PU3ZbDL9rUxe-5Pw38EAxB7kgopygZcsK-jxYWSVAza1bwLN4cTUsPM5DV4K8OIh0bqgg9JjM6FjUy9xg
+Mensa Rempartstraße Mural,47.992512,7.846348,http://lh6.ggpht.com/XiEjc7xkETDJndTHxG6fCHwZtuWDDRm4giTOZSPMA2OZRpba-7ZmSN9p8iSkC3zE9B7lexpC15ClsOGYqfw
+Schneckenreiterbrunnen,47.997237,7.846585,http://lh3.googleusercontent.com/pXgXaxxhbku2Ol4WD31gYHy0L6gxP4iz8F05xlGbgWuz8nd5TpOPUzlOyq1KJNtcS_l3S0Y3dpKiejOhWgNy
+Aphrodite,47.993998,7.849224,http://lh4.ggpht.com/HBaxndYi0Dre6rXDeLX13ku48Vvk_37JfFfcagfhha2wYlcXFL7GLAP9-M2qh_4M49sYE8gZIBqDzJjBsO-sQJnOvG1g0D93BE2m9l9gr9ieRtU
+Freiburg Basler Hof,47.996538,7.851769,http://lh6.ggpht.com/Ki7JQ8BxDIKrPkOeg-exBza6adrq3vWT0OBllzvHIeX5_5AHDvwoH27r24QzB4GT33J03LQNgSLv8ren1_Y
+Mosaik,47.996705,7.847366,http://lh4.ggpht.com/tEv_WpgCErqz5DhakoDQ_kq1WkFkNkUgqNd7PsT58dojq2Wu0swgF3JwwqpZd8rHY7OjC6phibNMOtwEqwBx_Q
+Freiburg: Wave Portal,47.996606,7.850774,http://lh3.googleusercontent.com/r6YdfdEUuzee2FrvJc7p0ZE4w2jexnwUj4sAskpZVXXB2uADAUR78HnGK1Y5wXW-OoH_iAxd63HrAIHPZZs
+Bloch Stolpersteine,47.9939,7.843667,http://lh5.ggpht.com/7ClLqnmDbyZjavEZz65M7t4zI5lBY2yvRxl8yPUDO4YIGboOp16j7d457Fl4nkJH7tT1lIlXkBXERRfE3MPe
+Blume,47.995072,7.848977,http://lh4.ggpht.com/W9pNrsZDQFXKPklp5JBPRny2yh7iDQBR6-ItvJKZLfLDSsUwIoMzW04BbP1bTXwykTl-HHtDh3g5AT9uPTlH
+Cork Screw,47.993175,7.84586,http://lh5.ggpht.com/_sal1m9s-cUilTfNeei0uZsHt1-b8rLfzEDwttdPI8guHjer5_Gh0AAoTioY3cOQ6ZUDo8Lv7FqKhe9yn1WA
+Wasserspeier,47.993248,7.850352,http://lh4.ggpht.com/5N7CP784P9yxp6nAuTGPQXGTXc8mKPVifgn_zQum1y5vJ6YkMHgwJwm1mQOHRpsjU9VVIYhTfaqSq8CGhI8WdQ
+Skulptur Am Landgericht,47.994694,7.851815,http://lh4.ggpht.com/xoiUzw2bgJarUTbdOuXJNuca1Lccka0J_Sp3b0cAdXTumHCWZE5Qj5VmoQBwnikfKTDSpybqvZosKRkLdEcc
+Stolpersteine Familie Veit,47.993666,7.848592,http://lh3.googleusercontent.com/PseXwCIOKw-tyThAP6uQaWR7SfbTUEQfU80oAUXE8POxiX-6oJKMntEQDuNmCVhiLpls6aaaCnN0JlvlWHoI
+Brunnen Wilhelm Ecke Moltke,47.993217,7.84284,http://lh4.ggpht.com/wYjrwUxcYZhDH_69OcRr8VW5a3Cop_bp0fGkKFOsaVju-p67ksePlGUobsDcjc-Z62vwS-MlK-KzkWBn6Khz
+Stolpersteine Rosenthal,47.995837,7.849748,http://lh3.ggpht.com/TkuoFYIHfsuj6_WUQHbcqbAjElgGL0lAQ4AqHTO1J5oekjaNGv9scS1jwUCIYiXg1Q1XRDsuwSfOVb-pvX7L
+Brezellöwen Freiburg,47.995078,7.842408,http://lh5.ggpht.com/GWWPBaOIHglTgrWvyPmGj1fVNr5tJACU6A3PPTncDUgPYB4EDm1OUb2onK7xut6R24O7S7YJNmEDntpThJ6o
+Calvary Chapel,47.994082,7.847908,http://lh3.ggpht.com/5n2Vy8uwi5IZZO8iD_edvL0hpFgji7o9aneepicZyex9lUvPIOMyDfyyjnHZ43Ctf4VP0cbldviJovJKdMFm
+Kreuz,47.992695,7.850593,http://lh5.ggpht.com/DaZ2lEcC033P7ERb_hCV3sMtqDG3NN_v7yobRu6rZvil8lsl6HH7pgQMi9UfqHQeODOYhJOvj2qBg7HMzWAY
+Bertoldsbrunnen,47.994865,7.849817,http://lh3.googleusercontent.com/ul3KQDLwiEd6llRZHLp8ObdP4OZAq1VoLch9T48x60BNOWdHaRet7EDLkb4KtAAacbUTxsEc9CSXcsUBo5M
+Rau-Brunnen Kartoffelmarkt Freiburg,47.9968,7.851028,http://lh3.ggpht.com/09Wa_jAcBOFbDIXBdYTc_R9M3hLkjKIo-RjlRruSCLyD-sX5M4tr-BLV2YnBMV3si3pKiCKbil9RBFcttA5Mwx-0sZZOuKARFSRg1Ft9wzIwvLuNEQ
+Platz der alten Synagoge,47.994506,7.84605,http://lh3.googleusercontent.com/ZSteFKOk6OPmttnzNHRFlHqi0oxmp-5srid27ljLWgnd2IjTsFP2-v9-Ok6ttRIGdVbDE9QzbwNWGw4bvqY
+verarmter Kunde vor der Commerzbank,47.992951,7.848859,http://lh5.ggpht.com/YerCG4FCaP7cYB-qfSATStLP4O_TGlYWbkd0gU-2utfmZSoTlso-0UwrhHS6dq2AMw_lEm_nHOpKBFjTVzzhsga-UTL_CISI9SC81l8VMIXMXXQc
+Kieser Training,47.994125,7.850302,http://lh6.ggpht.com/JTolRMO25vo4DnH1y9_FFkX2Ta_MO10I4zvutCeBwlZmZ9-4BeDAZkeQMoM7yHllz5kEV484rpixHRVI3H-m
+Intercity Hotel Skulptur,47.997105,7.841821,http://lh4.ggpht.com/oclgCMkavak-Ij4pq_i5N3uNvkzjY8z_aOHp38mp3fI6g43nLKnt0Uc9SitF98rr0cjfxm8Pj_Gle0Bk784
+Aztec,47.995401,7.848581,http://lh3.googleusercontent.com/X0lsWVzSbi4a-3A7zBTAlzrYOP6EJAng3xH25iE3BlTT0nBLjUZhaqGbrWs0aEvDdFx6C0QLeZoeo9ZdJWp-
+Altstadtbrunnen,47.995875,7.847885,http://lh3.googleusercontent.com/QRpxVO26vA8ChH6_CwyYFnO4jJuMcf4mXJ2uzVMctvdYYNlEpTN2M9YQsrnRAMWUbMbL26enMtiItyQ_38Q
+Königliches Entree,47.994386,7.850206,http://lh5.ggpht.com/Uf_PMHik0cJEbl2396Lnlv8NNJ5K0whr9W0meKyOiEifN8Ou4iuqhC9Vn-WJtbiEOOYSrwAhX8wRzwfmaYTsOg
+Schnürsenkel,47.989991,7.841731,http://lh5.ggpht.com/sVQkGBQTarZXgsmclJPEMTRTS6nX-7TFfS2O9VDQQwUOuLwW_cEmWumeR4oeigOX9VkD8eGmvT-ATgNF66A
+Wine in the City,47.99703,7.845898,http://lh6.ggpht.com/c27c6ZSdrjRdm3xeLBSXfkW2OYA7SC8rPJvBoFCVXWAXoymbUKau_k_oUX8-q4EV8RtOZGFGbT_R685ECyI_
+Paulussaal Freiburg,47.991079,7.849307,http://lh5.ggpht.com/6ONZTatOoo2oft-LlQxZD9NsX5sbSWQb2lcQCXgVMA__qkNYGrkohWsBKiEh1p4DOiaGD0IHimXf8IPaH3Io
+Chang Thai,47.994006,7.851396,http://lh4.ggpht.com/ABkzzU9CmIvacpZ5iIYO0PpFUmaOJXU77g4heO9OzXdLezW3lK_c6KsgQISihalUh0MMFdvcWryHKTxJ8ms
+Destroyed Olympia,47.995951,7.845727,http://lh3.ggpht.com/bSMZgIWn-WHtiGIm-GKoIJZ1MLjZsMHG56vb1vNmSR45klNUpDZ9sLSDcHEZlWkyeueafgySTsOe0EJHfcg
+Kornkreis,47.989937,7.847972,http://lh5.ggpht.com/C8EjiMTJE3EfxGkiruByOzkLPWFRxNDjznWE3XIGoOLctaLc2xOKciXVvt99loy5_k-VnWh9WAIhv2Q2OrM
+Eichenlaub Mosaik,47.997018,7.842498,http://lh5.ggpht.com/CtEqm1TPsY4iKTqfWj8mcq_QiMPyEAE7o5F3xVhK60N0vMCETIZoFl3K2iNKc9IhzMcS50igYjvkXtAG-nLa
+Kunstsitz,47.995964,7.847161,http://lh4.ggpht.com/U6v678d8pn4Xu3bowQT97CWw3f7TRyl7Krf-cilkZhLh9MyBLlziE8vjU6rhf0wDNOH7VPdulP1TNVP-PlFX
+Zunfthaus der Narren,47.996547,7.848488,http://lh4.ggpht.com/M1RVJZ4NE6yz0Gpt8_dkjyLVCZnUOfXqJOtl9RQAfqdIrjrwPtlzS5A5Tn8_WOpAYS1JAOAElS80WzYYUWwJ
+Grafitti am Service Center Studium,47.994788,7.844112,http://lh4.ggpht.com/27Xf16Ohf_EeNmbxpkgR3irSZK_G5l-FoQYgzBgapI0Wh_v3KEvFA9eIqrVft8c3y9CPNYdp4Ft4V3yakew0iA
+Stolpersteine Neumark Und Meyer,47.991679,7.852201,http://lh3.googleusercontent.com/NxFtgxbBbnxdZ4PVnzYUQ_MTWLhacLMWNK72nRvUJ7gkfhjaLKn2VsFXXHwz6kNW_5oV3GTosDVN5NCOZ-I
+Brunnen,47.990522,7.84996,http://lh4.ggpht.com/4546DkeuoGBxcQVOwPtY87CjFctpkjdAD5depvsRMx6goWRjNMKxXWgAbYHXiXz10rbraHhFWXIVmsziy7aZ-g
+Museum für Neue Kunst,47.992497,7.852349,http://lh4.ggpht.com/LlrpdUhbYmK8o1Gen7zF5aZbCqQnPR-Kk9CkwdZE55_7po10R7FRnSCGd3z6xpmqcbIYdEBRYmSi-7Ss4RI
+Kaiser Joseph Str. Brunnen,47.991178,7.848283,http://lh3.ggpht.com/7R8co0BsK0Q6fxqCgTOFaTAtMSLS5QoXjiH90xghoLpx340QlYHwhfH6FRLPBBwnFNSOTiOyBb9SFtj_I0EN
+Kleiner Meyerhof,47.996289,7.847652,http://lh4.ggpht.com/efHDAY63LzI1xbtLWvNqEIzZkjWyVdzyIBHobq2al8bmliGDkM6RdhOR3F9Si7CcQPJxi4YCriQJogse8wSIdQ
+Steckdosenmann,47.990612,7.845593,http://lh4.ggpht.com/-Me5RRlnrmXR9p_hxwY6xuagvy1IcHC_-UcMAVo-PYPdTk0TqqBBChsQzOyupSp6JXcyVTxKBvLQGrYeVLg
+Futschikato,47.995387,7.844636,http://lh4.ggpht.com/BUQBtJ80v5epzke7OLjbM7zbN-xUaCb8czvfmE8ph8J6UFWk0eyiX8n_Ws7xeaefmJsHQyqCAjwQN9uHKHBk
+Brunnen,47.997244,7.847833,http://lh3.googleusercontent.com/C44VIhaqIcgfPWoDylNMvyVrheMtphnwATCMGPPUbcypIloj2kRXp7xw-VqOEG8aKufJYkmJVwrm5T_4BozSzA
+Dancing Fountain,47.993265,7.845546,http://lh3.googleusercontent.com/IoKZFPGWOwhc83D4ifm0s3B2qmhBsIkxltMnpPnh8GCNf2iPhSKYHh96vo0YhPCKRikqQdSeLHoOTDfZxsqHMg
+Kornkreis,47.990767,7.848453,http://lh5.ggpht.com/f3BScnqdmxA5sa3IF4U8NOF64mjTeuUF893JISCcbEd9faXI3OMLLlExeWf_oOUtIzAbzASJ2vFjVHYlKqQ
+Aristoteles,47.993675,7.846064,http://lh3.ggpht.com/cTDBh_wXT_gBhHCTcUe8meiqM1GomHPJY6t65U7lP4w9baOHhfXVaV0Bkkyk6Hcu046CeReAkHjamo04yhBJULaIgLCLrH1Oo7M1ecT8DRitbBgr
+Graffiti Dreisam-Unterführung,47.990829,7.84399,http://lh4.ggpht.com/0wOpN5PcuAqCaRHgad0hZC1bt2CJXjXK6JotY-JLZ7mBxcaoPobxVsHCINOHhf2n4RL2419-ps07VE60XoPGDA
+Mosaik Kunst,47.99679,7.845861,http://lh3.googleusercontent.com/81EUMK8Ts3cL1-xs5MjfJMLc-UIeZAnM2-qTs66wQj16J4GqNirb7tkWljWmUo30hhXhqYDuEDx2dXP0LF5y
+Town Archive,47.994398,7.850862,http://lh3.ggpht.com/73jaSG5CJ4SC9OUlDkSy1wwgui14HJ8UgsQhJ4J0ob522PwCvyYcAEowgjRPI77POWFlc_rK3yPRbb8Vs0U
+Apotheken Street Art,47.997177,7.84992,http://lh4.ggpht.com/jcm-h_8_wQs0K-lMvcEgmMrryGFPTjVURNc_jQnKWS2ameiw6KW0QbNKYMkD1GA-aj1P-dhnTuX0hYMZjDZz
+Street Octopus,47.993002,7.846544,http://lh4.ggpht.com/0aB4enUQnHY5F-g6IIltt7oRWhPiuygHTTZVu2C7uaFlg9t4B6gvTvJ3JnJLpzLUCD3iEC379r2nBF8GN9-4
+Hegar Haus,47.991645,7.844335,http://lh4.ggpht.com/8AfIs4z0ALcuG0MdvvavgCOPZYwUXieRjM-UV60d_Hw2H9hJfMr9Z1_ISatbKkktTiSk6HH8xJp9pFj5g1aw
+Kunstruine,47.992217,7.849777,http://lh3.ggpht.com/wxjlV7kv--sDv7Zab5HnIb2h01RKiZ6cCFEmEe_9YKyrDtuXJ77rJN2-0TtV5uMTszy2PWFwXVKFMAnz8jJq
+Fische sind Freunde,47.995222,7.843665,http://lh3.googleusercontent.com/1xXtuP8rfryE3-25m2i6me84Hqjg-ZmPsOYDPKXHIznNmdMSUhvO1OsrsgGiGZcGnqtvlodJr5cVZz-9q1i4hw
+Zu unser Frauen Berg,47.996105,7.84817,http://lh4.ggpht.com/AwSwaaLFBaVmUYr4Kp7z9sKqsLZTHt2mKdbnBiKYVVkc8w1mYArYMrXoAb0OIJ4FzDdNlt_RV79EYHNDxNAR
+Platz der Weißen Rose,47.994306,7.846806,http://lh6.ggpht.com/4EVmiNpVb71NIkUiMamgu0fTCbrcjmhGR1IjZOAyLbNH4RKOYfC5rizp7Dqy0PFhXKX2VTTbFUzGjaV3Sypv
+Matsuyama,47.996373,7.849397,http://lh3.googleusercontent.com/_cDMamP4Q2ig_SUDNR1tsk1GTl4f-7Cs0BVFX1LEXFF0qI1J0-H9l_EHRHq7aKQ8TjE-ojMKodUZwgRNShzF
+Steinskulptur,47.99367,7.846899,http://lh5.ggpht.com/uHDVlwsu4J_bZYi9DYoZM7cSzxgGc0wJ9OBK61XIiln3NkhT-NdyrgSiZ8efNaacxkLqjjCNgYys-9hGqak7
+Bursengang,47.995623,7.84914,http://lh4.ggpht.com/XJcvvbgBBIPA45BGuz-1kIrWBVyS85tj784Fn7cmRB6xswkeqvJul22dblB5JxnFBKWIVnaCWMahwzXvNR3W
+Karma Buddha,47.996318,7.844359,http://lh6.ggpht.com/kZwxLlsR67yzS8E5kT8xBpubuFzcoHRg8XmtPIAeYVAOuvLZRRcOp6AdMqfQFBHKyCs3NDhNS7L_h1A471RyUIgeJU1Vfdq9RRKjvSRwxzQNPQs
+Breisacher Tor,47.992341,7.848052,http://lh3.ggpht.com/snd6Cp7-0lRF8FlDWGoPDSg_8onBm8y7EdtdG15-Y-m3fsDfSVbyPwcrcgn8aI8skCfvzcMsBe5oQtiN7KZLGi-9GkZ_-oMvtg6x00owZg7iz2kD
+Freiburg Golden Statue,47.995559,7.85173,http://lh5.ggpht.com/HkMPwh6CdS6KLN5drdJRfbXAHnsIRGnI81yibJDlQKaeG3H1grKmlFOGT-sR1mGmF-6NQK8iCYXsEmE9Sq3g84kbqPQX_7dXlnsFMlyQGG9SiiA
+Stolpersteine Abraham und Grumbacher,47.997417,7.843671,http://lh3.googleusercontent.com/2WKlGyGYsFI_QwzsNrgHfcfk6s4ULb970DBHuiazBQwx0qP7xGlCbDqs9I_Tk1jnTnUBHHVYptDLBhAWezxPHA
+Kaiserstier,47.996872,7.851845,http://lh4.ggpht.com/GFxxTAcHyLU3kzlZ0kL4Pb0n4hsHWDlgMEWfN5J-xGTyMrcBruxoWHbstGxfSHqeLxiX3u6gSxNMfi7ZfFoXgG0CBPdso5BrT8wMhgnbD38bgW1g
+Erbaut 1900,47.990344,7.850153,http://lh4.ggpht.com/zd3i-iIIde68q1zd1AeczzeEmAav7sijrYdu2nk0hLX0vJMWQfvbMgatvMXe3YExS9mkk-ThomBNd4AxPd8Z
+Kreisel Konzerthaus,47.995863,7.841659,http://lh3.googleusercontent.com/c3QlCXkVXdGJBdXXTewpuv5FrvsUIqx3qNDMNL8mCv1eWslx9IFML13e6Uw7Il8qhYV7etybAQQDiz0kgYhgSw
+Die Geschwungene,47.994753,7.846402,http://lh3.googleusercontent.com/IPfgiMoELTlJfiJfRYa4_0vtjHTS-kIcOQ-4aQlD3TrJ_47LujEhLgPlfA6qcJmioZ46XflxWSvb1OwBZ3zWGw
+Wasserspeier Zentralhotel,47.997415,7.851505,http://lh3.ggpht.com/xCB37dUQ0Y5DR4rR18ULBpsBQ2dyrtoNncIb-vUzqXQxWeBe6_n0l87eYT3C1Du-PYFoKOcNw2g0nZnQ4Y48
+Captured Sphaere,48.010312,7.841415,http://lh4.ggpht.com/65un2J1IaJFL_-Dnq6kvaGKxYkOIB_RQ6ad0OguaykBUktN-Lb0mcY-KGd1X4KmwiJ2BG1Ne1U75a1LRm-Fj
+Gedenk-Brunnen,48.009015,7.845191,http://lh3.ggpht.com/S3wdk5IKje_gzGJ8T0vCj31ptEbvccEKzA9GBtyj42Pm8VF4JcPYDvYYRd5mYEAU469UmKOKGyVA2tvsO4lv
+Löwen Pavilion,48.007976,7.843316,http://lh3.googleusercontent.com/M0R1mtJ_wooF4ZV6iXfyBBqmunQRj6RzmjBnjxX3bDV6ZMlRKW1rqGJo4njsIIvYCZeFwqL4xMMk2XXnNQNh
+Herdern Bahnhof,48.008491,7.851207,http://lh6.ggpht.com/eB-DDMlDkrIj07PoBJo0PliBnoOkwJmbLmuZHXjazNh-exVly9-8QCE_-KPkg6u-n1LgY8Bw0yBPiebvyTk
+Den Fliegeropfern des Krieges,48.009047,7.843324,http://lh3.ggpht.com/0ifn6zdlJTNKlQOxD4pw6P33fpfYu_6lgoeYC_U_RNpstDXkfmvE5_hB6JOKPxzGtfGS-VfaiAvVKXIrv--2fw
+Apostel Statue,48.008696,7.846178,http://lh3.ggpht.com/UNZhVA5ihEfNufTAEdXn4vi3HC4hnmKFi39sSi7d2AmEoTBDQuaXw2sESJ0C7HHGf2ku8fm4xlG0qzwgUWc
+Spanischer Kultur und Sportverein e. V,48.011803,7.852089,http://lh3.googleusercontent.com/O_9hwN2XAmbz_UJ3vW7rBstUr9-U61X3Aa-1kCiUoK5dAIa7IF2GfQhyxrQ-vINVsE4t925a1qudRFIaIIYo
+Synchron Spirals,48.005013,7.841443,http://lh5.ggpht.com/yC9no4KftEFMjuLeCdAxYxsgXNe-Lg5QfzVRa-UocZIvvwig_OOk5PDL-wNpyYN0zNm7ors9vw1kPPPzcuw-Kg
+Pokalsäule,48.00946,7.844928,http://lh3.ggpht.com/OGg-SkmtU06qJtZzZMPSHts1idql3VjyY6bAhad3v6LSJJZwlPkR6qxOJ9SZukaRLFakZaU8oOot4qtnbek
+Gravekeeper,48.006586,7.843881,http://lh6.ggpht.com/bbS-Kz5a8OYJkSw8xCFdA3SBcwgGN4Zsbg_hsALgeUrwQirO12TSqcte9PA715lT8Y2v5exWlHuoZYKi_Mcl
+Jugendtreff Brühl-Beurbarung Graffito,48.005096,7.844057,http://lh6.ggpht.com/jUvJVzZPVMWpDZhQGKke4sBD338ONdN6NASWv7ifSNFMBWKgSbvQjHCuX2-YV1e6ys03dtjmUZ1ESvlGPGc
+Eisbär,48.012244,7.851789,http://lh6.ggpht.com/91petRYrEp_b49934IbCaz6nLnNj-s7rvJ_hgTF51EapvuEd9JETfP-Nvls-FdKPTX8Tf6tqa68MZCZ13VAkLcxKUDAeoGpCT2DXVM0rQ-J_DEMTlw
+Baumhaus,48.011071,7.841748,http://lh4.ggpht.com/mgtw9RTVw1HJrHKiwNFrZtqe5pvVP7NJpQUbBZYRrLed4XLN89i_sBAoOz6N7IeL1y4SMexyvH8LiolO9QE
+Erhaltenswertes Grabmal,48.007897,7.845242,http://lh4.ggpht.com/aKCEIaiIDVUOyvxt0eCDIiqmGWp-uW5NBL9tFH3FzScE26w5t8n_5BcLEexUxcLpQehCm9HCtF0iCo84defE
+Kaltenbach Kreuz,48.006457,7.841885,http://lh3.googleusercontent.com/Kk1kSnIGqoGr4QH732XtBEQtraf3akpHsBKBAvdTUTsY_E9b85aq0QbFq9UMs2r_TkiB7_rD2EfBVK77yZ4h
+Stone Tower,48.009258,7.847196,http://lh3.ggpht.com/BaPKIrth4IJI92rl0g_q9qvPj1KbxW-S13FCUiUxsjqyzmZqFNQS2xRES8W6Ux3N3sPns65l0OA-WktTFcqG
+Freibourg,48.008835,7.844851,http://lh3.googleusercontent.com/loPX4P2AU3DKpyvsar-sA-mZhj-ntRrmU5_5pom9eeWmshy7M9chPmg8IcHKgniGGDqxrHurDOCOIIGnE1ZasQ
+Messer und Gabel,48.009916,7.843858,http://lh3.googleusercontent.com/a-ItVX3-BROqFYUlXJKcHWxJKfAaWq7J0bUNQ9aCvLbAofuc7CCSa65hTallvHKAfiMmI9AfsUkj5pl432SY
+Soldiers Sculpture,48.00578,7.850555,http://lh5.ggpht.com/ozhYABlZac5K8-0DsnI7IeQfVkR7MZ89AHe1cpzy1rXULKejKv1PQB3vhoCda_icZnJVDkNokKDu0EZqbrR4Z7ISE-4SYDfE6HD4kWFGNqzdqNpV
+Friedhof Brunnen Nord,48.010574,7.842539,http://lh6.ggpht.com/TLc0vq7SXwZezV2x4NGRjI0KgFMFsfUBXUXdloVqaTMSnHaRWyLiINo6VYE2avEj0fdq5ESLoZti77tgPiFh6g
+Rusty Cube in Freiburg,48.010833,7.848055,http://lh4.ggpht.com/9Q_VHZjlAPVK6RATGr2zO-RrBEGljZtXncLrY87ezJBxpYZ4zctqFbsR-AcEK_1Jj3AEBCm-VGPIEsi44dnEM5lDfUNKU-SDaFbsYIYC0MvsrB8
+Krematorium Freiburg,48.009922,7.844799,http://lh4.ggpht.com/Dxi-vbdwOA1715d6cWkl2YNns6_32TPap5jtj8X5VM03043UDp4k57-UcdIFv0qWJ_MrE23796-18WHEXMc
+Alter Güterbahnhof,48.010754,7.848447,http://lh5.ggpht.com/LYHKuqVKvF2jZs-H0PC83AdQo0S8Q8suOmqC7SCRqAloSC2OLXW4TgZfG0zQDbS634eXhzHjCBLbkifPiZA8OEjflRi_sncraCvQNcbGejdnc34m
+Kreuz vor der Baptisten-Gemeinde,48.006287,7.850248,http://lh3.googleusercontent.com/m9hPTpGPJK1iPcKGdxFPRrEfIff2o4pvFodEGZc6PB9QngSPqMEPa41Xv5X4Hjn1K9FtIUY_R1E2unNWZnw
+Kleiner Brunnen am Müller,48.006462,7.846358,http://lh6.ggpht.com/3leCTA0yWGcL37mQr3vE5CmylrWtcPKPuWUBVi_s88XpiDE3Ez5MButsyGaTw6hHmoJvfyZZXP6X1bTqHl0h2PT0MHhiteZFz1usbK_JyLk0yzgD
+Kampf der Liebenden,48.006636,7.844233,http://lh3.googleusercontent.com/dvqg3A2nwwtPvnoMnEQJ3bRZBvRVauCe_tNHZiio6mfLsevbOm-zZiHCE9OzFCnmt6L3nBBseaBm1emsq7549A
+Trophy at Night,48.01167,7.841475,http://lh3.ggpht.com/nN5Itgs9EU2gUntuZcycTliaWuoT8klkMj-izH99KJMjCUUNVAGwKP5TJnBhwAZ8rj-PgnOuQA9NsuLLlHeu
+Wooden Tower,48.010331,7.850572,http://lh3.ggpht.com/9EMssYE28AqaHO4IISuYveZB630zY7yfmZgVeUSHOrg3sfgv_ldqKbuaWO7pXDl2Q-N0jjY5HlJyxV99iRvv
+Weisse Knubbel,48.005198,7.842644,http://lh6.ggpht.com/AdxzzjhdSquO2rVaFQW70SUTdJ-lqs9rcuXUbzsuTz1ZREcbd6rzAUyZIXxa4nj7Ne7ZkaFEjV07nHDXOBCC
+Cemetary South Gate,48.005686,7.843191,http://lh4.ggpht.com/Z-so8LtY6meA8mhybCYqW39XdH5U6lFkiae10foSoGoWYjYYBtbuW6oxBghtd9VmCIzn7MqsCi-2lnI0hFA
+Goldmarie,48.008677,7.846826,http://lh3.googleusercontent.com/86LbbLOB54uWjW17IqtlxlyMkhkM0kRREMj0lTLq5FO1ouEwePz1V43dGO9aRBIvZ3DOcfG_ZY_xhm9Vfbz6
+Denkender Engel,48.008142,7.845498,http://lh6.ggpht.com/lNGk_wvOlyV51gFEFriJ5O4RKPMYXPNM1VK9U08safIoBKuoWyBOUL21SnNoh0Tu5Bhsqv8pTU33Low8X8cP
+Hidden Lady Mary,48.008112,7.844157,http://lh3.ggpht.com/nodM51Q3N-5UDqEsuAmiNYTNmJd1k6aJ8fsYDP6EImecnj3Qz9kZ7rbiHqh-0SfWYuEG2nMUVTc-p0GpXYPp
+Gymnasium Tortur Platz,48.014176,7.823942,http://lh4.ggpht.com/5UsW-QItbUvx8m4Gy22hDR4wnbVSWUrNI5D8xq9kCKp1QUy6z-3jUGh-ZAFKUyd7I0ZtGLk3hGbPVh0WqELwQg
+Kirche Light,48.013136,7.821221,http://lh3.ggpht.com/Kh50mU5PxQDZ93IpgDF3KQI1zkUdCpfTICEWh4mB2sTo-dJyhbAq0M1cijxIxjzmQm6G4cri5uhuOrAo3FCP
+Mooswaldbrunnen,48.014675,7.824283,http://lh3.ggpht.com/2qWqqszSxG7aOnJ9g6y1I9z312I10xyKPgNmVd1IM_fpX6CZCIBD3S_Lk7ftU1hmaKjNeo_SyTLd5M2w7NO29rtlNsVglPIVOaEyLrMz3zudFIAw
+Blaue Giraffe,48.013952,7.825402,http://lh5.ggpht.com/wN1YTqSHoyr3SFamVJTfjxHBfskF8H9l0Km6wSnPA-XD27s5vDwOILm-YcIq5zt8EECTI_WNbsIKCPzrjhiX2DRtf_PwBke2PbUDYyThZxpQ-JV3cg
+Lehen Mosaik,48.013037,7.821698,http://lh3.googleusercontent.com/6Fsfv_7IKO5yNXmwv8b12cuPdV4a6O78plawqJrj_YvaAdtf7vznbXJ0WdQgudpewYLUTtRLa22t62bdDaCaQA
+Kreuz,47.993387,7.799036,http://lh4.ggpht.com/rv2v7Vp_j6rgFrZ8guT80vZGecy4CRszvnIcKp41f0lWNgYA6VcA7R_mjWtWzzSo0u19IYyGoHyTdJmzlK5o
+Spielplatz,47.992395,7.805106,http://lh4.ggpht.com/RR-MOJ4wOLY41Oe4_Fw9XSh6cRty84MX-TvZczjdpBwDjm_OFhZSCTscIBPCpQj7m2xOQmnTghutB-mHGvg
+Löwen,47.97697,7.911575,http://lh3.googleusercontent.com/DJGfkPvgvgkK3b8leTlp3dyPH6t0Vvr6S_cxXQGj-CUqIv0soALvfrFiqOqT2vBle6VORENKbUrSdwFZgAk
+Albert-Schweitzer-Schulzentrum,48.041104,7.870891,http://lh5.ggpht.com/2Hso4x3ol9b_O8zHKbUvdqKlZk7dluHbuzKADkgjUXRoRxRXEdOte4iV0mItW0N4nSYUvutfqVYH39QqQgmsLjmomMUxibJnJZpluYElMAEcwlE
+Riesenlöwe,48.040099,7.869707,http://lh4.ggpht.com/xFZvaTogDeoGdiFThKU4HxQZXKMQSPFK05nt6xUcoxz0ZYYSDMryoUvKnVxA2nl6LTJ7zWpIoAwb7sTCCNax
+Hydrantman,48.0421,7.868031,http://lh4.ggpht.com/23j5p02aobuBF4O3TBfW-4s85bUAWmZp_bjlPLD6ZbPUvSKRHWlMpA-7aTeAxajayK7RtAEct_80sqe-aeLU
+Fässlestemmer,48.042451,7.866293,http://lh6.ggpht.com/GhJpNTy4zzz72hmei9w4_0CXHe_Gh9Vl46X3FNegh-eDpWuchzqbg3451r6dVfXiLj57Zs_Df72exEMpL4E1
+Steinmann Gundelfingen,48.040243,7.865339,http://lh5.ggpht.com/yJt43BvQjArFRuVcXGLQb2MKewvjYoIl5vC-Fvs4mc1RJRDDqoL5Y8UWxuFdzfuJJmaVgjVFFWhmQ_xFQuAG
+St. Anna Kapelle,47.984776,7.911986,http://lh6.ggpht.com/bEOHi04d_zMnBU1s5DoXixn_Mxo3P1qSAOK9eOTNnxGrDBnXNA6GbxI_k5Uvu1CJ9MNhpR3JC3Bj5VqEpdhV
+Jesuskreuz,47.961399,7.953651,http://lh5.ggpht.com/henb-wufhqpoStJ3VpvyE0Vup6SVuNEFqXng2kbpHFCeJSbf5wkm1RNkewRTKAvaxALohyD9-U8nkYMKWPrkMg
+Katholische Kirche,47.999856,7.720257,http://lh4.ggpht.com/mcbRgGMygSvTxUmtrEM5Dg3LYAxy_OC2ffZHtA8NdZhWrzWQZxjJujyl8iJCfzpWE6Q691q_yiAk6prlVp-H
+Brunnen,47.969093,7.698736,http://lh4.ggpht.com/Tg6hdSG6R-sPFCXSfvz_A98xzD02Zza-3SmBFimZTSmayZsddeYjS5QRXegeAJllhdjI-bToKvAeWHSNJMzr
+Jesuskreuz,47.96796,7.69593,http://lh4.ggpht.com/2hhhc3iiuiN3hy7vOH71AYsMuto11YW7M-tMXW_FoFHe1yagxVy1_XzyyFOSAOHi8TwxKfZHt6d2Yq2F2gY
+Kreuz,48.026039,7.7197,http://lh4.ggpht.com/h7_fFhhBF-348WYWiPHnuB_FFlflGylucV8udQ3VHV35junnck1pTs99DLQH1KGEoDpnosm3UMq87IZlvWkg
+Hangman,47.981548,7.900206,http://lh3.googleusercontent.com/Z1gsRgZhAlSgYb6zDMjn6OA_DO-JjtCBnfdqwewjFEpgaQ75s5iQZs5vkuBkWjoO11Ova3h29wEz25DbqRsAfw
+Gedenktafel,47.981159,7.899721,http://lh5.ggpht.com/CSnigAXv2SfNssZv_IHDCZuxuqKU6Ho4HtYugM6KjY9abBjv_aM7V4sF_oCXMdysgD57sYVqxG97EF_6MioH6g
+Drei Sitzende Aus Stein,47.981536,7.903324,http://lh5.ggpht.com/4QTqml4VXFokwfDaGIMJWHhKo6Z5jGV_Frk30MyJW-h_sI1WI3ti5GGNvOOjwMOCOZ95FD6QEtg29nwjLng
+Ebneter Bücherhaus 2014,47.987842,7.905547,http://lh3.googleusercontent.com/xIjVReHBNxbKzwM20h5h2vNi8zzAnN-oY_r09K0pNEVdL67M8P35B2o2YqOxtpwowwDaIqas8cK0x4hHAy4V
+Fontäne,47.989741,7.904914,http://lh3.ggpht.com/-ZctyFFutMD7Z6fdnbTuPKMHmtdBXx1rvE4g7JQKTv1owI68lTMrJiL8dDWvuLHSKBVvR7tLnUDdtbQhLrs
+Majim Steg,47.987469,7.903327,http://lh5.ggpht.com/1FVilhV415oA101SZ09AXamIsdSMq67tIcBKGtT7LeZUkUt83e3U-1s2r8sBMFtdiuuAYONXGXHEWmuwPyQf
+Gedenkstätte,47.988462,7.904503,http://lh4.ggpht.com/pwgxf24Jld9hAcfa8QdS6uwrBUJUvIrDG2B0owv8Yjm9xkRkgVysABNu7eS3Q8f6akuhgKxuUbdMLViPAHzD
+Ein Vogel Im Wald,47.989292,7.902333,http://lh4.ggpht.com/nkBHrmcRRsWcGJmePr8yFVUi0zjDY39SlQ0xYjFoiCAMtJkVsL5t4dbuYBa9rNkBaCKLf9gKmtSFIYQX-aVz
+Ebneter Schlosssteg,47.983816,7.902963,http://lh6.ggpht.com/mGdJZxHPLXpkxP38g8JEAhS4Lv04mrausAz_L3owsgBf9jL3_uJHh4VUgeb_P6L-pknVBH5maPJIrRBQDutX
+Grenzstein Ebnet 1790,47.986708,7.904471,http://lh3.ggpht.com/1RZBQo-HSMFd1nVxMm5o5kLJmdGQYojCcu08BMkADJxYbaa4JpZj99DtsOz_xLP5lxJGJF_CvrYWTxAGWebe
+St. Franziskus,47.989069,7.904957,http://lh6.ggpht.com/L2ruCqo5tzrQaRY9oEG8HnjJhNJbwn6dc2faSmVFNR9ImxX5Tw5ywXxrhLR3YRZgRdw94EMT4IkLPpU9hhY
+Kreuz Ebnet 2,47.98599,7.907836,http://lh6.ggpht.com/Jsl_3RU4Pcun17ve7nwxrkvev8LATa1nK0mEuBR9c_VEsjG2QdDeuNmqsmCz8sPeROgRQfnBbmKkUHIH3Y5G
+Ebnet SVE,47.984172,7.904719,http://lh3.googleusercontent.com/s5pCjZNIHayd5PwjHHJGyJvCYKdSgiFLnPQZpKMcdWIsTZEIZHTl2Cx5qveD__zkFdbFAFWnAsLX2I7MDIGe
+Ebnet Schlössle,47.987484,7.901901,http://lh3.ggpht.com/y4m4WpU6P44SgZDUMfuKS5Zy9_7kaaaV-ppBTgLDsGNCs58XCPMotfR_A8a4Rqi62TmzXuRZ4g1wETCWLzPP
+Die Venus,47.988198,7.897871,http://lh6.ggpht.com/SYAqzZPXgxIJjKBNwJlJ5YdLWcCC8XTT32a22M0AbRVnkQFzSPUIxLjC4NPsQ8JR3nGQBgkt9vwCzKsu8JNm
+Gedenkkreuz Bruggastraße,47.985645,7.906257,http://lh4.ggpht.com/Keeyj9iqnJvdR6WKxwF41N6PQiI3SD5b7DR2SgQ1uJ_itzPZ8puzjtif00qA28V8tT3Lfhh4xrnCdkt-94hmPJoZDxHC27XwuGcqcJbCjxmL_3BU
+Dreisamhalle Ebnet,47.984577,7.903754,http://lh4.ggpht.com/4OrR18OIjZOl2hRMpuSWlEjFbuItsVVnw1SmGLXQid8JuBZ3StzHvEIkjxtcnUcJkDcB8000BvqwOqWyysaL
+Freiburger Wasserweg,47.982515,7.904379,http://lh5.ggpht.com/MO6HGPM_IDjLTBlNBcP_amk4GPU2yGCwlwnlon7nRMSb8a-S83jsXL2zLYEq76CRvuKA3prglNu3A4Bom2oNtA
+Wieviel Wasser Braucht Der Mensch,47.984062,7.902077,http://lh5.ggpht.com/qFzWVaNrVVoZcANKOGmUkCciUGhu-vKHryijwMuRr9_dr-HVs3IN51dzUhClofMDKUYeLC9d5EAPmDvZh2pC
+Der Merkur,47.987973,7.898235,http://lh4.ggpht.com/2sURaunA1uPAp1kLKcQbpF8OoWDhRlHqKrqX1GP2d9JvWaMwboTlro3tCoBtyowto5GbF_VceqYIy4GeJPJh
+Ebnets Bauernhöfe,47.986273,7.905915,http://lh3.googleusercontent.com/9Q6-uRGcw155cbMtFjmwv-xQeu_15kHE6pmARnauOqbdhdXNTM6xJmIokPq-QqcDuyqfiaioCoF7vaCDp238
+Pyramiden-Seil-Spielplatz,48.029741,7.861107,http://lh3.googleusercontent.com/aeKqsQ5XFgfDK02hG3ZI02MWT14Wr9N_jDIrKMGRooFI6VHd9G6kshkaKRUsFNnjB_O0Oe84g4VkyOj0GObSBw
+Gundelfingen Endhaltestelle,48.034651,7.863393,http://lh5.ggpht.com/kYhL0E54YfLwM1JVmyWL88NFz_LCSCWd7cdMtAevKrjzO2Ex1iuWtf29LLsYPfPBOgreo5lsSL3wElldYwpW
+Eiger Nord Kletterhalle,48.028144,7.854534,http://lh3.ggpht.com/mFilGfp-s7DhR956PpJz32a0xBxWNe1OaZqSaVs4aG9H_ZK-FKkOuAihaZOInYvcu56dj3Pm9mtgp4arcgdO1Q
+Ein Rotes Kreutz,48.024069,7.794856,http://lh3.googleusercontent.com/etPuTSD8U90UtS0hJ2zAyjbuG-fL6GHhxXIqCg1ULP2Fwfyx2XYkjnUGlL7_9_fjdRCkm1wvJnsCr4GUTEg
+Insektenhotel an Der Dreisam,47.990757,7.891812,http://lh3.googleusercontent.com/Antf7-vUwx6rm5OMb1rV0EKhpSFCutpoiGp460GG6eSBtgMEx3Q-TSkU9to3XIDdeVhJAiuTeL1UkO52gTr7XA
+Jupiter,47.990154,7.89273,http://lh3.ggpht.com/90HRwFtcqdrEq2GtPrKTJUKv6x4p9ZSkzB78lJ6xi1VWzL2t7mnYpoBpRxue5hfWJ6aB_NSivS7GNyIlGM7n
+Holzstiere,47.991229,7.893602,http://lh5.ggpht.com/PcvdIGt-MdtZY5QMHTHpA3ql6mNXmUtKZQYHdOPu1nd4GOTzpF6d3xVI6SuGnnvA7PUpO0PqQFVwHEvlMWRi
+Terrassenbrunnen Mundenhof,48.015228,7.777428,http://lh3.googleusercontent.com/Gk9g-pR1gE_9yYJ_SoHGYxNPtGRXUCyihn48_8hbuSqlFEusw8lnih-dwPWaL0C0uAL61v0CUJkMc28pWMIl
+Freiburger Mundenhof - Spendenaffe,48.015463,7.779123,http://lh4.ggpht.com/PrqNsvus_jVL9c-mrVomitpH_s_QY5hdLxwjf4K-d2yQsmSi2xugDlrGOk0LlwwJwKl1tCiOKh3ySDX-UdFh
+Mundenhof Jurte,48.016146,7.777756,http://lh5.ggpht.com/gH_nkFBilOndFXHVRcypXN6--BxZrqy7lU_OLsUPYvf2J6M3x9VSE9iIFS8fhBbz8hYkiasvzdmmRs1YqMFzhg
+Storchennest mit Lüfter,48.014819,7.780588,http://lh4.ggpht.com/nTv2Vi-6n_KY9yMg572t9_czG9gl108xhefmZGBhnyV1V_VsksBxMO6OSbc6dm6CoQkhV9MMgorPAWROOkQ
+Mundenhof Spieldrache,48.013358,7.782267,http://lh6.ggpht.com/JBjIicdRB4W7KJmcZdyKueQH6Qnl1hjukqPYIW1LV6GEqvRAFqbWXHPqTQ_h16Y0v3opYKs--ZlGSJhtXM3w
+Wegkreuz Wildtal,48.03048,7.867669,http://lh4.ggpht.com/8AEQRz8QA_pWVCHsRln6QTWwkZtumgsiCN8yHxa7VIFCF4cwwrcoa-jjKq1I_nRnwDMIEh4E6Wuq2OFLCakMNeK2PRM0qVP9jZW-BxOb6o5j_yTNpA
+Gundelfingen,48.035293,7.863748,http://lh3.ggpht.com/6yIunMyeEOWCnrNMOQMAiZQ1jU3uVGamGTJ-nAt1zT1nJrf2JD_8m9MCznHlktXJl5unNXLbqWDD0V9Qkgac
+Kreative Energie,48.040113,7.859775,http://lh5.ggpht.com/D02E36MZbUpaoSxRhG2LXxBXMiQlO3TzBXpXJ5ZQLw-9EA1-e7g1JGBjWxBnYZJW9fUr16GFgkxbVmQWzP0
+LKW Mann,48.039507,7.808133,http://lh6.ggpht.com/niP_G4FGAx6ch6OAn9o-V9QxQeDXGRWccEGdi01ecIdA-DwX4b8e4kdqJs0DSF58FjBzKDopcK_MqO27hPWZmA
+Grünspecht,48.04013,7.817344,http://lh6.ggpht.com/sHvwDtvFY4jkLDPHaW4fkjCBjRGnp_dMKDq7ECvSOu1uXb5ZVr1PnGaNUfyrSm76rMRGQdP2WRp3Hv7JylIkwH_kK7iY1v26CRSCO1YTHmBVM-gw
+Good Old Machine,48.039859,7.809004,http://lh6.ggpht.com/yVbeCdwNlsympmXEy5v024V0Bk1pYtukpg1FgdD9GNEK3Jm2iDe063E8wpcHrVsSNjTB5RfWHU42q7aGoIw
+Regenbogen Stift,48.03914,7.811846,http://lh3.ggpht.com/3r_OumLy8fnMQkofV1XUb4IXR9OyQEmMbS9FjsyGVhtTsAp1_EuYw6k7SlUH5eaRk7ZCHBRfzjWsktPDQgM8
+Bierhäusle,48.01516,7.802505,http://lh5.ggpht.com/v31mmWMDNDEVcyRltT5Lr60vZiWjKras5R-Jic5G-9iNRFz9zItNipb8VyKW2itxYDKDNugXVGECZ_9EwqRmOg
+Bundschuh,48.017122,7.802287,http://lh6.ggpht.com/SsXJvSS_vfG1fwwt6MpLdPzeVXYAEEcQoLvEHNm3JiQEbgbg-eRc5j9xhtRnMpfe8YF-Rrbt1i8eTbYqEkoWcHjMQ_Gh4OGlyPNsrtwhlJSxgp0T
+Stolperstein A. W. Algner,48.014714,7.803566,http://lh3.googleusercontent.com/iPAzsu-qtlv9-1rHjZyn56F1my12qx9nDC4oI1U0V6mk6D_NLvL2HEQYWeQ3gelqTrKtykcoQ-txJMVF_CJo
+Lehen St. Cyriak Kirche,48.017492,7.801861,http://lh3.ggpht.com/hiaIYOtH7FbuNWLbHL4Qr7xESs2W25fS1dtT9Hbh8NraV8WUyGCiB9OZYd2eyCnHUsiaGm4h5jtwwmurQHA
+Gedenkbrunnen,48.017047,7.801359,http://lh5.ggpht.com/vF8sgFZ4dGjYJVV0jG_niuT0DKc7_kv1MkL09La6P64GCpztRG3w8xDosTdA_racP5CniaOYuBGbrZkTlXze
+Rathaus Lehen,48.016295,7.800818,http://lh3.googleusercontent.com/TJTJysEFPEmXvfKJ2fZpGRPdtDZ1U9XPq54ToROt2X_pT_u2oRYaw57PL2esZNnID8GljG5jQjSQZ8NiWRk
+Markstein Lehen,48.017402,7.803796,http://lh4.ggpht.com/unXcJO16ewfuvq6qAX2BzQiKBnBIEGy9Y7wj49Y0rd13N6-smD7iaqr1dFMLgIYXaOdAI8PQENAzetnk0eV7
+Goldenen Hirsch,48.015481,7.802036,http://lh4.ggpht.com/_TXCE4k9dbRw6adKh52h1jqLkO-y5Zzh2IjYe5gAVbcceQnbJQmQM899Osp75t3b7V7eMpLjBqPs5A7LO0a2
+Weingut Bernhard Schätzle,48.015954,7.801818,http://lh3.ggpht.com/fNNotRyBCZ0Me4XSENndc_V1rBIxZAJVYcusH6h2g06fKPyQK4FLwPnJl6jUwO4O7Dvz1K3r0yeofcZ6u5Dg
+Bunte Kinder,48.01607,7.803992,http://lh3.ggpht.com/oF3zfs-1lsdaID7K9a9LBPAhubIgN9ZIW27NWlANI0hSsS0M3eRO6v8LJhbikOOQoNzBc_2cv5br9_aZ_irz
+Lehen Ortseingang,48.01335,7.807324,http://lh5.ggpht.com/4fc4QAqSXpHv310Eo6GFolqWeUCnmO9VyDXJ1PjPwMtXJLUhKzmh7mesYO0XY6OYoMpW-T5ukrybMcgBHwmUXg
+Lehen Erstes Kreuz,48.019588,7.801909,http://lh5.ggpht.com/KaMBCp0cnKEpXu4lzsChw0vTvmegSJaOJpbs-asMIOYS4cDfBWNOFva7iyjl6won4s6OIOQWWCfP5ixnd04
+Rail man,48.014754,7.845807,http://lh3.googleusercontent.com/Gw9yDqG7cmC3cllOxxu_LB_2sUR7FutFVSr-hWslgYANHuQBpD_325rICxPVi7RqaJtrUU1EGJLvyHu-46bUBg
+Waschanlagenkirche,48.018699,7.842661,http://lh5.ggpht.com/ocwJeuL1TFdlinQl26hpP7L_o584xZI-p1sqimXORZu1yWla81g-vToP2qju0gGfK4Mre6E4uBm8puUOF7jGkw
+Man In Stone,48.013451,7.846344,http://lh5.ggpht.com/_QUI7rGAuGHUN3MwBL9dpj8s1I5Q8-2jkXhxD7K6c_rXkrEK36RzC9irKrS930OUXYqjX3YVVD3_dwGs6a2M
+Hexenhaus mit Hundehütte,48.024739,7.848155,http://lh4.ggpht.com/0H5P6QGDE2EDa0q_dWiFbKPGaUGRc25GQi26LdagQhh-D9w7AFIwEl2OctlupXmFTz9GtURXN7RCeWJe458
+Mach Mal Pause,48.027549,7.845635,http://lh6.ggpht.com/yDVRisJyIz_ce9pd5EUfC6CO1ZM9f2UR3DohhFQOWwMTmQwIdQJrTFM9n5IZXevAItET-EC7UL231JKxP_19
+Eingangswächter Löwen OBV,48.025702,7.847411,http://lh3.ggpht.com/p0u0x_KBLtYQGnyeJ9VO1JYH-qjm30vJ8P5DfM5keITPd-VoGS9cJwJR46AsNoslxf6zdzyKxHDYpSIKoz98Xg
+Segelschiff,47.987812,7.87544,http://lh3.ggpht.com/q7phyLDsbbH7aWDekYB-u1wN_GVUEh-lOe3qXd6y0GauLJ-G1o0MCbnkO-8SNng9IY8XtzRgwdnCHN89zmy3
+TC Freiburg,47.989532,7.883618,http://lh3.ggpht.com/oqXQilNETaIWhg3WLxg9OWvMBMKzMgbrfjbijwqw2I4V0ct-Y4r81cldWgIjbM6eYpLtURdXl_N1561v7N61
+Pavillon Waldsee,47.982583,7.876431,http://lh5.ggpht.com/ImPvXwLn0vOE3uLPM8N4YS2KuObkMeglNWp7TpwFA0lHIII6U-OsWFuC7LDgyYmUVrTJz8XUC3Mem6MMrrYZ
+FT Denkmal,47.988777,7.884972,http://lh3.ggpht.com/nwWx_AYCSVISX2zfjT1UNbFwRUXew5AEwyovLiup25vbIIuGfKd4wnVuol0uXJDGzsbClTUdTTSvn9iwu_x2
+Tree Cut,48.008638,7.85857,http://lh4.ggpht.com/5ie2nsZukaVpIxET8WnzROF3sD7NScrp21LEajfnhtkmzlXw_4TZCdqE7KPshBcIuP_7e1WKvGdTqNLIEoEB
+Swirl Portal Fabrik,48.010941,7.855865,http://lh5.ggpht.com/8bdDKbdXq7qheO9LuW5bNDF_Hyuss-_df6_0bXf137vNIee_4lDlfsmdTvO2c61tHUagDcgcp0lAmm5UyvM_ztp5JIKFjLxFMAt8cNxRpRnGX6PL
+Brunnen Zähringer Tor,48.012467,7.854163,http://lh5.ggpht.com/gA6AZQtTQAe3RfoJIJsYI_8DYTsrFDChJKSnqfqkUOXGukNwcRNk-o21uPThf9_VDVIhXnU-ByhLMX2kTA5kkg
+Rusty Venus,48.010229,7.857315,http://lh3.ggpht.com/dbKx24HyhjBb_joA4Q-MqUpUEAl2avlpPaRGCU2BBoYkpvLiZoYCUzAPvnChXtip-_ABCU3uH3DfQWVmqpw
+Stammbaum Der Blütenpflanzen,48.009307,7.856898,http://lh5.ggpht.com/hzZJIxmNuonVewH8YX-VYu7y1sGhfadhd0EoFaEfgokbZxcC6KVdjg6i6hLsUSyBL0acwv4PiWR4if73IFVIsQ
+Ki Ta Biolono,48.009926,7.856977,http://lh5.ggpht.com/zworzLkPMZDKbseRXD48f1wcrxJ9EAJYjv78w82wEl7TnCBAvwzA8PoeSs9x3-OvQtU6M0tttOYzjSraMsAy
+Artsy House,48.008657,7.863259,http://lh4.ggpht.com/pp33_W0dRXGcgNpujfUIrzy9h90i5VNlVRHHe5snWIYEOZhkWO4hbzGjhE3PMZvbXhNqJJIG43FeDZ9R8eiaPoDhkWyRqHh3NPz-E0XdX44wlDAa
+Tierversammlung für die Hauptstrasse,48.007816,7.85962,http://lh3.googleusercontent.com/WtJWLoYgZBTbgQyboP5iVZlZ9GAnYfUe5MtBaK880BSxfR4Hxb-XKsftVsUFO0aRoSLU_JvW9pXzZnWV7Qt-6w
+Verschmutzung verboten,48.011784,7.854538,http://lh5.ggpht.com/kn8HzRbKsmIEvpbq3DTDumq3XHwCQWscXFIId9-CdNN9DXIcUaQs5n-JPjRkndh-BjRbJGlmtMQIz0BAeyDD
+Kloster der Herz-Jesu-Priester,48.010846,7.85795,http://lh3.googleusercontent.com/AYS9QR_eYS5liyvR4RPflGil9ZxoYNE67LsKnJ-v9pAhGDkQ3AfcZAn2O8cAx5cAAARMprCVr6WDcFYjcwXU
+Botanischer Garten,48.008877,7.855532,http://lh3.ggpht.com/WTmObDU4GEj1Why4USsXqMZonD2CtEGSq7_SD0pSbVWnddW_mOV-XxaJl5R1IrOvzCyJSF_E4xN2hfJgQYQ
+Wappen Stadt Wien,48.007945,7.855189,http://lh3.googleusercontent.com/2khiR709cbhUuwHICiogpjTji0AeHIwcIg5ddgc3grCdn5UpI-xs8P_IdlSwiEVaseXSZi-QoV0Jm77gjny-
+Droste Hülshoff Gymnasium,48.010528,7.861613,http://lh3.googleusercontent.com/IrQ2RFOmZ0bms_jOi9ckP_oEOippdcgS1OnWcCg4hvkAKSy3KvKoMXd_tboPJVEZKL7yn1fD3yc1sEf0xl8s
+Man with Pig,48.005719,7.853053,http://lh3.ggpht.com/SZKo7Zymk7Q4twwh6scFargL09njU4pA_xZ1BvtrNnXcd89Ok8S0yOKTH1cI1VgqLRHX-Jj0RhxGWgHjP0Q
+Fountain Fish,48.009476,7.858605,http://lh3.googleusercontent.com/0C4V8PETfjjqoDyWQzPaquZZ0it9n5vhqNtjNnM552l1woIGRcWcY4KBLOoa_gs5zGQvoBypJdHYpOpX7Wbr
+Brunnen Am Pfarrbüro Herdern,48.006808,7.862293,http://lh3.googleusercontent.com/JO0oQCVWZS-1m559ZDlExqLnri3wc_bB5byFHxsDjcywwaP9c_op30AeiMkrsOkEFNbFnm6eSdD4rDqE53k
+Lalli-Brunnen,48.00768,7.863428,http://lh3.ggpht.com/U31ED7maqpfN5smx__a0kaABXibO_gq3110_6IbP1ou2U0nK-z6XI_NDQxaFIXO8pICE_-Gy6qWT0sMovijjAFr5DT-rs3cMosyuFXuoZdkLQ9M
+Freiburg: Iron Portal,48.005016,7.854963,http://lh6.ggpht.com/1d5O1hrwIfy73FhZ1h9chhGDfKG1Sb04-tT_hgoOIfbe1KQYx1xYnttQVOOud2dOqLSLsOyqvkBxVSRX97B9q_bvRqp0hclpcr3ruPWHn-KQ9pLB
+Jesus Sculpture In The Park,48.006733,7.858776,http://lh6.ggpht.com/z4B1B5wkAhYy5Ih4aIorekuA2w6o7igLhdQF5Hs-5MuCELapMjVPc_0Vl9jkSBl0IGSf-Xtgyz1FhXbCZLFeQw
+Dipylon im botanischen Garten,48.00937,7.857351,http://lh5.ggpht.com/nf9mHZOqSQUcPb2crpZt9xGkoEckVQek2LSntHP79U8zijDrosLQ0WHkSBwbI9fGjK-AReYXkYjxcLSKAwGD91Birh3sQ7hMxYSrr8M_dqkrtzXP
+Mother and Son,48.01316,7.812516,http://lh3.ggpht.com/4UC2IBEL_FflSKJgtD0RzR7BkwYHqtm4fCMx5-kB8hCm4AugdopCt4gV3hNMn6iB2Tf-SPV4w_iZo9x8wn6WbA
+Katholische Kirche,48.015766,7.815094,http://lh6.ggpht.com/YsgZyZEVJf3zycY-hPSam05UZvqpPdjZWWgBlRIJaQfI01_lhLAujUVkV9nQzLK3DthMlEWHTEVG58GER2_b
+Bleistift - Giant Colored Penc,48.013307,7.814244,http://lh3.ggpht.com/QSlQCbFKYYmb9mwknB3GVh-_bTfvvixiTew_sT-wMpAgqAHJHltkGIGHLVlFj_FEwRPfFjlV7PbBDDA1_NRhuzpZ09zpNsj8ewoI-7_fwnADrbM
+Grafitti-Wall,48.014966,7.816588,http://lh5.ggpht.com/DKVSFWe5uxlu_V5OCQBO397pfPRwaf_j59mi-smXw-lx50wKSyCT4YC7igUcbk9YGWW3ZhDrY4qOBOVkaky6sqQQFrzHu1nXmgXhX6OKVVDyN-0
+Fuchs Eichhörnchen und Wildschwein,48.019236,7.816811,http://lh3.ggpht.com/HhH47-NzputhOtUsg7fOhRyRketzAeGkPNeOPzLXdlD4v-3DQ5Ey2c_bZQ136lEWou_IppWuuxt-hMmFGtcB
+Sandbrunnen,48.014085,7.816545,http://lh5.ggpht.com/0y-T6WD_DgIFU9_ALoo_St4MQpSwDJ3gCucMsn_NbRI6DV8afHAlGw6xtghMz7-pgZaUh5qXOYc-lfyjAIU
+Panorama,48.013889,7.81427,http://lh6.ggpht.com/7J-7O4TYO44aSAiOTPP9j1ZBUOGunsX9i4FCCw2q3FChBZuBomMvJQ7hq5cRmhzWPd8QD1ydVJfrUGgP_Ic
+Geologisches Profil,48.013322,7.818347,http://lh3.ggpht.com/6-0rGC-Jt0KJuVfOcUBGAIffPo5HoXMpir2sbZ4Eds7S4XmFoPmpggtdY66tpP0UBpjhSQV0k9P9Mz3FWwAKJDL-g-kbCm93JItlRh6O-MZ2DkyC
+Taubenschlag im Seepark,48.012792,7.816642,http://lh4.ggpht.com/ZJkxe5t9FvOc8pY3crbiu5-r1jwpow30BFwC5hzBATrZrGReJCDHnNIGU86H5lbHa5iZcBQ-1w-TOQ-P8dox5MbT7ZBj1BQRtBZjlgISXnBPp3KTgg
+Siedlergemeinschaft,48.013757,7.817593,http://lh5.ggpht.com/zTd80mLZRfjIUWM6gBCtwYIcG1mzqxowrORxu1JklQAABS4DSr_p2jIGzmRdRc8NJtxz6QUf6RnPT7D22T1o
+Roter Otto,48.024719,7.810643,http://lh3.ggpht.com/DMHlTYvQtvz809KYcmP4xI4R1haJ84K06PHwAklBiz6qF1KkOhm5OD3l9dPPFXfx5S8mNTE7wCxPgjzPZP5y
+Passion,48.02429,7.81589,http://lh5.ggpht.com/56JelRN7Vz2ta676q7tPeMQCKWMiYyOvC-c4ThKJKVMwdGKUszJlb9tI-1GEIE8dp4hLkZ-1ORits_cL5i-Dfdf7AIPTCszsUeRinF1hTUSinE8
+St. Petrus Church,48.023263,7.808208,http://lh3.ggpht.com/wCbthbES9uwG7c4vOnMvbvkThDkidujur1DvoChuqPEdKoCDqXAsZn1n1s-yvrf9BV18YH76XYReKs0LPnI
+Wegkreuz Zähringen Oberdorf,48.016599,7.8653,http://lh4.ggpht.com/3gpqstU4OSAnj2G4Om54iPpFSUd14t6YtxEsmC0mZkmjhaRMQZxzjtzy08foshwzxzInjyyer_pHEaJunRU
+Kunst am Bach,47.992413,7.84108,http://lh6.ggpht.com/wv7wuwxzXYmWNCzbfUzLqgU5b4es_JuRKxo70W7jyQWonJXxjSEr-Oj02FvocL9QH0wABZpw1Vb4sUjQVRQ0
+Scuba Diver,47.995187,7.840964,http://lh6.ggpht.com/TxMdKslla7X8mkesRWL8HzkxW0gwa2COq7kOgyDB94qYYpLXKez4MHqI-rR_-k3r_Q-g2o1GDwez81aAIF4
+Rocket,47.990851,7.837593,http://lh5.ggpht.com/xi5PvObyTsedeuqRZow_I74DueGKNTuRcDixZg26KLz6yKPieNgGowAcsuuyjFF63t_QvBmC1ztUIxSvTktn
+The Red X,47.993377,7.838783,http://lh3.ggpht.com/qS1QQS4GkG94bz2EiZu_b9QFln5MYsNMtB5Q9ytQMRknAjKIis5GwZ26k8t8rfMVC2EY3GbnHzN6jBGZnKUofw
+Grünhof,47.99413,7.839893,http://lh5.ggpht.com/kKaSrUXsFlhkXq1Hp1yFgkhgm9H5lDufy3R_uMlZAyrfoE_5dMKSYZN89a-LRUFEOIzTEcSzHOLlwT4h4GkZ
+Rumpelhausen,47.99389,7.8362,http://lh5.ggpht.com/Nkyx6mmDK3OboqCf_k8_8GehDj0mcNmp_bW-_eLEAuVrSx9_6-MlZYzm-FXQIwDktM8Ll_cn6o-GecGxE7WMmY3MURL8kxBEnnL4FnOoYU4GrKNh
+Institut für Psychologie,47.997178,7.833666,http://lh4.ggpht.com/gNNXVOW4vYG1f_l_JDhoObXN0joxGv0KEZshf_NurHCfKSy4zSranlQAR1p-7BDLp600H7sKiUDAnnYw7fKN
+Dreisam Badehose,47.992294,7.837317,http://lh4.ggpht.com/BOGC_M3tVXqnl0-DBIw_KFcy77DWrO4OIFRkdY6MC37mSdmERa7GDCLpJFukAJwl5ZPG5ncLH6zS5caKTpFR
+Graffiti,47.997419,7.836576,http://lh3.ggpht.com/zZIozCF2zB0Q8vBNxggYHeFLJKvB1UtR1v6Wp5-rKMiMbvzMyiM-vLBadVELFih5b_UpM4bzU31C_72JZ4oDJA
+Brückenkopf,47.996997,7.838719,http://lh6.ggpht.com/X7A6v9jYAkDh9HhzMMSVax2AX-JYg2oJ8oZxVuVeMotRilEN5rmHBg3qPDc8VaI9aUl4vVXnTHSl4l368KJ16QnPRvHGOflMApb3xje1RzNGEou7
+Spinning Top,47.99538,7.841128,http://lh3.ggpht.com/38bI6Pbe0jbADBLoxGnf-u7x5DG-M9ePTw9TJ51eduh2WgRRgRlMV48V0RQp6C-QhVm7UaZikk6isjatsXa9
+Balcony Puppets Jugendzentrum,47.994595,7.833642,http://lh4.ggpht.com/uUT_z8EYoTiXyuByBLHIaQ3Lu5IzcXVhepnCPyxbqXrW8ZdMgpBZuW8oglhjs7q3ybpSWoVT-m8QkcqFyKH6
+Herz-Jesu-Kirche,47.996897,7.837463,http://lh4.ggpht.com/-TUw3Gf_gdYy8quuBLxcSKVJsehnChS9H-dZyD4sv1MchPleXaK6oX98wd8HVY7o58mZIHEKZS05ZXIQ5P44ocug96dV8zfUB66mZmSnfEHxs7UY
+Statue Stühlingerpark,47.996723,7.837902,http://lh5.ggpht.com/ErTq7VjewAs7Y0mbTtdQfpn8-TEp_b1nTcZD-XkPGNvxJrOI4svHxDXCBTnUNDcaVuRXDG6EhVMLA5wGy6V0Bc2P_NL_sYwHCJmC3-6iuSOBLj52
+Blaue Skulptur,47.992169,7.841201,http://lh5.ggpht.com/7oBI4JqE8hHIxk6dAO3VVOzIRtJvPNDhqeD2fqhWFkh9-n6N4aqH_TBL8Vy-spKlu9qsaRUz-YJl19skvdqm
+HKDM,47.992825,7.832372,http://lh5.ggpht.com/iOhCkK2Kzme89mD9QYEVmf1Gmdx4lsnT01Oo7BVf949IfDhwqpYmSp_tRkASNxMd5cFnnd2wxubzmnU3ezs
+Stolpersteine Familie Kuflik,47.996893,7.834886,http://lh3.googleusercontent.com/yFembL_8yPdYWPeTk5Wj0cLm5FBOV3AbJq26ERwVCNmLctGureZFv2gA7XdBJQbnZe6oWzKYZzlmIZbIDZHAnQ
+Artistic Box,47.99695,7.836292,http://lh4.ggpht.com/tH0WAEkZOcv7GJAEskXvdvcX8KdVvY2Wjs9u-LFXbUcjjfRfjoG6j_VUtT_tTPhCWLa1ets27E-V045cJ7Y
+Café Corosol,47.994467,7.834586,http://lh3.ggpht.com/pRRwfa7tTzk94t4UcAKJkDeeF3yojbYu2yXsG72CssZirLVXDhXwLB5SqlXZu1PCAn4cyX5pqkYX-2f_M1n7
+Towers,47.996466,7.840191,http://lh4.ggpht.com/dByoSKrV_nZP7MacfKmC3XjtqFGNm2qgvjLDbnMYlXoIsb2I6XoFU46NLcqDUaIDbQaXZD46MIa44xVS8T4
+Spechtpassage,47.99451,7.841235,http://lh4.ggpht.com/KLaLnxs5R5oQUgJmVo-ftwwMSApN0FnzeJIlfx8B9-OLGCPdMMna64o-IsZ68SbYq4uZfIKUjZdhOTPEeSWd
+Café Velo,47.996594,7.839558,http://lh6.ggpht.com/hQb-IS2Fex3IyJOx44gZloAeXbnc7TlzihK5KnslPO-N-wz1-tFgGtZNP2_8Sh4L2hivCUHvTA73Esk-B8I
+Brunnen am Erlenweg,47.992767,7.831345,http://lh4.ggpht.com/yLuNBruGs5p_HyEw2RNJ3o_ryqX6yjIlzN2Y39I4B5HTzZWZnJGSoRLttGVBU9gGsUiSuVTgRhUZQSbFclLEcYFPQ-OVg0AeimNjGMfvjcy0wk4s8Q
+Leuchtballon Am Hauptbahnhof,47.995658,7.838984,http://lh3.googleusercontent.com/qwTsm4UyOVycSq5NdKJKl50UljpXvxuvPsjktCEINbvr3dz3cZIWJnKhX35Nyeg85pfj_EDCwT4Z7KPgx_4P
+Ohrmuscheln,47.993115,7.832663,http://lh4.ggpht.com/DwT6WQ9IsSJCBfHpLaeTPvPiVZsSXWOwAN-nlIHFsc77ab3pYLDj9ezt2ixHc2zB9kUj94rNvcBn3rKomMA4
+Jazzhaus,47.994903,7.840449,http://lh4.ggpht.com/CuwQ3d4Q3ICfFFyGzeBCOmqDvIZDga-Tex_cG9Vzs_lhdvy02l8_sz41HWFapBtNGE9sW253jbmOBAS8tN4
+Kreuzigung Eschholzstraße,47.995983,7.834167,http://lh6.ggpht.com/XKFg2iMYGgZaWUE8PH-QDMxd5XwcB-8HQ2p8LeJO2XJBIlw8W0NkBjDL1dnV_UwnudGw3cGCMeEgZUS4uAH3-w
+Kunst Am Bach,47.992711,7.8401,http://lh3.ggpht.com/TnSzlMGl5qxO_-A-zH2cNXYUGcw2SwdReC2covffKqS73QFkUQfXlKDfB0VjeyhZo1DZVZiyl7TD-OlzZtJJ
+Leo Bloch - Kurt & Carla Lindemann Stolpersteine,47.997049,7.834516,http://lh3.googleusercontent.com/lw-zsRQ1M32NlgcMNWVTj_9imDKxk62jZDzqlNGrdQ0a9CwaCXuMqES0PV8SvTicIrkaKK-jBdeGv1sRh03x3Q
+Stühlinger 1885-1985,47.996462,7.838728,http://lh3.ggpht.com/8VrDnDxudgiH_xW-sXKZ66d5kKdN5d1u3637iEHYbZjACLjsOG8Yr89RxyMHPu5GMRx1HQLRtP8dl9NW__40
+E - Werk,47.99414,7.833312,http://lh3.ggpht.com/XbZVF7gQXA2dlR81lHSw4rw7fPx2-_OFFSIO-fuHJEkXn8dlJUYAL6Blf-n30MwrKRGjyu2RD7Lc5kMtU4JA
+Rundes Wohnhaus,47.994384,7.835286,http://lh5.ggpht.com/QMpXX2Ray1mweuFvz7X-bwmirmJKT2n8c93-mnUaSoKaDIjoycEajALX3CSCpsuhZTRPLwczqAAj2hPCGSS_
+Schmitz Katze,47.992289,7.832367,http://lh4.ggpht.com/HQYYGgdKM_EOiwme-T349kKFCVZP8hJB-mmKh5_fafuBohopYABgkVKVkOqTE1l0frK1sTfB04P05bwJif0
+Bärchen23,47.995823,7.835137,http://lh6.ggpht.com/IRivOS6JgVCfXCKw9OVD2InldjB2P6tgvAC8BU6I4GcLCNMjhN42X90E_udivGXCtQCzIYp9Xa8sjZTU4lrVrQ
+Kreuz,47.997253,7.836455,http://lh6.ggpht.com/GWouV2xAj1VtNnaGMNO85Ea6iWNsalpd68-vdAKI-uExc3A3gCcSaRpt3EnJg7gKVMafRI64mj1uUvgIDM0a
+Bürgerhaus,48.019354,7.858367,http://lh3.ggpht.com/AEDUKSnmeuzXHZ53EiX0KxfAmYr6cLG7fG29ukyD7cK20IDTkuQ7XN_oScpI_cfXEzEN47ghfw7ePMLAnr9H
+Living Tree Murale,48.017438,7.857108,http://lh3.googleusercontent.com/H2MEbQjuAHPpvO-hkrFTx_Z5mL-QzKt3UBYr2U0XV3jYpd3rEjuI1Zlzx8qmbIqnSzYL6LzNhb26rBV9kX14
+Freiburg: Woman with Children,48.013726,7.85668,http://lh3.ggpht.com/66Y3GkNxz17UAtYbW-LSUPzDGMm_ZxMvQ4fVIMQKMz1AhlOm0iEg0QXTPo-kB1bSyMWKPDph6okz4EQOL4TeMvHChoXjiut-rI4aRZUKOAwpHwC0Gg
+Christliche Missionsgemeinde,48.01917,7.852971,http://lh6.ggpht.com/MkNNDNoMFH-YTjfQ28Tm9hr4dSenubmwh54Ab3FtBr2Kqn1P2Ada3HLL1WEbYKT2hxGT6OSGvTmkvCnfAbNz
+Tower Of Brühl,48.017588,7.854083,http://lh3.googleusercontent.com/NscZJu-VZ2i6IG8TvralERWX-GQbbXUwxtimHNgBj0UM63k5CzGcX14Wipl7PI__PNiLmmggsVCKpFD3evCbLA
+Dank den Schweizern,47.984925,7.854106,http://lh3.ggpht.com/-q1AndoN-LwyCy9pdASFLHBS1lKWqDE1WD_RUCh8jMlM7Wv1YgIKN5f53_UX81tPGBaHZy-baL7THXHnDrNG
+Aliensäule,47.985087,7.852776,http://lh6.ggpht.com/nO8eh_laAPXq1lNt3WiN4Vs-Vk0XusCQifP3G-vtJ7koh-6dHvzpcftZy5-7U2sLv2O_cwkcxzbtyfMOnQF9S14e_G0Hu_xEi6Nhv9pBKxFhTCZv
+Fr-Wiehre Neuapostolische Kirche,47.986161,7.86367,http://lh3.ggpht.com/QS1HVo5RH6GIOH1N0vqC77TeiTWXNUOARPI0wa7zawPbYb-LGML54Pq7R0gzorga9n3iqJnYmyv6cGNbjbdN12snjp31GFOu12T6C30uCYlebB76Lg
+Maximilian Dortu's Crypt,47.985846,7.857125,http://lh3.googleusercontent.com/OqhrDz_lC_5P5PZrxD587x-qfxTivSDGhH5eKq9Dv8otbhZG1F_3W8QnKSyD3Lp2cJ3yie9DksxH47lFsTmo
+Stoned Water Source,47.982622,7.857594,http://lh3.googleusercontent.com/PiA4APw2QgbhPMRqUBHvXwXbtbhQODfp23xCU7Y4bfS13XuN99ZTy-RUNpPcC_R90gRs0DnYwFsrKTHk7lw
+Weingarten Wappen,47.99434,7.810533,http://lh5.ggpht.com/uGyCbaaSUXgHk_9auCCSSBNj43aOTRgYusJvWorQL-Q3WXhYMEGh1H0jE_DGC2qMjpz6MJckFd11R3MT06g
+Spielplatz am EKZ,47.994938,7.810651,http://lh6.ggpht.com/dcwgrLytDu0iKrEyeKkyH8jJdSg4HJyQ_Vtrzfx7oT1DGXvCUI63g3lcP52yIFJLVJfw-aW1XX_4a8ylPpEjMVKtXzT6Hrj22JUtj6rLHwnU-00W
+Weingarten Markt,47.994225,7.810125,http://lh4.ggpht.com/PGrbRzggkwpuYAZjtXl9AUB-4SfmQK6zMlvKhc120gFZMnDQXQQFfpoUl45wlVlEaB7YSR_vAaHZm05NCT8KoUpCEFiQ4naRvqgXqdhtTihS8qHS
+Long Slide,47.995424,7.811809,http://lh4.ggpht.com/pXXDwNvms8X9htrViBRkyUKAI65Y2gMaIDh-sKQz0KGikhoJ79pIHSBh3DjBMR9UBuVb88PkMxlpwoFffTvS9H_A6p5ZYgvrQsvnLB4Xvj7btVYJ5g
+Weingarten Mosaik,47.99452,7.810071,http://lh4.ggpht.com/EpWgX8dqdHtAdflEaTL1YBkONFT9staO1l7cDWobmHSJ9R-P-w8tah4oOZ7ePPli4QYRPj_YIz2gWEoRN9Gm8yFbrgVws2drT8GUHypDmnenXVA
+Himbeersäule,47.995144,7.812606,http://lh5.ggpht.com/Yz_ZouYg5-_Ig9_VnMDOs57Vl6QBRGkOPGGgK7QQkL7agRspjKV8Bajkxn7Z563siWLLBDq-8Hs9K8hkuDvqejv9MLq1QqhutMNTjdVHHMbnh0vqbg
+Pyramide,47.995289,7.81054,http://lh5.ggpht.com/DQ6GhfnylNMB-tSGNA0QJ7i9fLI-cIoeIcER4K5TbVPopsu4hCqR14FP1PoXm816V8re5CmbnQHzxL5jO2N7o3x3K3pKFalknP3oya6pmNP-6MJf
+Skulptur am Dorfbrunnen,47.991533,7.815795,http://lh5.ggpht.com/xtLFsxiZ4cVa_O2RLNGtREMlfm2Nc-ij91OQOPugq2FO50KfkA93_63nIQP03VH_JUeu2q52OMgHSEtu9O2esIOXxLvzOifwBiSdCVfRfxH6f5zl
+Red Street Art,47.994962,7.811718,http://lh6.ggpht.com/lXpvHAtt7TxBVxIZQ7kxl7cR2c2BUUsKE0K4TuCdJ20R-gKsQ_0TR6SkkaYHk6qDh2dqnQ42imgNBF9OjBTb5-E_dYtvthl1fosG6W3Qj0iDZ8bq
+Drehdingens,47.996445,7.817514,http://lh4.ggpht.com/YzSs5xEt5iaKsdGBu2ayqx12tqu0Z33fD9zepj_9RyUCuxGFLdhCIcnbdnlz7c4ZRPkbsCyEm2HDbFywkgX3
+Kreuz,47.995207,7.809693,http://lh3.ggpht.com/nIFbm6sGVMnFvcUYh3yymmGEMh-7DSCMBO4UN_Z9Ldsn8mfWSx5h8PbUT9DjDaSWiuQeF6w06g14HA6TBPK_
+Spieloffensive,47.993362,7.814435,http://lh6.ggpht.com/6QiLmTklPkPNNpOzYPYTm3qIuJIlJux8EuLLI7rE0QVlUe4Q9RYDJD2I8iHh3w__X1yQOJA_f_sVXlai8kIp7Q
+Neuapostolische Kirche,47.994366,7.812835,http://lh5.ggpht.com/rO4z2DgDB75pKeAgiE7gKlRF6kviPlGNMTlkYG5ulJAlh1NLCvCDu9EV0SJarAhbpuLBaP9rIPiTL7NIJbI
+Krozinger Straße,47.992861,7.810141,http://lh4.ggpht.com/wpvyz9V9s0zybr_Hjjvu-IMJmcU_lgaGVq-GQ_Y6k9YKUT79zGJARxpbnmDvVi0CNj--H3mTiFMytxsCj-JfuQ
+Finkenschlag,47.990684,7.813867,http://lh5.ggpht.com/iSuuEUl3SkqHfb8UDmq9-_RihEiW-McLBo3ossGo_BCMUk4CmsKdCTuvfJHQ6pHWF_eFWYB3izhI6snibhCs
+Energiesäule,47.994377,7.811359,http://lh3.ggpht.com/NvjQw2Ay3aNYM6sf0hHmwAdurbKY7Jv3_CQnhd-Sgecs8_qR1Q5DM1DT234OcpYWnl-psnzWT-ZWMR6nTFk
+Salamanderstein,47.986944,7.865463,http://lh5.ggpht.com/vCP-GtPeSZkh418PRllm_HiD2JLgw61zZkp6pihBX6AMJgjTla1re6Ys5yGfrPk239bqDRgwWqQZiJdGu_hK
+Mysteriöse Musik-Statuen,47.98888,7.872584,http://lh4.ggpht.com/qN6FBxL408p7sZ4qYNsdgLQ4-ylL6ywIm9_MkDi0FtCOZfsExA2MmiB_LX2G8VND-B0M2mA-PtuQm3uUI4CD
+Freiburger Rabe,47.988755,7.868704,http://lh3.googleusercontent.com/t1rJ7q4hWkkE9fiFbG-6cuDjbF_MAS2tEpGhBkdoYCIuT_NVF4uxmNcOHssVa1uzsg1Ctg08Kc1uF0jh3Xx1Bw
+Steinkringel,47.987951,7.865073,http://lh5.ggpht.com/cEk0sLr8wHiCESea014elhhS0Sb2anMGatFHGP_zPyRgroqEV-WINwaAcQXfR-6rdThFdFyMYthGJTFoSXY0zw
+Maria und der Drache,47.987634,7.863947,http://lh5.ggpht.com/2PR6vTSMo1nHvkkw_A8ZtPWnJjAcCQMx9ErJDuE1XjE3Q5Yd1xQXNhg7iE05t_H7Ru7q58L8gMgb020OXNc
+Gerüst,47.988044,7.867338,http://lh6.ggpht.com/OrztxatiGA5KB87mJ3ueDVHjb1bkhVicLmyp0nGjI1IeGiDQc6dhdWpCR-trFq1Fw5a9aLDwnvsSrebGNMOP
+Waldpavillion,47.984712,7.873025,http://lh4.ggpht.com/SdSr7_mD9RZ6ZR73EW7jLEsoJrhyyLCXjYsSA0oa5oLInCmnP1ivT5q9A04j8XjlKeGDts9AefS_090ebk70
+Stadthalle Freiburg,47.986879,7.872724,http://lh5.ggpht.com/TvUn0Newq_9zbGfuF69Kj-R80GetN1ikjLSYi5MbKAPKJQhWoALJs1k4mYUuynFBgw5_RWAbymwXwdb8Eqs2U3q8sCdGXJfGvFYdqddDe2W9M-WzsQ
+Kath.Kindergarten Maria Hilf,47.987592,7.86667,http://lh5.ggpht.com/u4fC4hwFmQFhrZwziaP9EDHhgH8Hxq9vqtDz5_MxHFX0QyX_t-rFc_lSrUEceSPivs_9csZ1k18yhWq2mZ-CkVdbI80akIARNUTrZuLsDsh8LOE
+Stromkasten,47.987691,7.868824,http://lh4.ggpht.com/fw0iEggaHdQeJEuYiJ3J7skemzrZ7O8MtspTBNduUjV_CbhXDesD21Dhe7rwccmCcWmNjYBL2pkUaoEfilM
+Europa Wir Kommen,47.987688,7.873265,http://lh6.ggpht.com/tNQDSwQ4hFCQpCgIiwSsGi1vhV1Wq_j1LPS0VdA9Mo4fODPjVq4edsOgAT_VZWMKrRHaIRqh0_tROuwAVpIHTg
+Des Nahen Waldes Reine Quelle,47.987859,7.863784,http://lh4.ggpht.com/UnalFS4IO0gAHlfDq_v6hxG-v-iCUwXlCafqVvB5x4rDOEnfgq99y_644WzBGW-VpYIkWqOp8r9wRyhlLenM
+Evangelische Pfarrgemeinde Ost,47.989391,7.874512,http://lh6.ggpht.com/N1k1g_2677B5fpT-Y93sNB2pDKuNk60RGTdqowfMWEMl1tI7VsXUGHDNjaFTVziI_yEPS-3ymINZkafJkpPr
+Studentenwohnheim Berliner Allee,48.003322,7.820544,http://lh3.ggpht.com/oKxvaK4UpNaBpZgRB145hRTNnTjgNmo6idVmriBru4fn15OV3t0xQsH0DyIczdxAYKcdZ8UheloRJ31zJe53
+Homestar Runner,47.997592,7.828333,http://lh5.ggpht.com/BGJRvh2dkEV5d5zjG_DyueFuKndGpr2BAWfz16OB8KKEDvMn_9eOmxMJENZIlQ0BeSp292wk0tfJXNg-jVFn
+Berufliches Schulzentrum,47.999781,7.826043,http://lh3.googleusercontent.com/wG4c1ta24FokaGRaZk9itEOWTT5W07nbVRwF7sYLTaV3oPgVC4FnsguJsdBkPHoRenoEEXMaHuvdrlt0F4U
+Kraut und Rüben im Eschholzpark,47.998619,7.828737,http://lh3.ggpht.com/NhQBevTF38ScZADU9zoaVchtQSR5fkdMYs1ZCSc7bbJ1Z8bdRsSfK3QpUkXMAFIO6RfyBvRkZgJZSMGHTKXlKg
+Regierungspräsidiums-Bogen,48.002475,7.823902,http://lh3.ggpht.com/nmsusrMmlw2RUCwKKNuocMwskVSFvUZ6Wo681-kwmSg891Qi8_iJPpHyMg1pGTpSnjCTBb5SpJnyqKKL54w
+Rooftop,48.000329,7.828066,http://lh5.ggpht.com/O_C0dp7pf1IEnJc8Sya2ASDCubzGtR5rLH12d65EqphLuV-2-nknqnmUic7H4I_uPwEsUeta1J10qT5Ouv_L
+Stählerner Albatross,48.001341,7.823366,http://lh3.googleusercontent.com/rk_9EcC0ntAH0-Aw-yXG6rDu6W46uyAVAea8iyE_dAn55OFLcOwbeCn2LRW03_a2HPxqYMhkkWdy-1zO0sk
+Hölzerne Bäume Tor,48.004736,7.828713,http://lh6.ggpht.com/gw5x9PQb53SlpCk2jfA2-hEDpunyxojwtKVjkXTk0oYnFQ6K0LiIarg1wdCdAFSEmyBH8SavAGf1v-ebpZ7C
+Snoopy Wappen Freiburg,48.004161,7.829375,http://lh3.googleusercontent.com/7KVgzZlPcNGLQp1apmumbz_Q9ONd8BuSkVa4NSceRpFQINLQDmAPVbTMnXTuMAlU_LLldesTrO5C9XRRoLzD
+Baum des Jahres 2011,47.998704,7.82904,http://lh5.ggpht.com/jQcmZhGD9B7YBY4AEdzaCZiGEjaYtPgazz_ocLs4cGRp0aUJrx7MiDTLpFmDEt9LP2AOTrVZ0R1VA5-8Cv67
+Die Hand,48.004853,7.823208,http://lh6.ggpht.com/rObJ8s55fC98U19ER7dmO-__SdsLtMKUzqTRDWiZCOd08DX2GSeS4Oi3F-rr5L5Oz0nzqaGmKTiEJ2-PogY3aQ
+Graffiti Runzmattenweg,48.002393,7.825683,http://lh3.ggpht.com/n05F8aQ_OUVmqZq5kNRT_oJ0JhR8083bUGX11r0o_zpch87h0NQrdys-aUg0ZURAZEt8lIMQfSYibHlkdc4
+Uni Radio,48.014015,7.831736,http://lh5.ggpht.com/nQgL5bLSZETuK-pPBpK7m_mWfFpMdR6WwAXWfswITIAADW0oMFlrdU4b9vytcxRgwYS1JCCUpfSRgAh2alz4kp92hJkolb2QDz9LkHSHMwmOhwg
+Technische Fakultät Geb. 52,48.014136,7.833949,http://lh6.ggpht.com/HimJ3xf4vvokQ8hkqGBYCdL6VIROyKtr9rw6y1I9ZlF29jEgymNcBvL7yEhOsG1V-CD3WknAerlpcANc9km8
+Tischtennis An der Tf,48.01481,7.831238,http://lh3.googleusercontent.com/2Rh3kLQh2DiK1jIi6xgxI9yHuiERmasjMmAvS0TdJFeo4-RmWWB2Cz0TjlehESA79TXybtlBsdzA4TYVrRFW
+French Army Decoration,48.013169,7.833167,http://lh5.ggpht.com/cILIBETscTSyCYjph51QRTDn64KcrmUv85qk4A6L4eWUT7gqRVcW1om4W922P9FDjM_xa-mRoQg0UeTQlO4
+Mais Man,48.01348,7.83927,http://lh3.ggpht.com/FEaA10bz6LUjvSbbB-CNC7K7h_mN1hw3xQ_Gqp6gJtRNim9LdadctcpV-9nC1QxX2W_Fnbq8WZ5rTXYTqkff
+Adler 1913,48.012858,7.833983,http://lh6.ggpht.com/mV_UwIrPO6PZgqEdts4XPZlfPXqmZj_DdgC79tNHCtNSlh0MEbTHi1I--zjubk-ZNokjCtQxLshGy0DLOvQ
+Uni Logo XXL,48.012724,7.835477,http://lh5.ggpht.com/ne30VgFoyLfrzUqPr4IOVgX1UCOuhiDSoOPCcGpgTUd6AJiRZIk2r8Ffg18UjGvzCcmrIIhinfxfZ91bG5g0SQ
+Die Welle,48.001083,7.832787,http://lh3.ggpht.com/BuzC3fssGK9hgj2udipQp4PWO9dLHnZ-1nHMFmSzhyYoe6dycE4tdrixkLwCTqRv_VpQEek4NHZk22NWgrA
+Spielplatz Hegarstraße,48.002986,7.83673,http://lh3.googleusercontent.com/32GXpnRoDxnTj9jlOKD_1LV59qJUiAUZWjw7RzCgOcF0aNSO1oW7v_m1VLDNhf80IhyvErFU5T3QBl2wo-5c
+Gebeugter Mann,48.000876,7.833058,http://lh3.ggpht.com/_sMNc3RfJch7lEcnmQgzLeDdx65tYLLPb6EYCOA746CDl1rHSS4Dl_pY5B8dyf1Ih2WO9tGVUShb3aUz2AhV
+Aeskulap,48.00324,7.838554,http://lh5.ggpht.com/C4VnFHdb60FJt7O9NnIdBvaQc021EL-155rknnf3n0wTROvDqT4Jv29CDJp71bcUG97VxqexuK8u0Cb4Cvzq
+Blonde Lady,48.000319,7.839973,http://lh6.ggpht.com/QoFwIWcGDNAollvpnjnsfxilrhIAzEczcVfOVRLiK0OBWNZcJ-8q1YjPoEr9xC9lt0_MR_qLE4VtqIeDtUQmxA
+Schornsteinbrunnen,48.00449,7.833087,http://lh3.googleusercontent.com/3sG_9RhYgrAssmSc6faNfziQhQLSLF0YCkHHLLViLyJmrf6N1_s6xX2qZmKOhVRSUQz8kGy1MnZAb5hL5JjfTA
+Brunnen Franz-Geiler-Platz,47.999818,7.834771,http://lh5.ggpht.com/XlySz1SS43WotrHGlMb9ENhi4nVncdRhX7KERPkuIw3dCWoutSICShhJcApJejFBSTwYpRWy01snYpBAuF5H
+Construction Site Art,48.000003,7.832486,http://lh3.googleusercontent.com/kZ7BsFX3SdsZ6d7ykjQ-WFGtJ269FjiRNu_rA6ms6fjROGKaCBir5Vq6_0C17Ffab9QxDteSyB7wwCltw7I
+Evangelische Kreuzkirche,47.997769,7.830667,http://lh6.ggpht.com/pU6A7K8cihmo-6R9tCzM9nPiMZNWWlS6dAkM2nbzZpYk7FE75jLqgGx4lYvRwBr4gFBX3pdSNVut4hJ_r8dlqMRRl4-2GAaZAKLvBT2aeK2FqJwa
+Stolpersteine,47.999624,7.836982,http://lh3.googleusercontent.com/pOrXkdir47LSJkiyKu7XLn0mKJtEZADZEEab1KIfcdOPurWlHBLof_dcXPtKIm6fMBt5paooJGoJa0UVZZJv
+Storchenpaar,48.004957,7.836192,http://lh3.ggpht.com/Lhl7dLJDaScSpt7JHSqXP8XnTLL2d395TrGtEtM96GhPJNj9XgNgGyfJuQ2txiP1M-i7Uy2YekoWSoT0OAbB
+Albertus Burse,47.999006,7.840147,http://lh5.ggpht.com/EMOD1b5D7chEGHS9GP8CGozBs6xGKroJmh7b2TpoH-N_SSlBhjrxqcyZBlDPpEGBxazPQ9Sh_JwqnZ6EyOyEUZx_M_sxKtRTrmznZVhteZRnfmQ
+Agentur für Arbeit,48.002941,7.831666,http://lh3.ggpht.com/UkJqxiItxUwpv0QcK5f6aM5FvvWkZ-v2eMHZ0OhEHvBRzxM_rE-Yb2-BU6G543RsRYxdxzr1TsWiAu9TfUjgmNmXUQd6-BmE8c1DkwJiyfrdQVY
+Spielplatz Franz-Geiler-Platz,48.000007,7.834306,http://lh3.googleusercontent.com/ekOpXWOe4eBnhOvBe4-bYXvrP32wQD5TsKn59MyY8gJJXH_bkpv8su3FzmQGsoC0FtVAGYyxBA2Ho0zRLfbw
+Tell Backport,47.998154,7.836761,http://lh6.ggpht.com/yuRLbvofBt1ZkawIIH1ewwINhuebAB2lwM0SDhZlLgE46NxNCiQQqDSBL7TcTf8fmCXs7aTWkKWpug8ZC-B9
+Omega Electronic,47.9982,7.835794,http://lh5.ggpht.com/pjcv4PIuCM8KeXdR0f8x3tyaMl9MpWK-5d_su1IWeici5wEXTuKsnP0oZLDI40NwYyenaSv4SAD-IpHoIpU
+Waage,47.99959,7.838374,http://lh4.ggpht.com/kDqreo7hRhaGSxDDTyRH3iwFUmOhJ4TSoFJsSPwXrBlB0COFdnXUMguLA0IQGY3IDM1I3mFX6XlBDzWlpm4
+Stoned Lambda,47.999018,7.838406,http://lh5.ggpht.com/jbe2HkrcNUWha7Vl_ffImWnWYl7jqlUAZKEoMIGb4hFBm82XRVTzlz4N0DZJp8XD0p4xODCvKYCqwI0POHlytQ
+Stolpersteine Lydia und Meier-Friedrich Bloch,48.001259,7.841089,http://lh3.googleusercontent.com/vfvQsSqHZbIQidbanqqWywEMyU2f_Xcy3jajjN6hBdnMWN02OghvNr6bNiY5RDZDBL70oUX0hKMiP5dqrvky
+Metropolis,48.003175,7.834454,http://lh3.ggpht.com/0p0V-NWkA3BAjq688rI2Ig7vYgf3BfR_mnegJS-iAEgp6kUKcLlzqgGdqvywnNVOxLco_vJps4z3H67fU2HY
+Wasserhahn Eschholzpark,47.9997,7.830456,http://lh5.ggpht.com/WrkxtKS86x2RJ5u5W9VHXZb8otx7u-bryCBKkqk9QBu4VIwYYqtJtAzng96g4se11Ae-azOvGmufYRCloL8REsHD-rBLAbuFFYqhKU_sGemSjgQ
+Die Grille,47.99874,7.83029,http://lh3.googleusercontent.com/eLd4QkzDItmZ9dV3eUi49q--81lL-hplA27wRUvlCATeUWl7DF6ZO5MT7ZuipSX6IyM1uv4clDY0pYPHAbs_
+Bartmann,47.998718,7.83107,http://lh3.googleusercontent.com/HA0pY4Me8xqMWLTI3D32T9y3mOFNbh3ai0LrdWD13kAFh_Ij5-MBPLg24lx11B55zxX9wNE6A3yNR-ZJALI8
+Lederleplatz,47.999447,7.83881,http://lh3.ggpht.com/ckvc7pROpnwGr3FF7vFJ-kNIPPQkijlsbXnHgoSgL6cQ8Uht9YXYuZTbygtJ2GifwRjTa1011jr3yKTCXS2woHMyZMy5xRPO5_8cuEuILAOMFUMl
+Respektlose Vögel :-),47.990778,7.854396,http://lh3.googleusercontent.com/9D-cvQ83a0O3Z_SHWjQZDQ8FVVLgHiDzhoNBhyrLUJu6yHr_CeMaRU0CrY62ltM16DWvsoIJZBqb9fqpczI
+Frauenwerk,47.994708,7.856073,http://lh3.googleusercontent.com/bl_UYOzQaJO7pWNp7CYGGovSVvUZilzHhFn2If_uzoaObpBhA2SFf7UE7L4A3c4KqJBiYEJGLPGdGbTLf9aW
+Röhrenkunst,47.991858,7.861943,http://lh5.ggpht.com/BFN6qVmus3nMeR5cwBKG0VIFj4nbIQ-bJzmkrtyHc8j0W_r5TVLp2sFyEkUnbA0jOTP3Nr4ahg7JxPddM0w
+Freiburg: Golden Bear,47.99334,7.853992,http://lh5.ggpht.com/0wXlRlyifTUgvGD6Zs_X6MQNtzMRnGKHfjMpjQXOXugHMbU8HkBRZTQEkcfxED1BD7EXDRaVXObvcBg0TyGd
+Flötist Stadtgarten,47.997355,7.857937,http://lh5.ggpht.com/Kgf86ZQ3S9PHhz1XzQeIkkcs6iriYU57rDt3d6w9XSSCMqNPA7xNek5_bTge-W0-buyk8i1OQW751ru-dYT7
+Facade Sculptures,47.995251,7.853251,http://lh3.googleusercontent.com/uCEfU544VgSit8DuSIacVaHGADtmwHb5yHkcY6HhexHgGGrFL4EyWQMmg65CYGWGnd3O8rrVHTnWpLo-NGlGTg
+Alter Zuckerhut,47.994817,7.855315,http://lh5.ggpht.com/BP9DRZSqnxfP-uYPcMbYpa6cHMrtm0c4o6mJEPVpt0r9AVCqBDLVBNo_IKflf17T9JAhfPCTY1IOlWV9JdCW-9rMrn-Do3m4MCwDI92qBiHUgmP2
+Freiburg: The Red Tower,47.994155,7.859298,http://lh5.ggpht.com/ZEq_9gB3RdeMcYc3QqKuzKucVU0-oh_YfZZHzD1FU_xP039dm2Z0J81of9m9-is2ns8dP8_vLZt6q2l0Qj5hXFREwHDvKpouuWgJd963JyiGMrI
+Festung Schloßberg,47.993336,7.856167,http://lh4.ggpht.com/lSUmjU3VB1jOQEdwFui9ctskS6-2pOuEbY_95DRkQgqN8zxxr7yeL7TsbQEJg0pSqF5j6LyeesRLAfYf4vRibA
+Dark Fortress,47.995678,7.860635,http://lh5.ggpht.com/3s84xdtmtbO-Fp_SbQXffGWwuNVmHWYCukKO-BrQvEmvevLzxMV4JSHq23VI6hB85cXCBO7Y38HUDc-61_IQ
+Freiburg Synagoge,47.996354,7.853567,http://lh5.ggpht.com/dYBuf7AzotPuizvTYkwq4FcEH_MhYOK0kqdiNzfcEoTEEkU0G_qaGw8T1ZkQEbPbCDOFz1Ob3_MBW14Xg5u0
+Pferd,47.994431,7.853708,http://lh3.ggpht.com/v9ZGgI2fw4kVepDHK_oe7Hb2Ufeay-mOfO5ZsTWiivv13eU2grlho8l-gliF_lB-qp2j93wYJbrRQ1LRdi7W1w
+Baumaschine aus dem Mittelalter,47.994257,7.852907,http://lh3.ggpht.com/TlCwKR46e7qjTsVyU0zlN5ptxvvOD5OmeT4Ch_dY9KiVWF1lJ_z2Nf5CzaRyUZ6T0kSCVF5YyITsgRqdXukT
+Mein Baby,47.992475,7.854519,http://lh5.ggpht.com/Tiz6Z8B2E5Pud9FgMPVipLBQs2ppJ64STYoguUck9ZpBhqxOrAWVwZ2-WVnmGz1u7md-ET-eo-tGydU1OTdVMaK_cT7uqe1CiyhMT5P97f5FsMU
+Das Krokodil,47.99309,7.85295,http://lh5.ggpht.com/Onlfp7tsqY9g3Ey5Fnwvyan2awLC25wX6JaQ5JReeK8gcjgO20qhjSYVLS1tjIkhhe8nqQfRijax71sWWXDJ5wAvRSTFucd_6XbHKEA0jbNb2FB0Gg
+Brunnen Schwabentorring,47.991241,7.85435,http://lh3.ggpht.com/SJrZxofTr61O4amr_u6VeOWKBMpkIkN_twMyl5W_vdUvHfGEXQV8Bs7jZkomVaNPhZ_INRVqxkX5vx1q1ux28pC2EVDeWVTFT5iHMS_EUMKUsEz-
+Sitzender Mann,47.995321,7.853949,http://lh6.ggpht.com/NvUYEnflrqh7fiB72bOGPz2tuL3DS9-w7rUCpZffvZgaVhLN1nDmAhDe2zUetmDuEqS7rCGegpmGN4c197hbbREIUvu2WGLAiJ3m32yoZczLoVkP
+Oberlinden 1,47.99398,7.853796,http://lh6.ggpht.com/8Hh1vbTQyxmCzN9Xobfvm7ywSWilWJe-SOPIguMXhVgVOJKCtM8rfaU1L2MFTBr2LZcjBauc7O-M1qRcA1ChzcfL4LAvsvKySfEC3NoE1maqIeQm
+Lebens Portal,47.990328,7.857221,http://lh4.ggpht.com/VUhhkLYjtLfFpNkSr_8v8oosT0EmsO5hVYhzxMZCXwGGyUXewMSN4d2ULs5oqAGkS56rpBy3RsiOCFsHKG1B
+Freiburg: Tree Sculpture,47.993119,7.857073,http://lh6.ggpht.com/aSC4sDJuII3kwrUY3Gg8GxdcA84Lu8Wh5CBFhW7_L6OifuuDw5GIW6bf_SZzan-iTg2Ws5Br4pummQj56x5XGkbcpCTZ6moPlkKKWQYhFuYM3fVN
+Frauenskulptur: Dreifach ist der Schritt der Zeit (Schiller),47.997318,7.857049,http://lh5.ggpht.com/iJ_I3E4RSyPGsu5fRRgWVsxzRGuX-0vMFeg2e_oulleiVG7AM9ELH8YjYJ1psN1TBrzwPlv4GpCrwtb8VuPm4qBmTO3aZV7dLJtEtK6JiEctvqDw
+Schlossberg Historischer Rundgang,47.995391,7.863239,http://lh5.ggpht.com/b90hMUwEI4exempywtg-V0Jb5s3s42cx3Ck2DVp6ueDs07cNi1ponydouJfHKKynggtiilr4CxYje_5_R1xx
+C.A.Hoffmann,47.992895,7.861819,http://lh3.googleusercontent.com/MEjYxuJCVesqshRd0S_vID6ny59qHa9bg2-T0jqDPUqCbIix2kcTc4dLLO6OXAY_64CAoi0MUyZariWRKzlyhQ
+Red Metal Art,47.992107,7.857966,http://lh5.ggpht.com/T91OKbPQx4jIwjB3rRe7eF_jRsH6dml_h9PGjMmhUxnfQBxJ_MllA_6oY5Lu5SIaot1_R_dTUMhgwdMkck8y
+Carl Mez Gedenktafel,47.996773,7.853938,http://lh5.ggpht.com/auSQPh11peHP8eoe1TAvhY0VLjOOLybv5x7_v_S-W5pY1FIZ4IAVkFB9Ubla0HB75BIJSyxtIzqGow1_rM8E
+JE SUIS CHARLIE Freiburg,47.991069,7.855467,http://lh6.ggpht.com/FHORx-R8uYaQKRiBkaDvQY1Hw6_JmOS11eQjkyAv-NI34EaGlrdh9xgU8taq8jvhAWULza8VIzVwlDshAv24iw
+Kastaniengarten,47.992819,7.855681,http://lh5.ggpht.com/-jhq_yvPxlB4sAciVu81k6jKrWdXk21TukTUYlpGRtAVo7AX5Rw3kivYBRBmqlQ00FHrBCi6tkGJP3zwnGrk
+Ludwigs-Hoehe,47.993678,7.858235,http://lh3.ggpht.com/P7nobULEHXECGkLzi5N8orjxlnX_tA3ZATnLUX8N4558D9OmNhkxci13tdfVwMfQPHdiOyA2UGj3tL-KxFu4
+Mauerreste,47.993696,7.861072,http://lh6.ggpht.com/RIT49kHTWD9mMIQHe5W_lYH2tQDmyxU80aggUYhbaGU0vBM1g9oqOF916ulwmImWV3_eOH_JFOSRSewVmRUo
+Brunnen Kartäuserstrasse,47.991727,7.859707,http://lh5.ggpht.com/O-5XwjpVUbXXfy89wpR6hKJvQTuWAoTqSsH8jcMUzIrPktDfKcxePir0QC95kox4-WKrsWSZx03SSG5dMZsEiw
+Freiburg nach dem Schneefall ¦,47.99248,7.853723,http://lh4.ggpht.com/UdIjGvg4uw2qm2xWhDoBwBy0ckaDwBi1fux6o9QghCqIXeO7lfjo6ORsaKaq_-7VF66Fh096wbQjk-Sxv2z_
+Historisches Gebäude Münsterbauverein,47.995502,7.854144,http://lh5.ggpht.com/pEzPteQzrLIBmBFjlaAZoOtCv1tdaZuoHe65m1i2dsyUoYjg089MnjP37Ua-t_RQtjoj4h4jbc3aVUo8twnXHw
+Erzbischofskirche,47.994932,7.853788,http://lh3.googleusercontent.com/gtcA0r07LTRW_SyfGRzOyU4iZU89BjvlUUktpEHFQFCpO5cwYtgnNl8IsA5OHj1-tVf5YriQEYBQQQjx9BFB
+Gold and green,47.993651,7.853841,http://lh3.googleusercontent.com/UaH4x15njkRDHrG984aXAe10TX0Kqt9xwmAfouxCAqxv_Tj7qp0ssqbMagv3Za1jZEOo1xIruZ-_QaJtgopq2A
+Freiburg: Sculpture at Schlossberg Parking,47.994098,7.855688,http://lh4.ggpht.com/8AIRW9ryBD8EPoZiqKZdUPZXwMVea6o9tR8gcEkN2VL9s4lZk1yCpPGIHpfaiiFM37MszSlqgnzcM74CGOJK90aNFF0W7an-WuC0Cc1_n9mab18
+Schlussstein vom Tor der Freiburger Munze,47.994437,7.854202,http://lh5.ggpht.com/t-czjfSc3HkEaoJFnW079ZalKSB4dOuTF7nUszsO2bZWO8KkKYKIq0l0X11hJeHF2HR9VbZuHix-ii4R_mcGhXi7_5bTqlaE0XKj4p-EN2UeDGs
+Wandbild mit Kirche,47.993826,7.853583,http://lh6.ggpht.com/CkcUCVZi63-0F7JLTvUxYlqVN85URN-bHcbMM-hZLnCkajrZCPMatnL5EZEliG0I9uxt9EQ1T5naIvmHwe_9
+freiburg: griffin,47.993335,7.857466,http://lh4.ggpht.com/rBBHdftVT8vWLNogkqq9nXOswWCpnsVCStsAfZUV3X-fqesAFtAuGJBEtk3Etqhk8xzYwLrzVhze8M_Fjv6zEbrzZ43emSEj8cmAfTkMKFSrM2-G
+Festung Freiburger Schlossberg,47.993681,7.8622,http://lh3.ggpht.com/-VzI-_vGkKsfMRPT1bZzdA5xtVoW851vdR0BHa5SRxlHqxbyKZ3B8R2le90wrZwlHVZqnYGfguzlptQ0OAHt
+Fort Knox,47.992006,7.856715,http://lh6.ggpht.com/RAAsH7w6QwBpY3Yy8xbvi3RpQplb3xb03gz9j-b27XGY7RV41kXzipRNIspK3N36OiQOHfasyuQI08W88D6lfw
+Freiburg: Schlossberg cross,47.994258,7.857976,http://lh3.ggpht.com/lMOda7mwLJ7lOfS5QUsPzre6EqrW4UolSge-8YHzB0VPZqKRaDgTXqKdt8z8HPgN6gXLNVI9ISJilYnZyL2XrJ5ss94ol44J__BIXusa9gVfDIum
+Steini Schlumpf,47.99465,7.859618,http://lh3.googleusercontent.com/-vQns2gU6uVvDTJ2GNpo8l8gYmRoIhA3BmOdSnUYKZLQjzJ_UMCDICxn638RkIxwtCROVMEJwKilw4WCY8g
+Engelstrasse,47.996473,7.852825,http://lh4.ggpht.com/SLpBTgr1BQfoqGgVWGRCkKLxyQ-BwAGDBUi-lIDLuTUthxXaAoWSdrVNzwwKy_1eZjPnYz1UhktBWP6H-D1E_UX8G1M6T_MAFkWYRC0pW81U5FI5
+Erkerkunst,47.995065,7.852724,http://lh4.ggpht.com/90tSXP_TDtMec21mZOztrW-2J92ji6BCMd8UlW_6I2l0jUXpiVSJ2UgoHNZWiEPkJl-ypEpVsTvma_enAtQ
+Obere-Linde Memorial,47.993689,7.854581,http://lh3.ggpht.com/LF_n7bspigk2LqUsMLcmGmfhP_Ib3s88HJmIZIVICEColvCVJQHkdPXRpAZIVmmj-ZvpBrDYaoPACyZ0MXRQ
+Karlsbau Springrunnen,47.997326,7.855327,http://lh4.ggpht.com/JL_yMSNx_e6Yz1mY14xli6V1MCplSMW_adWZZYSiWLIEmDsyacep2UJAhChltkrpU6Uf_e-1GmHl3QXu-N13Tg
+Alban Cat,47.993989,7.854612,http://lh5.ggpht.com/QfI9apq_DfaEOh3ljKYw-frvYCQvFdWaPsFVlJ6N4PHw34ywvSppUyVRi-HZmgz-S7WdfLpLhHghP2-Q0Md2
+Alban Stolz,47.995152,7.8543,http://lh4.ggpht.com/IpEkuKxwJXk2jgxwUlb1kraFJ-buszBfo5u4eKBBYz1g58WglVt_bRyOJlXRo6gXTpBmHHzBbvJqZ7WQ6cVESTXRijr_Bwu58zXQoBfzBIED848W
+Münster,47.995719,7.852921,http://lh3.googleusercontent.com/MVsBK9jI73MpCed0ymIYsyXUeMt567lzquSNUJtguvD03W4vTGTHClLLKBLnhGhM-afA-vAmVXsTIiFmwoY
+Ishibashi Ishiguro,47.997019,7.858699,http://lh5.ggpht.com/CXp8jrt-2MnO3d3s1z_hrKHzA3-RqRR5-mfyQreGmiCca62sB4QDnWohlTdhEcepfQB36g-h4u66773ol3ql
+Brunnen bei Nacht,47.996815,7.856622,http://lh5.ggpht.com/ZrmhQBvPNZ3SXd2b6pTVeYQbK4IWjn9ujej-XdAjzvZ-xD-jN1I-nJ6KZNuz1n22KA64oqL4BZlSz_3cwTnY
+Volleyball-Platz am Wald3eck,47.995729,7.786461,http://lh5.ggpht.com/KugZK6x4U5XbJVhk-7Xv7xC4SjtAS0WcooAhR5Jz4QusTNbbX8wmSdUDK89xsX6oB9EWGN2358R8vMkG6KDf
+Pizzeria DAL BLU,47.992689,7.788979,http://lh5.ggpht.com/ocwpYPi4Udob4uQ_mngiYE2RbFUWuGWRBu7VNp91StdShLiYB3dPR0AqiqNofl-QDq87fMp5O3XEZnjvDlW9d10VqWJyHF1-4wW0K4Ozy7LwmgK2
+Muschel,47.992749,7.791603,http://lh4.ggpht.com/515HLtqVvZwqaN67CqXbvJNgsDm2UhcVRUhJjTB6e_y77eqJG57aS0C6LTAOKWPLCBVWMyF6WgZyc_NzGM3h3A
+Playground - Dig & Swing,47.996562,7.790084,http://lh3.googleusercontent.com/jDPyqfl5jjjfPinQ0O90ObbtaB1-u7dyMHzlxl4hFgoHkE-MY-3OBP0Z_w2L-vSEoOyW0BrFBHwL11E--GI
+Zebra Art,47.996621,7.79425,http://lh4.ggpht.com/CSFLnCGgeZZESk-n-PFWmhPnvE9R-JDWY5O4EhuhwyIpVY1My1mz8IL53aZxYv-az--E6nDueIDOC_Q7j50Q
+Großes Rad,47.991711,7.793943,http://lh3.googleusercontent.com/1tuhY6AZfbx3NPsVRj0hZJ-oJbHtB8G7awQfyjFvik3W0xq0ngTxoaxUKW3-3yNiwacXMss_1dbQEU_yqtMv
+Erdrutsche,47.996812,7.793336,http://lh6.ggpht.com/NB7439fS4-GQq0E9r0pV_obX5YOlNMi7qaPxfdbRkl-F46FaWtbXmnHR7MbmQCqHtMs-G-vwHOBwhFOc9Wdxyg
+Biergarten,47.992984,7.788482,http://lh5.ggpht.com/tB2VMtSBzWWnV4wcFgJ6hn18Ma6vtO3Y-_QnneZTNra7Vm10Q6IxwqZK-4U9XLwl54xQtLU8S3LaEmMTd0X-KA
+Caritas,48.012319,7.805805,http://lh3.ggpht.com/5MJm2ntusv_IJ_LL9XK0F8ZPEgRYhzpcYzBtYKoD_5biAsdtNgA5ZWDus40OXKhfeGzqHXYT5G4aUuaHLQ
+Herzstück,48.011638,7.807035,http://lh4.ggpht.com/HDp3JgujnbvZLMD343bmNxbJyoFh5MDDJRak9UGKBMYW29LLCIQJB1seMfefRHSSTvZmwgH3gzP1-nSIe9c
+Eule,48.009201,7.803553,http://lh5.ggpht.com/P-6CqhtOg0nhBmo7kcsfA28jvapgkhRo9X6RegD3iSYXGXgcuBzzlj1cgS_mgBvk6Ds-4CHZq9dz6oXjEyg
+Mühlstein,48.008897,7.805712,http://lh6.ggpht.com/7fxyjFy74pDqX5jlItykzXNRMCGB5l1QC9g7yGm1N9YQWmxsKiDHFtx5UQzlyKnjhBShGTLRSw_xRcFf6tGT0A
+Pfffff!,48.01074,7.806564,http://lh4.ggpht.com/gaWvCDyUezvgNxFRZSbRzkbx_3mp4A1DLJMTW0x8vrhGnUrsu1uimhNdruRZPvJptu8Th5V29Erf44e4Pg0_Ig
+Die drei Schönen,47.974767,7.908968,http://lh6.ggpht.com/tt9llI7oeY0hZoSHSkvIEro_fJw_6iNnuyY7AuC-uUlVw8Ezm29If_53PrdJ_NchkfUKYt2fONkQul-h_KaF
+Cross with Benches,47.968141,7.909961,http://lh5.ggpht.com/nv6l73F6iBflwNQeh0f8DWIZX0eL8Aud-FOT-xye2DR2kCCdg_15JdX53zbyUOgtQq0RD54po_Qq4R9_efl8
+Waldgeist,47.97116,7.913204,http://lh5.ggpht.com/Bv4ydru1BFM2JLHn13Wr7EabuN-4TeOC77w_F_aDXlVCZpzL9fbdTsY_Owu524jFRdMg6DCy4nQfPMDWeVoU
+Pflug,47.993505,7.727412,http://lh3.ggpht.com/6EC2cegxK6rfzFIO9p_r8OR0GhKIe7RSDfhozZARAvMbWOVmJWwznsrLry5Zp0IZggoVHjM5YlN_wRRJIAnG
+Badenova Springbrunnen,48.028249,7.846025,http://lh3.googleusercontent.com/BoLg-xc4peHCJZgHx260rLEaJx081FKRGzNQBjeLVmL7iqLO4pUMOb-s9OdrC8Wtxm_q-U_nuthrGCq01wC5
+Bordello Kulturgut,48.030826,7.843153,http://lh4.ggpht.com/PYX2Qv6iyIA587penyJapUl5mVMuhLO-3qTIDuNhsFBGNxZrD-Etvs7uWl7GB4kXUlm02OhZ7H6g7pGVXyg
+NOLL TURM,48.031673,7.842588,http://lh6.ggpht.com/x5-UF4_67-56lrqjwWM8tCq4j_Sa5gYnySylHKl32QMRgmj6vyGCccuCG61LTyHCgREXpVANo0QRVGiCHR8
+Broken Concrete Sculpture,48.033745,7.851061,http://lh6.ggpht.com/1pA9Xylkzb73RpotyvS9Xb1DBGCQVwWsZyoOKxYE_b-ksPPqXd0Y0-D_Mxpgu_CSvYymQoWzRcI0CofdbzwZ
+Gehlert-Brunnen,48.029057,7.84395,http://lh4.ggpht.com/d3vNO4H1ZxQjiGldAdJgwRsnRuBxjqu6wb73FZXM2dvQ3gBz9a-ADqt9b6tyYwypvjUeyE97oeJog970ZsY
+Kreuz Dietenbachsee,48.000243,7.801922,http://lh4.ggpht.com/LJULvWH3m5n2gsd0FmUmcL8pfT_ILQM1pJ6KrEA_OFJVJq7TMpOHTfyS_lk9f0WsnqWQfZQL-hxXjTbGta-jtbO_UE2gl_G6IsQDqVR6ATw1KydUTw
+Steindrache,47.997615,7.79691,http://lh5.ggpht.com/R0AIVtzgzS1kmRTeiUHtAMx1frSRTcQYkaKURrA2qcSvWewAHZCGB-hGX5KAHjOqjYK9BpJ0dvZA4YpKzHQ
+Halfpipe Dietenbachpark,48.002522,7.804419,http://lh4.ggpht.com/9oXKfHI4aQ577byfMUbBrdcSYUk073sHfKa7FYrNejauGY_qoUqIREaIfE7pDZ4fRmlyA-guhT7COnjpF-Y
+Schlangenrutsche,48.001312,7.806456,http://lh3.googleusercontent.com/3DXAwNOIP_wm5Kko2bRtLNenIkKqSFVn2au64baws4SRghxfg_vrgI0ZV-UxXSsHqqBx_0pRZtwrr1_DBxg
+The Pipe,48.001751,7.80616,http://lh3.googleusercontent.com/0kyhuQe_5QfBCs7jyIoPvIvmzwLxnmOw9gmp6G8-B49_UWcsB8XBa4XAaaFW9ZIG6zg9C0jPAbSHi0hRbj8
+Riesenerdbeere,48.021758,7.839802,http://lh3.googleusercontent.com/Xog_4f_QhGc8oPCdt3RH2UcI29jk4STIXg4mjmsUXTaU0rB5ljedL_HwjBUARU0idzhQ6AR1jt0DlsUaQtsO
+Ooomnomnooomm!,48.004009,7.7927,http://lh3.googleusercontent.com/8J5LMnoyZmj0TF6EuJQyeKnXkK5VqS_7JiyRNZ22HtW4inRRLf0Gjqqt1BTnQMKxxSi0diBo8maiir6pSXZ7
+Baum des Jahres,48.001788,7.786607,http://lh3.googleusercontent.com/lFddIDwjNEAztViUv9I2UrUcT2QinuXuC7W2RyAwSnTKmPAH4QJiRRXn3ywrLFKKotuo6dSG22OryxR8yd8d
+Balkongesichter,47.997485,7.794634,http://lh3.ggpht.com/XgJBdjVXNYNncz7h4-UHwVvP9rL6Al7tHTmlAFrHNfSwL4Zq_y09M0xME5xEAabxDjqYFbltDWjWCGNCmWl-
+Kepler Basketball Planet,48.001304,7.793669,http://lh3.ggpht.com/fnFArqKC_jsmnnrQMBGZpcRoscb8kRoFhnhh4nVBYtX4lsetr3UTEm9ftqKCetC-3vQoUDjvEIFwHxO_LewK
+Großer Spielplatz 39b,47.998751,7.791172,http://lh3.googleusercontent.com/far7HD0ZAHbahejx9UK1aEqnV2j5BDPgKQrg3_k_j0ddXSdVKvsdOk2KXFbBt-Ay7DdHZBBRXSXFYyU2fx9z
+Stairway to Heaven,48.00145,7.791667,http://lh4.ggpht.com/T4E8SlzUfYzZlYNO4FXJk7pH9dw4bYUShmnXg28xNVvhjjmscCjSIGtJelT-mWtNkqTcO3Pu81qCOyMOSlMZfg
+Glashaus,47.999345,7.79216,http://lh3.googleusercontent.com/QaZf7sOpBE9S87Dr78GLmgDRLmouBTPSDLATbHKfWrHozPdsykG7VMl84R8JRqML9589ezh6qsbxl3INeOo
+Nestschaukel im Grünkeil,48.002254,7.792084,http://lh3.googleusercontent.com/G8Nj2W5OyPVQL_HagEKxmyS1-or3VThER_FUaiMkYQ4zqWVFdXY9MAkMgADgiIWhTFHDOv11nygNvGPZz1vV
+Little Stonehenge,47.999254,7.785243,http://lh3.googleusercontent.com/wGXP8MpTisJqNsfovMv_Rh1iKVR-p1z1Usm0gTaIVZ6MnhaP-6Rvo1uQkhsM5-Z01EjOV9T-tBsjXWrb11YP
+Stromverteiler,48.044366,7.87421,http://lh3.googleusercontent.com/k7Kl2fXqXBESInol2dT6ekmxNla1ijv7y3sBcUH6v9ubrMkXeQzQBTV4WVmnImR9pWWzihTwL-oLg1MBhY2CWQ
+Bahnhof Gundelfingen,48.043997,7.874269,http://lh5.ggpht.com/O2Ai1ZyJXLnQ_36JEEGBAomQd2h8CQpYIeq777skOqCEa4F88tqiT9v2Xi6egR_FctCIdBiPTjASzSpSNzG5
+Eingang Friedhof Gundelfingen,48.045775,7.867731,http://lh4.ggpht.com/Ts82U7jyi19l36daLepmwP9djiVJfZ3GpzfjfFpBDZho1m-0yeMGyMKJahhzNKUO_8JyPsjIdzF3Idj5cro
+Energy Tower Gundelfingen,48.046016,7.874431,http://lh4.ggpht.com/1YGpG1OBT6hIVvO0ArnfT1dwjwNLQqjvJUbmhk-5dgoZwXhViwlgNwiOOBX0yN1Gfe6WM0lqjuDdH4QgvUGqiA
+Stone Nut,48.045769,7.869358,http://lh6.ggpht.com/BbRDMf_JrTolfZsTyg4H26SC5AJVJ002kW_UvzSALzlnrgY4acvQwRFPWpoQdS1KzFeB90nlnyPFi6vPaQuK
+Stieleiche (Naturdenkmal),48.04447,7.863889,http://lh3.googleusercontent.com/EFLkQ9RamE5HM8V768JkTHzNNm3hLsw5Qd-3AwZSywxTRl2d1JP8GTV1GDPVAxsYGCLAqQU2OTAXORxxm9U
+Phyllobates terribilis,48.043901,7.877997,http://lh6.ggpht.com/N1ivh0qxqIGzaitNRQ9SYAb7Mbt0WCyZWWxcYkCMdhVRwm1BcF6-37fxPxwDLW-n1KBvrI8egvdnsck_PJrQ
+Insektenhotel,48.048474,7.877708,http://lh3.ggpht.com/9zI-6bgEITH1454xP6qetkOXVpHcKm1ufxwWnmekX0kK34-8w1vSKjhBTrzrdOeyEzcvNHpq08WyT35aMOU
+Stone Woman,48.048688,7.862545,http://lh6.ggpht.com/7MYCLft4UOddeYL6TL4t5pgzSuH1cekNM5AVkqDWfyzb3IVIfiJYJXUheq-NbsjerZgvf5l-jxf8Xjcv8bg4
+Kreuz,48.052971,7.782924,http://lh3.ggpht.com/J8QeylyBYQREI85lI2tVeDJRYzIwyX5JTUNdjP7FAKt0RhIYR4uoHeZ5F0vn_PJRbw8PnOAMpn3sYIN-1c1H
+Jesuskreuz,48.05408,7.928102,http://lh3.googleusercontent.com/WAqtlE0jlVKEsrkguzf4f9Cbs6dPhjtnUVuGoCOVT01FmL2xKGCSpnVB3pU8Y48MwxrCJIFD4DdZyeLhgGnhNQ
+Go-West-Ranch,48.052717,7.856603,http://lh3.googleusercontent.com/2mJVVvIp7X5Ezj6HN1pbz3XWSraJlxJn3IX4wo96jrrb0w_q7yTPz27Vy8rr9qAEJmeCX5VEv-zAFCXxk0A
