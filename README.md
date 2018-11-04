@@ -1,5 +1,5 @@
 # Pogo-map-package
-Combines PMSF, Map-A-Droid and pokealarm. 
+Combines PMSF, Map-A-Droid and pokealarm.
 We will explain how to setup everything step by step.
 
 1. Clone this repo
@@ -7,11 +7,12 @@ We will explain how to setup everything step by step.
 
 # 1 Requirenments
 - mysql + mariaDB
- 
-# 2 Get PMSF
-1. Clone PMSF `git clone https://github.com/whitewillem/PMSF` 
-2. `cd PMSF`
-3. Change to dev branch `git checkout dev`
+
+# 2 PMSF Docker container.
+1. `cd modules/map`
+2. create `congig.php`, which is the PMSF config you are going to use.
+3. create `access-config.php`, which is the PMSH access-config.
+4. create `config.json`, which is the config of the PMSF-auth-bot
 
 ## 2.1 Create a monocle based database
 Create a new mariaDB called `monocle` and a user with access just to it.
@@ -22,37 +23,33 @@ Create a new mariaDB called `monocle` and a user with access just to it.
 5. `FLUSH PRIVILEGES;`
 6. verify that you can login: `mysql -u newuser -p strong_password monocle`, then exit.
 7. The file `cleandb.sql` contains the commands to create the tables of the database,
-execute: 
+execute:
 - `mysql -u newuser monocle < cleandb.sql` to execute these commands.
-8. Create an event to update the fort sightings: 
+8. Create an event to update the fort sightings:
 
-``` 
-CREATE DEFINER=`*USER*`@`localhost` EVENT `update_fort_sightings` 
-ON SCHEDULE EVERY 1 HOUR STARTS '2018-08-17 00:00:00' 
+```
+CREATE EVENT `update_fort_sightings`
+ON SCHEDULE EVERY 1 HOUR STARTS '2018-08-17 00:00:00'
 ON COMPLETION NOT PRESERVE ENABLE
 DO INSERT IGNORE INTO monocle.fort_sightings (fort_id)
 SELECT id
-FROM monocle.forts; 
+FROM monocle.forts;
 
-SET GLOBAL event_scheduler="ON"; 
+SET GLOBAL event_scheduler="ON";
 ```
 
-8. execute `ALTER TABLE fort_sightings ADD guard_pokemon_form SMALLINT(6) NULL DEFAULT NULL AFTER guard_pokemon_id;
-ALTER TABLE gym_defenders ADD form SMALLINT(6) NULL DEFAULT NULL AFTER pokemon_id;`
-
-
-## 2.2 Fill the database 
+## 2.2 Fill the database
 1. `cd pogo-map-package/scripts`
 2. First of all, we need gyms and pokestops. You create 2 files:
 - `updateGyms.csv`
 - `updateStops.csv`
 
-both are of the form: 
+both are of the form:
 ```
 name,lat,lng,url
 ```
 
-e.g. 
+e.g.
 ```
 name,lat,lng,url
 "Frogs Can't Fly Painting",47.98043,7.822087,"http://lh3.ggpht.com/kYlLhALvirU89bni7zA50z6O_zDZuM6VUK0OsGfz2pGS75pB_Z4jh2jdgQXiKcEhdA30G6nr7KBPJz30Hez6_w"
@@ -79,7 +76,7 @@ name,lat,lng,url
 # Get Pokealarm
 1. clone:`git clone https://github.com/evilmoses/PokeAlarm.git` (We use this branch because it suppports quests)
 2. Configure it.
-3. In the PMSF config, set: 
+3. In the PMSF config, set:
 
 ```
 $sendWebhook = true;				// Sends Raids & Pokémon. Needs a 3th party program like pokealarm.
@@ -96,5 +93,3 @@ $webhookSystem = 'pokealarm';				// Supported either 'pokealarm' or 'poracle'
 # Get Map-A-Droid.
 1. clone `https://github.com/Grennith/Map-A-Droid`
 2. configure it.
-
-

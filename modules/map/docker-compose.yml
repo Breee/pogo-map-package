@@ -1,0 +1,9 @@
+version: '3'
+services:
+  map:
+    build:
+      context: .
+    env_file: envi.conf
+    ports:
+      - "80:80"
+    network_mode: "host"
