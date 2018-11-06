@@ -1,0 +1,148 @@
+{
+    "discord_alarm_fr": {
+                "active": true,
+                "type": "discord",
+                "webhook_url": "https://discordapp.com/api/webhooks/507937550384627753/ZvfSotnauRiC0iwOfK4cVh5-zc0xG5TbLQ6W8MQ5PmaYv5Dyf_JcB63m6PRCpleccM1s",
+                "startup_message": false,
+                "monsters": {
+                "webhook_url": "https://discordapp.com/api/webhooks/507939390509678592/EkQnOEV2unbj99xX0jWaTiqAepeafwuzkuwl6-7N_0JO3hcCW_jorCL9YEQQ_PCK561c", "username": "<mon_name>",
+                "title": "A <mon_name> has appeared!",
+                "body": "**Coordinates**\n<lat> <lng>\n",
+                "map":{
+                        "enabled":true,
+                        "width":"250",
+                        "height":"125",
+                        "maptype":"roadmap",
+                        "zoom":"14" }
+                },
+                "eggs": {
+                        "webhook_url": "https://discordapp.com/api/webhooks/507937550384627753/ZvfSotnauRiC0iwOfK4cVh5-zc0xG5TbLQ6W8MQ5PmaYv5Dyf_JcB63m6PRCpleccM1s",
+                        "username": "<gym_name>",
+                        "title": "<gym_name> - level <egg_lvl> Raid is incoming!",
+                        "body": "**Time** hatch at <24h_hatch_time>.",
+                        "map":{
+                                "enabled":false,
+                                "width":"250",
+                                "height":"125",
+                                "maptype":"roadmap",
+                                "zoom":"14" }
+                },
+                "raids": {
+                        "webhook_url": "https://discordapp.com/api/webhooks/507937550384627753/ZvfSotnauRiC0iwOfK4cVh5-zc0xG5TbLQ6W8MQ5PmaYv5Dyf_JcB63m6PRCpleccM1s",
+                        "username": "<gym_name>",
+                        "title": "<gym_name> - Level <raid_lvl> @<mon_name> Raid",
+                        "body": "**Time** available until <24h_raid_end>",
+                        "map":{
+                                "enabled":false,
+                                "width":"250",
+                                "height":"125",
+                                "maptype":"roadmap",
+                                "zoom":"14" }
+                },
+                "quest": {
+                        "webhook_url": "https://discordapp.com/api/webhooks/507938702346027019/u8Y7LosVC_viX8msqAGtZroyKIyQsHZOaEaUyRSMcKQLxl6kkfnX6hekg2-GL4P-jNCe",
+                        "username": "<reward>",
+                        "title": "<stop_name>:",
+                        "body": "<quest> for <reward>",
+                        "map":{
+                                "enabled":false,
+                                "width":"250",
+                                "height":"125",
+                                "maptype":"roadmap",
+                                "zoom":"14" }
+                }
+        },
+
+        "discord_alarm_fr_raids_1-4": {
+                    "active": true,
+                    "type": "discord",
+                    "webhook_url": "https://discordapp.com/api/webhooks/507939988969619467/FxQ3SbHVFrsOL3sF-QSUXO2bMIFtySP67c8YAcmhFsUMisS9qXu3RUdsLKFxOh-hBGc2",
+                    "startup_message": false,
+                    "raids": {
+                            "webhook_url": "https://discordapp.com/api/webhooks/507939988969619467/FxQ3SbHVFrsOL3sF-QSUXO2bMIFtySP67c8YAcmhFsUMisS9qXu3RUdsLKFxOh-hBGc2",
+                            "username": "<gym_name>",
+                            "title": "<gym_name> - Level <raid_lvl> @<mon_name> Raid",
+                            "body": "**Time** available until <24h_raid_end>",
+                            "map":{
+                                    "enabled":false,
+                                    "width":"250",
+                                    "height":"125",
+                                    "maptype":"roadmap",
+                                    "zoom":"14" }
+                    }
+       },
+
+       "discord_alarm_em": {
+              "active": true,
+              "type": "discord",
+              "webhook_url": "https://discordapp.com/api/webhooks/400464120454971392/JUjQl6jaB08wSI5Ag-jTa7RNtdROVrGDPG7ZgZMVUQrg_EIq5ZvovqO3E9ivU6zYjGPE",
+              "startup_message": false,
+              "monsters": {
+              "webhook_url": "https://discordapp.com/api/webhooks/400464120454971392/JUjQl6jaB08wSI5Ag-jTa7RNtdROVrGDPG7ZgZMVUQrg_EIq5ZvovqO3E9ivU6zYjGPE",
+              "title": "A <mon_name> has appeared!",
+              "body": "**Coordinates**\n<lat> <lng>\n",
+              "map":{
+                      "enabled":true,
+                      "width":"250",
+                      "height":"125",
+                      "maptype":"roadmap",
+                      "zoom":"14" }
+              },
+              "eggs": {
+                      "webhook_url": "https://discordapp.com/api/webhooks/507897810197413898/2LW2necamxWp2NhZche0WEASbkYlyIal1VFOxwF-OBS4tBKzTyj1P7bBokHV_TmATGFM",
+                      "username": "<gym_name>",
+                      "title": "<gym_name> - level <egg_lvl> Raid is incoming!",
+                      "body":"**Time** hatch at <24h_hatch_time>.",
+                      "map":{
+                              "enabled":false,
+                              "width":"250",
+                              "height":"125",
+                              "maptype":"roadmap",
+                              "zoom":"14" }
+              },
+              "raids": {
+                      "webhook_url": "https://discordapp.com/api/webhooks/507897810197413898/2LW2necamxWp2NhZche0WEASbkYlyIal1VFOxwF-OBS4tBKzTyj1P7bBokHV_TmATGFM",
+                      "username": "<gym_name>",
+                      "title": "<gym_name> - Level <raid_lvl> <mon_name> Raid",
+                      "body": "**Time** available until <24h_raid_end>",
+                      "map":{
+                              "enabled":false,
+                              "width":"250",
+                              "height":"125",
+                              "maptype":"roadmap",
+                              "zoom":"14" }
+              },
+              "quest": {
+                      "webhook_url": "https://discordapp.com/api/webhooks/507898192998825994/bOlCQHzGi63s6k_PUlqZjMDv75Dm8FggGzGmyS9cPASlsMNom_lg0_uFS99O3rQnZx0f",
+                      "username": "<reward>",
+                      "title": "<stop_name>:",
+                      "body": "<quest> for <reward>",
+                      "map":{
+                              "enabled":false,
+                              "width":"250",
+                              "height":"125",
+                              "maptype":"roadmap",
+                              "zoom":"14" }
+              }
+      },
+
+      "discord_alarm_em_raids_1-4": {
+                  "active": true,
+                  "type": "discord",
+                  "webhook_url": "https://discordapp.com/api/webhooks/507898398456938497/i0jPdNeUXOA1iZyqFX2qTsxw1e1XVFGiRG9RCBab6y94QvlrHzgBhrfmWpaGnBpoJe4v",
+                  "startup_message": false,
+                  "raids": {
+                          "webhook_url": "https://discordapp.com/api/webhooks/507898398456938497/i0jPdNeUXOA1iZyqFX2qTsxw1e1XVFGiRG9RCBab6y94QvlrHzgBhrfmWpaGnBpoJe4v",
+                          "username": "<gym_name>",
+                          "title": "<gym_name> - Level <raid_lvl> <mon_name> Raid",
+                          "body": "**Time** available until <24h_raid_end>",
+                          "map":{
+                                  "enabled":false,
+                                  "width":"250",
+                                  "height":"125",
+                                  "maptype":"roadmap",
+                                  "zoom":"14" }
+                  }
+     }
+  }
+

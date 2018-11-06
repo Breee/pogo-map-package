@@ -1,0 +1,79 @@
+{
+    "monsters":{
+        "enabled":true,
+        "defaults":{
+        },
+        "filters":{
+          "monsters_fr":{
+              "geofences":["freiburg"]
+          },
+          "monsters_em":{
+              "geofences":["emmendingen"]
+          }
+        }
+    },
+    "stops":{
+        "enabled":true,
+        "defaults":{
+        },
+        "filters":{
+            "filter_by_geofence":{
+            }
+        }
+    },
+    "eggs":{
+        "enabled":true,
+        "defaults":{
+        },
+        "filters":{
+            "lvl5_fr":{
+                "min_egg_lvl": 5,
+                "geofences":["freiburg"]
+            },
+            "lvl5_em":{
+                "min_egg_lvl": 5,
+                "geofences":["emmendingen"]
+            }
+        }
+    },
+    "raids":{
+        "enabled":true,
+        "defaults":{
+        },
+        "filters":{
+            "lvl5_fr":{
+                "min_raid_lvl": 5,
+                "geofences":["freiburg"]
+            },
+            "lvl1-4_fr":{
+                "min_raid_lvl": 0, "max_raid_lvl": 4,
+                "geofences":["freiburg"],
+                "monsters": [68,248,403,359,281,176,303,215]
+            },
+            "lvl5_em":{
+                "min_raid_lvl": 5,
+                "geofences":["emmendingen"]
+            },
+            "lvl1-4_em":{
+                "min_raid_lvl": 0, "max_raid_lvl": 4,
+                "geofences":["emmendingen"],
+                "monsters": [68,248,403,359,281,176,303,215]
+            }
+        }
+    },
+
+    "quest":{
+      "enabled":true,
+      "defaults":{
+      },
+      "filters":{
+          "quest_fr":{
+            "geofences":["freiburg"]
+          },
+          "quest_em":{
+            "geofences":["emmendingen"]
+          }
+      }
+    }
+}
+
