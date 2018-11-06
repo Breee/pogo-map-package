@@ -5,5 +5,5 @@ services:
       context: .
     env_file: envi.conf
     ports:
-      - "80:80"
-    network_mode: "host"
+      - "8585:80"
+
