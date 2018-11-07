@@ -6,13 +6,15 @@ We will explain how to setup everything step by step.
 2. `cd pogo-map-package`
 
 # 1 Requirenments
+- docker,  docker-compose (https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - mysql + mariaDB
 
 # 2 PMSF Docker container.
-1. `cd modules/map`
+1. goto `modules/map`
 2. create `congig.php`, which is the PMSF config you are going to use.
 3. create `access-config.php`, which is the PMSH access-config.
 4. create `config.json`, which is the config of the PMSF-auth-bot
+5. 
 
 ## 2.1 Create a monocle based database
 Create a new mariaDB called `monocle` and a user with access just to it.
