@@ -1,0 +1,7 @@
+version: '3'
+services:
+  map-a-droid:
+    build:
+      context: .
+    restart: always
+    network_mode: "host"
