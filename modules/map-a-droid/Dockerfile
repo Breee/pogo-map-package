@@ -15,6 +15,7 @@ WORKDIR /usr/src/app
 RUN apt-get update && apt-get install -y git
 # clone project + copy config/geofence
 RUN git clone https://github.com/Grennith/Map-A-Droid.git /usr/src/app/
+RUN git clone https://github.com/ZeChrales/PogoAssets.git
 COPY config.ini /usr/src/app/
 COPY *.txt* /usr/src/app/
 
@@ -34,6 +35,6 @@ RUN python downloadCoords.py
 # prepare to run walkers in parallel.
 RUN apt-get update && apt-get install -y supervisor
 RUN mkdir -p /var/log/supervisor
-COPY ./supervisord.conf /etc/supervisor/conf.d/
+COPY ./supervisord.conf /usr/src/app/
 
-CMD ["/usr/bin/supervisord"]
+ENTRYPOINT ["/usr/bin/supervisord", "-c", "/usr/src/app/supervisord.conf"]
