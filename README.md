@@ -6,13 +6,15 @@ We will explain how to setup everything step by step.
 2. `cd pogo-map-package`
 
 # 1 Requirenments
+- docker,  docker-compose (https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - mysql + mariaDB
 
 # 2 PMSF Docker container.
-1. `cd modules/map`
+1. goto `modules/map`
 2. create `congig.php`, which is the PMSF config you are going to use.
 3. create `access-config.php`, which is the PMSH access-config.
 4. create `config.json`, which is the config of the PMSF-auth-bot
+5. 
 
 ## 2.1 Create a monocle based database
 Create a new mariaDB called `monocle` and a user with access just to it.
@@ -73,9 +75,17 @@ name,lat,lng,url
 3. Execute `updateGyms_Monocle.sh` to insert the gyms from  `updateGyms.csv` into the database
 4. Execute `updateStops_Monocle.sh` to insert the stops from  `updateStops.csv` into the database
 
+# Map-A-Droid.
+1. configure the files in `modules/map-a-droid/`
+2. docker-compose build 
+3. docker-compose up -d 
+
+docker-compose will start  `startWalker.py -os`, `startWalker.py -oo`, `startWalker.py -wm`. 
+
 # Get Pokealarm
-1. clone:`git clone https://github.com/evilmoses/PokeAlarm.git` (We use this branch because it suppports quests)
-2. Configure it.
+1. Configure the files in modules/pokealarm
+2. docker-compose  build
+3. docker-compose up -d
 3. In the PMSF config, set:
 
 ```
@@ -89,7 +99,4 @@ $sendQuestWebhook = true;                      // Experimental use only
 $questWebhookUrl = ['POKEALARM_URL'];                        // Experimental use only
 $webhookSystem = 'pokealarm';				// Supported either 'pokealarm' or 'poracle'
 ```
-
-# Get Map-A-Droid.
-1. clone `https://github.com/Grennith/Map-A-Droid`
-2. configure it.
+4. In the Map-a-droid config also set webhook to true.
