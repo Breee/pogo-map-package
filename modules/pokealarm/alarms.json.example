@@ -1,0 +1,148 @@
+{
+    "discord_alarm_fr": {
+                "active": true,
+                "type": "discord",
+                "webhook_url": "URL",
+                "startup_message": false,
+                "monsters": {
+                "webhook_url": "URL", "username": "<mon_name>",
+                "title": "A <mon_name> has appeared!",
+                "body": "**Coordinates**\n<lat> <lng>\n",
+                "map":{
+                        "enabled":true,
+                        "width":"250",
+                        "height":"125",
+                        "maptype":"roadmap",
+                        "zoom":"14" }
+                },
+                "eggs": {
+                        "webhook_url": "URL",
+                        "username": "<gym_name>",
+                        "title": "<gym_name> - level <egg_lvl> Raid is incoming!",
+                        "body": "**Hatch at <24h_hatch_time>**",
+                        "map":{
+                                "enabled":false,
+                                "width":"250",
+                                "height":"125",
+                                "maptype":"roadmap",
+                                "zoom":"14" }
+                },
+                "raids": {
+                        "webhook_url": "URL",
+                        "username": "<gym_name>",
+                        "title": "<gym_name> - Level <raid_lvl> @<mon_name> Raid",
+                        "body": "**Available until <24h_raid_end>**",
+                        "map":{
+                                "enabled":false,
+                                "width":"250",
+                                "height":"125",
+                                "maptype":"roadmap",
+                                "zoom":"14" }
+                },
+                "quest": {
+                        "webhook_url": "URL",
+                        "username": "<reward>",
+                        "title": "<stop_name>:",
+                        "body": "<quest> for <reward>",
+                        "map":{
+                                "enabled":true,
+                                "width":"250",
+                                "height":"125",
+                                "maptype":"roadmap",
+                                "zoom":"14" }
+                }
+        },
+
+        "discord_alarm_fr_raids_1-4": {
+                    "active": true,
+                    "type": "discord",
+                    "webhook_url": "URL",
+                    "startup_message": false,
+                    "raids": {
+                            "webhook_url": "URL",
+                            "username": "<gym_name>",
+                            "title": "<gym_name> - Level <raid_lvl> @<mon_name> Raid",
+                            "body": "**Available until <24h_raid_end>**",
+                            "map":{
+                                    "enabled":false,
+                                    "width":"250",
+                                    "height":"125",
+                                    "maptype":"roadmap",
+                                    "zoom":"14" }
+                    }
+       },
+
+       "discord_alarm_em": {
+              "active": true,
+              "type": "discord",
+              "webhook_url": "URL",
+              "startup_message": false,
+              "monsters": {
+              "webhook_url": "URL",
+              "title": "A <mon_name> has appeared!",
+              "body": "**Coordinates**\n<lat> <lng>\n",
+              "map":{
+                      "enabled":true,
+                      "width":"250",
+                      "height":"125",
+                      "maptype":"roadmap",
+                      "zoom":"14" }
+              },
+              "eggs": {
+                      "webhook_url": "URL",
+                      "username": "<gym_name>",
+                      "title": "<gym_name> - level <egg_lvl> Raid is incoming!",
+                      "body":"**Hatch at <24h_hatch_time>.**",
+                      "map":{
+                              "enabled":false,
+                              "width":"250",
+                              "height":"125",
+                              "maptype":"roadmap",
+                              "zoom":"14" }
+              },
+              "raids": {
+                      "webhook_url": "URL",
+                      "username": "<gym_name>",
+                      "title": "<gym_name> - Level <raid_lvl> <mon_name> Raid",
+                      "body": "**Available until <24h_raid_end>**",
+                      "map":{
+                              "enabled":false,
+                              "width":"250",
+                              "height":"125",
+                              "maptype":"roadmap",
+                              "zoom":"14" }
+              },
+              "quest": {
+                      "webhook_url": "URL",
+                      "username": "<reward>",
+                      "title": "<stop_name>:",
+                      "body": "<quest> for <reward>",
+                      "map":{
+                              "enabled":false,
+                              "width":"250",
+                              "height":"125",
+                              "maptype":"roadmap",
+                              "zoom":"14" }
+              }
+      },
+
+      "discord_alarm_em_raids_1-4": {
+                  "active": true,
+                  "type": "discord",
+                  "webhook_url": "URL",
+                  "startup_message": false,
+                  "raids": {
+                          "webhook_url": "URL",
+                          "username": "<gym_name>",
+                          "title": "<gym_name> - Level <raid_lvl> <mon_name> Raid",
+                          "body": "**Available until <24h_raid_end>**",
+                          "map":{
+                                  "enabled":false,
+                                  "width":"250",
+                                  "height":"125",
+                                  "maptype":"roadmap",
+                                  "zoom":"14" }
+                  }
+     }
+  }
+
