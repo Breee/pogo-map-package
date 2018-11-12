@@ -42,21 +42,21 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noAddNewNests = true;                                         // true/false
         $noDeletePortal = true;                                        // true/false
 // Markers
-        $noGyms = false;                                               // true/false
-        $noPokestops = false;                                          // true/false  
-        $noNests = false;                                              // true/false
+        $noGyms = true;                                               // true/false
+        $noPokestops = true;                                          // true/false  
+        $noNests = true;                                              // true/false
         $noPortals = true;                                             // true/false
-        $noCommunity = false;                                          // true/false
-        $noRaids = false;                                              // true/false
-        $noAreas = false;                                              // true/false
+        $noCommunity = true;                                          // true/false
+        $noRaids = true;                                              // true/false
+        $noAreas = true;                                              // true/false
 // Functionality
-        $noManualPokemon = false;                                      // true/false
-	    $noManualQuests = false;                                       // true/false
-        $noManualRaids = false;                                        // true/false
+        $noManualPokemon = true;                                      // true/false
+	$noManualQuests = true;                                       // true/false
+        $noManualRaids = true;                                        // true/false
         $copyrightSafe = true;                                         // true/false
-        $noStartLast = false;                                          // true/false
-        $noMapStyle = false;                                           // true/false
-        $noSearchPortals = false;                                      // true/false
+        $noStartLast = true;                                          // true/false
+        $noMapStyle = true;                                           // true/false
+        $noSearchPortals = true;                                      // true/false
 // Message of the Day
         $noMotd = true;                                                // true/false
         $motdTitle = "Message of the Day";
@@ -76,9 +76,9 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noDeletePortal = true;                                        // true/false
 // Markers
         $noGyms = false;                                               // true/false
-	    $noPokestops = false;                                          // true/false
+	$noPokestops = false;                                          // true/false
         $noNests = false;                                              // true/false
-        $noPortals = true;                                             // true/false
+        $noPortals = false;                                             // true/false
         $noCommunity = false;                                          // true/false
         $noRaids = false;                                              // true/false
         $noAreas = false;                                              // true/false
@@ -90,6 +90,7 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noStartLast = false;                                          // true/false
         $noMapStyle = false;                                           // true/false
         $noSearchPortals = false;                                      // true/false
+        $noS2Cells = false;
 // Message of the Day
         $noMotd = true;                                                // true/false
         $motdTitle = "Message of the Day";
@@ -99,20 +100,20 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noManualGyms = false;                                         // true/false
         $noManualPokestops = false;                                    // true/false
         $noRenamePokestops = false;                                    // true/false
-        $noConvertPokestops = true;                                    // true/false
-        $noDeleteGyms = true;                                          // true/false
-        $noDeletePokestops = true;                                     // true/false
+        $noConvertPokestops = false;                                    // true/false
+        $noDeleteGyms = false;                                          // true/false
+        $noDeletePokestops = false;                                     // true/false
         $noAddNewCommunity = true;                                     // true/false
         $noDeleteCommunity = true;                                     // true/false
-        $noEditCommunity = true;                                       // true/false
-        $noAddNewNests = true;                                         // true/false
-        $noDeletePortal = true;                                        // true/false
+        $noEditCommunity = false;                                       // true/false
+        $noAddNewNests = false;                                         // true/false
+        $noDeletePortal = false;                                        // true/false
 // Markers
         $noGyms = false;                                               // true/false
         $noPokestops = false;                                          // true/false  
         $noNests = false;                                              // true/false
         $noPortals = false;                                            // true/false
-        $noCommunity = true;                                           // true/false
+        $noCommunity = false;                                           // true/false
         $noRaids = false;                                              // true/false
         $noAreas = false;                                              // true/false
 // Functionality
@@ -123,6 +124,7 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noStartLast = false;                                          // true/false
         $noMapStyle = false;                                           // true/false
         $noSearchPortals = false;                                      // true/false
+        $noS2Cells = false;
 // Message of the Day
         $noMotd = true;                                                // true/false
         $motdTitle = "Message of the Day";
@@ -156,6 +158,7 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noManualRaids = false;                                        // true/false
         $noAddNewNests = false;                                        // true/false
         $noSearchPortals = false;                                      // true/false
+        $noS2Cells = false;
 // Message of the Day
         $noMotd = true;                                                // true/false
         $motdTitle = "Message of the Day";
@@ -173,6 +176,11 @@ if ($noNativeLogin === true && $noDiscordLogin === true ||  (($noNativeLogin ===
         $noDeleteCommunity = false;                                    // true/false
         $noEditCommunity = false;                                      // true/false
         $noDeletePortal = false;                                       // true/false
+        $noConvertPortal = false;
+        $noDeletePortal = false;
+        $noConvertPortal = false;
+        $noS2Cells = false;
+
 // Markers
         $noGyms = false;                                               // true/false
         $noPokestops = false;                                          // true/false  

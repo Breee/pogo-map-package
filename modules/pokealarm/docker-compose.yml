@@ -4,5 +4,6 @@ services:
     build:
       context: .
     ports:
-      - "4001:4000"
+      - "127.0.0.1:4000:4000"
+    restart: always
 
