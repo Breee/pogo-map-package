@@ -28,13 +28,11 @@ RUN apt-get update
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Download gym images from DB and coords.
-RUN python downloadGymImages.py
-RUN python downloadCoords.py
-
 # prepare to run walkers in parallel.
 RUN apt-get update && apt-get install -y supervisor
 RUN mkdir -p /var/log/supervisor
-COPY ./supervisord.conf /usr/src/app/
+COPY ./supervisord.conf /
+COPY ./entrypoint.sh /
 
-ENTRYPOINT ["/usr/bin/supervisord", "-c", "/usr/src/app/supervisord.conf"]
+ENTRYPOINT ["/entrypoint.sh"]
+
