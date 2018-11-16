@@ -16,8 +16,6 @@ RUN apt-get update && apt-get install -y git
 # clone project + copy config/geofence
 RUN git clone https://github.com/Grennith/Map-A-Droid.git /usr/src/app/
 RUN git clone https://github.com/ZeChrales/PogoAssets.git
-COPY config.ini /usr/src/app/
-COPY *.txt* /usr/src/app/
 
 # Install required system packages
 RUN apt-get update && apt-get install -y --no-install-recommends libgeos-dev build-essential
@@ -31,8 +29,20 @@ RUN pip install --no-cache-dir -r requirements.txt
 # prepare to run walkers in parallel.
 RUN apt-get update && apt-get install -y supervisor
 RUN mkdir -p /var/log/supervisor
+
+# Add cron
+RUN apt-get install -y cron
+
+ADD crontab /etc/cron.d/mycron
+RUN chmod 644 /etc/cron.d/mycron
+
 COPY ./supervisord.conf /
 COPY ./entrypoint.sh /
+
+COPY config.ini /usr/src/app/
+COPY *.txt* /usr/src/app/
+
+RUN touch /var/run/supervisor.sock && chmod 777 /var/run/supervisor.sock
 
 ENTRYPOINT ["/entrypoint.sh"]
 
