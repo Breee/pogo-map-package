@@ -1,0 +1,18 @@
+{
+    "token":"insertBotToken",
+    
+    "host":"localhost",
+    "username":"user",
+    "password":"password",
+    "database": "monocle",
+
+    "guilds": {
+        "guildID": {
+            "roleID":1,
+            "roleID2":2
+        },
+        "guildID2": {
+            "roleID": 3
+        }
+    }
+}
