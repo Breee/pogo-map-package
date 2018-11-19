@@ -5,3 +5,4 @@ modules/pokealarm/config.ini
 modules/map-a-droid/config.ini
 modules/map-a-droid/geofence.txt
 alarms.json
+config.json
