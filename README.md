@@ -1,3 +1,4 @@
+# OUTDATED (3.12.18)  we update soon to a full dockerized version
 # Pogo-map-package
 Combines PMSF, Map-A-Droid and pokealarm.
 We will explain how to setup everything step by step.
