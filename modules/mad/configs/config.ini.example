@@ -5,19 +5,6 @@
 # A different config-files can be included directly in processes by "--config-file" or "-cf" and path
 # Value without # are needed for this script
 
-# Screen Capture Mode
-######################
-
-#screen_method               # Screen method to be used. 0 = RGC only, 1 = VNC only (Default: 0)
-
-# VNC Settings
-######################
-
-#vnc_ip:                     # IP address or hostname of the VNC server (needed for scanning mode)
-#vncscreen:                  # Number of screen (Default: None)
-#vnc_port:                   # Port of the VNC server  (needed for scanning mode)
-#vnc_password:               # VNC password  (needed for scanning mode)
-
 # MySql Settings
 ######################
 
@@ -30,33 +17,23 @@
 #dbname:                     # Name of the database (needed for ocr mode)
 #dbport:                     # Port of the database (Default: 3306)
 
-# Telnet Settings
+# Websocket Settings (RGC receiver)
 ######################
 
-#tel_ip:                     # IP address or hostname of the telnet server  (needed for scanning mode)
-#tel_port:                   # Port of the telnet server  (needed for scanning mode)
-#tel_password:               # Telnet password  (needed for scanning mode)
+#ws_ip:                     # IP for websockt to listen on (for RGC). Default: 0.0.0.0'
+#ws_port:                   # Port of the websocket to listen on. Default: 8080
+#websocket_command_timeout:         # The max time to wait for a command to return (in seconds). Default: 30 seconds.
 
-# Coords CSV
+# MITM Receiver (Pogodroid data)
 ######################
 
-#file:                       # Path to csv file with lat;lng for gyms to scan  (needed for scanning mode)
+#mitmreceiver_ip:           # IP to listen on for proto data (MITM data). Default: 0.0.0.0 (every interface).
+#mitmreceiver_port:         # Port to listen on for proto data (MITM data). Default: 8000.
 
 # Walk Settings
 ######################
 
-#speed:                      # running speed in km/h (Default: 50)
-#max_distance:               # Max. walking distance - otherwise teleport
-
-#gym_distance:               # Distance to sum up gyms within this range (meters). (Default: 490.0)
-#max_count_gym_sum_up_around_gym:               # maximum amount of gyms around a given gym to be summed up. (Default: 5)
-#post_teleport_delay:        # Delay in seconds after a teleport. (Default: 4.0. Do mind the ".0". 500ms = 0.5s)
-#post_walk_delay:            # Delay in seconds after reaching destination with the speed given. (Default: 2.0)
-#post_screenshot_delay:      # Delay in seconds after a screenshot has been taken and about to be saved.( Default: 0.2)
-#restart_pogo:               # Restart Pogo every N location-changes. (Default: 80. 0 for never)
 #initial_restart:            # Initial Pogo restart when scanner starts. (Default: true)
-#post_turn_screen_on_delay:  # Delay in seconds after sending the turn screen on command. (Default: 7.0)
-#post_pogo_start_delay:      # Delay in seconds to wait after starting pogo. (Default: 60.0)
 #delay_after_hatch:          # Delay in minutes to wait before moving to the location of a hatched egg. Raidbosses do not necessarily appear immediately. (Default: 3.5)
 
 # Runtype settings
@@ -65,13 +42,14 @@
 #only_scan                   # running this instance in scanning mode without OCR tracing
 #only_ocr                    # running this instance in ocr mode without Scanning
 #ocr_multitask               # running OCR as multiprocessing task
+#ocr_thread_count:           # amount of processes/threads to run analysis with
 
 # path settings
 ######################
 
 pogoasset:                   # Path to Pogo Assets: See: https://github.com/ZeChrales/PogoAssets/ (git clone)
 #temp_path:                  # Path for generated files while detecting raids (Default: temp/)
-#raidscreen_path:            # Path for taken screenshots (Default: screenshots/)
+#raidscreen_path:            # Path for taken screenshots (Default: ocr/screenshots/)
 #unknown_path:               # Path for not automaticly detected gyms or mons (Default: unknown/)
 #successsave_path:           # Path for successful submitted crops (Default: success/)
 
@@ -86,13 +64,14 @@ pogoasset:                   # Path to Pogo Assets: See: https://github.com/ZeCh
 #gym_scan_distance:          # Distance of scanned Gyms (Default: 6) - reduce if you scan an area with many gyms at one place
 #weather                     # Detect weather from captured Image and post to database - if your frontend support this!
 #route_file:                 # Filename for Route Cache without extension (Default: route)
-#position_file:              # Filename for the bot's current position (Default: current)
 #home_lat:                   # Center Lat of your scan location (Default: 0.0)
 #home_lng:                   # Center Lng of your scan location (Default: 0.0)
 
 # MADmin
 ######################
+#with_madmin                 # Start Madmin
 #madmin_sort:                # MADmin sort column Raid/Gym (5= Modify / 6 = Create) (Default: 6)
+#madmin_ip:                  # MADmin listening interface (Default: 0.0.0.0)
 #madmin_port:                # MADmin web port (Default: 5000)
 #madmin_time:                # MADmin clock format (12/24) (Default: 24)
 #madmin_noresponsive         # MADmin deactivate responsive tables
@@ -109,22 +88,16 @@ pogoasset:                   # Path to Pogo Assets: See: https://github.com/ZeCh
 #sleeptimer                  # Sleep time for the phone
 #sleepinterval:              # f.e. [21:00, 05:00] to disable pk and device from 21 to 5 o'clock (9 pm to 5 am)
 
-# params for downloadDBCords.py (generate coordfile from param file)
-######################
-
-#geofence-file:              # Geofence file to define outer borders of the scan area.
-#geofence-excluded-file:     # File to define forbidden areas inside scan area. Regarded this as inverted geofence. Can be combined with geofence-file.
-#latlngleft:                 # download gym cords from this param f.e. [47.1, 47.2]
-#latlngright:                # download gym cords to this param  f.e. [9.1, 9.5]
-
 # webhook
 ######################
 
-#webhook                     # active support for webhook
-#webhook_url:                # URL endpoint for your webhook - beginning with http://
-#weather_webhook             # active support for weather webhook
+#webhook                     # Activate support for webhook
+#webhook_url:                # URL endpoint/s for webhooks (seperated by commas) - urls have to start with http*
+#weather_webhook             # Activate support for weather webhook
+#pokemon_webhook             # Activate support for pokemon webhook
+#gym_webhook                 # Activate support for gym webhook (NOT required for raids!)
 
 # Auto Hatch
 ######################
-#auto_hatch                  # Active auto hatch of level 5 eggs
+#auto_hatch                  # Activate auto hatch of level 5 eggs
 #auto_hatch_number           # Auto hatch of level 5 Pokemon ID

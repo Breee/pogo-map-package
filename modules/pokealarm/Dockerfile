@@ -25,6 +25,3 @@ RUN apt-get update && apt-get install -y --no-install-recommends libgeos-dev
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy everything to the working directory (Python files, templates, config) in one go.
-#COPY . /usr/src/app/
-

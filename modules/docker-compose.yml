@@ -1,66 +1,93 @@
 version: '2.4'
 services:
-  map:
-    build:
-      context: ./map/
-    env_file: ./map/envi.conf
-    ports:
-      - "8585:80"
-    links:
-      - pokealarm
 
-  mad_walker:
-    build:
-      context: ./Map-A-Droid/
-    command: "startWalker.py -os"
+# MAD
+  mad_db:
+    image: mysql:5
+    environment:
+      MYSQL_DATABASE: mad_db
+      MYSQL_USERNAME: mad_db_user
+      MYSQL_PASSWORD: strongestpw
+      MYSQL_ROOT_PASSWORD: evenstrongerpw
     volumes:
-      - ./Map-A-Droid:/usr/src/app/
+      - ./volumes/map-mysql:/var/lib/mysql
+    restart: always
+    networks:
+      - default
+
+  mad:
+    build:
+      context: ./modules/mad
+    container_name: mad
+    volumes:
       - "/etc/timezone:/etc/timezone:ro"
       - "/etc/localtime:/etc/localtime:ro"
-    restart: always
+      - ./modules/mad/configs/:/usr/src/app/configs/
+      - ./modules/mad/portalexport/portals.csv:/usr/src/app/scripts/portals.csv
     cpus: 2.0
-    network_mode: "host"
-
-  mad_screenshot:
-    build:
-      context: ./Map-A-Droid/
-    command: "startWalker.py -oo"
-    volumes:
-       - ./Map-A-Droid:/usr/src/app/
-       - "/etc/timezone:/etc/timezone:ro"
-       - "/etc/localtime:/etc/localtime:ro"
-    restart: always
-    cpus: 2.0
-    links:
-      - pokealarm
-
-  mad_admin:
-    build:
-      context: ./Map-A-Droid/
-    volumes:
-       - ./Map-A-Droid:/usr/src/app/
-       - "/etc/timezone:/etc/timezone:ro"
-       - "/etc/localtime:/etc/localtime:ro"
     restart: always
     ports:
-      - "127.0.0.1:5000:5000"
+      - 5555:8080
+      - 5554:8000
+    depends_on:
+      - mad_db
+    networks:
+      - default
 
 
+  # MAP
+  map:
+    build:
+      context: ./modules/map
+    env_file: ./modules/map/envi.conf
+    container_name: map_pogo-frde
+    volumes:
+      - ./modules/map/access-config.php:/var/www/html/config/access-config.php
+      - ./modules/map/config.php:/var/www/html/config/config.php
+    depends_on:
+      - mad_db
+      - map_db
+    restart: always
+    ports:
+      - "9000:80"
+    networks:
+      - default
+
+  map_db:
+    image: mysql:5
+    environment:
+      MYSQL_DATABASE: map_db
+      MYSQL_USERNAME: map_db_user
+      MYSQL_PASSWORD: strongestpw
+      MYSQL_ROOT_PASSWORD: evenstrongerpw
+    volumes:
+      - ./volumes/pmsf-mysql:/var/lib/mysql
+    restart: always
+    networks:
+      - default
+
+  authbot:
+    build:
+      context: ./modules/auth-bot
+    restart: always
+
+  #POKEALARM
   pokealarm:
     build:
-      context: ./pokealarm/
+      context: ./volumes/pogo-map-package/modules/pokealarm
     restart: always
+    networks:
+      - default
+
+  pma:
+    image:  phpmyadmin/phpmyadmin
+    environment:
+      - PMA_ABSOLUTE_URI=https://localhost
+      - PMA_HOST=mad_db
+      - PMA_PORT=3306
+    restart: always
+    networks:
+      - default
     ports:
-      - "127.0.0.1:4000:4000"
-
-
-
-
-
-
-
-
-
-  
-
+      - "8888:80"
 
