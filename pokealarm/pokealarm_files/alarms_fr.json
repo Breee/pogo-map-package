@@ -1,0 +1,212 @@
+{
+  "freiburg_lvl5": {
+    "active": true,
+    "type": "discord",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": false,
+    "eggs": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<gym_name>",
+      "title": "<gym_name> - level <egg_lvl> Raid is incoming!",
+      "body": "**Hatch <24h_hatch_time>**",
+      "map": {
+        "enabled": false,
+        "width": "250",
+        "height": "125",
+        "maptype": "roadmap",
+        "zoom": "14"
+      }
+    },
+    "raids": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<gym_name>",
+      "title": "<gym_name> - Level <raid_lvl> @<mon_name> Raid",
+      "body": "**bis <24h_raid_end>**\n<quick_type_emoji><quick_move> / <charge_type_emoji><charge_move>",
+      "map": {
+        "enabled": false,
+        "width": "250",
+        "height": "125",
+        "maptype": "roadmap",
+        "zoom": "14"
+      }
+    }
+  },
+	"freiburg_mons": {
+    "active": true,
+    "type": "discord",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": false,
+    "monsters": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<mon_name>",
+      "title": "<mon_name>, <atk>|<def>|<sta>, wp <cp>, lvl <mon_lvl>",
+      "body": "**lvl:** <mon_lvl>\n**cp:** <cp>\n**iv:** <iv>%\n<atk>|<def>|<sta>\n**time left:** <time_left> (<24h_time>)\n**gender:**<gender>",
+      "map": {
+        "enabled": true,
+        "width": "250",
+        "height": "125",
+        "maptype": "roadmap",
+        "zoom": "14"
+      }
+    }
+  },
+  "freiburg_exgyms": {
+    "active": true,
+    "type": "discord",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": false,
+    "raids": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<gym_name>",
+      "title": "<gym_name> - Level <raid_lvl> @<mon_name> Raid",
+      "body": "**bis <24h_raid_end>**\n<quick_type_emoji><quick_move> / <charge_type_emoji><charge_move>",
+      "map": {
+        "enabled": false,
+        "width": "250",
+        "height": "125",
+        "maptype": "roadmap",
+        "zoom": "14"
+      }
+    },
+    "eggs": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<gym_name>",
+      "title": "<gym_name> - level <egg_lvl> Raid is incoming!",
+      "body": "**Hatch <24h_hatch_time>**",
+      "map": {
+        "enabled": false,
+        "width": "250",
+        "height": "125",
+        "maptype": "roadmap",
+        "zoom": "14"
+      }
+    }
+  },
+  "freiburg_1-4": {
+    "active": true,
+    "type": "discord",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": "False",
+    "raids": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<gym_name>",
+      "title": "<gym_name> - Level <raid_lvl> <mon_name> raid",
+      "url": "<gmaps>",
+      "body": "<mon_name> bis <24h_raid_end>\n<quick_type_emoji><quick_move> / <charge_type_emoji><charge_move>",
+      "map": {
+        "enabled": "False"
+      }
+    }
+  },
+  "freiburg_sichlor": {
+    "active": true,
+    "type": "discord",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": "False",
+    "raids": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<gym_name>",
+      "title": "<gym_name> - Level <raid_lvl> <mon_name> raid",
+      "url": "<gmaps>",
+      "body": "<mon_name> bis <24h_raid_end>\n<quick_type_emoji><quick_move> / <charge_type_emoji><charge_move>",
+      "map": {
+        "enabled": "False"
+      }
+    }
+  },
+   "freiburg_mons_topiv": {
+    "active": true,
+    "type": "discord",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": false,
+    "monsters": {
+      "webhook_url": "YOUR_WEBHOOK_URL",
+      "username": "<mon_name>",
+      "title": "high-iv: <mon_name>, <atk>|<def>|<sta>, wp <cp>, lvl <mon_lvl>",
+      "body": "**lvl:** <mon_lvl>\n**cp:** <cp>\n**iv:** <iv>%\n<atk>|<def>|<sta>\n**time left:** <time_left> (<24h_time>)\n**gender:**<gender>",
+      "map": {
+        "enabled": true,
+        "width": "250",
+        "height": "125",
+        "maptype": "roadmap",
+        "zoom": "14"
+      }
+    }
+  },
+	"freiburg_mons_100": {
+	 "active": true,
+	 "type": "discord",
+	 "webhook_url": "YOUR_WEBHOOK_URL",
+	 "startup_message": false,
+	 "monsters": {
+		 "webhook_url": "YOUR_WEBHOOK_URL",
+		 "username": "<mon_name>",
+		 "title": "100%: <mon_name>, <atk>|<def>|<sta>, wp <cp>, lvl <mon_lvl>",
+		 "body": "**lvl:** <mon_lvl>\n**cp:** <cp>\n**iv:** <iv>%\n<atk>|<def>|<sta>\n**time left:** <time_left> (<24h_time>)\n**gender:**<gender>",
+		 "map": {
+			 "enabled": true,
+			 "width": "250",
+			 "height": "125",
+			 "maptype": "roadmap",
+			 "zoom": "14"
+		 }
+	 }
+ },
+  "freiburg_rares": {
+   "active": true,
+   "type": "discord",
+   "webhook_url": "YOUR_WEBHOOK_URL",
+   "startup_message": false,
+   "monsters": {
+     "webhook_url": "YOUR_WEBHOOK_URL",
+     "username": "<mon_name>",
+     "title": "rare: <mon_name>, <atk>|<def>|<sta>, wp <cp>, lvl <mon_lvl>",
+     "body": "**lvl:** <mon_lvl>\n**cp:** <cp>\n**iv:** <iv>%\n<atk>|<def>|<sta>\n**time left:** <time_left> (<24h_time>)\n**gender:**<gender>",
+     "map": {
+       "enabled": true,
+       "width": "250",
+       "height": "125",
+       "maptype": "roadmap",
+       "zoom": "14"
+     }
+   }
+ },
+ "freiburg_legendary": {
+   "active": true,
+   "type": "discord",
+   "webhook_url": "YOUR_WEBHOOK_URL",
+   "startup_message": false,
+   "monsters": {
+     "webhook_url": "YOUR_WEBHOOK_URL",
+     "username": "<mon_name>",
+     "title": "rare: <mon_name>, <atk>|<def>|<sta>, wp <cp>, lvl <mon_lvl>",
+     "body": "**lvl:** <mon_lvl>\n**cp:** <cp>\n**iv:** <iv>%\n<atk>|<def>|<sta>\n**time left:** <time_left> (<24h_time>)\n**gender:**<gender>",
+     "map": {
+       "enabled": true,
+       "width": "250",
+       "height": "125",
+       "maptype": "roadmap",
+       "zoom": "14"
+     }
+   }
+ },
+  "freiburg_pvp": {
+   "active": true,
+   "type": "discord",
+   "webhook_url": "YOUR_WEBHOOK_URL",
+   "startup_message": false,
+   "monsters": {
+     "webhook_url": "YOUR_WEBHOOK_URL",
+     "username": "<mon_name>",
+     "title": "pvp: <mon_name>, <atk>|<def>|<sta>, wp <cp>, lvl <mon_lvl>",
+     "body": "**lvl:** <mon_lvl>\n**cp:** <cp>\n**iv:** <iv>%\n<atk>|<def>|<sta>\n**time left:** <time_left> (<24h_time>)",
+     "map": {
+       "enabled": true,
+       "width": "250",
+       "height": "125",
+       "maptype": "roadmap",
+       "zoom": "14"
+     }
+   }
+ }
+}

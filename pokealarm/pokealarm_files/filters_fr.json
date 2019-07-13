@@ -1,0 +1,4320 @@
+{
+  "monsters": {
+    "enabled": true,
+    "defaults": {},
+    "filters": {
+      "freiburg_mons": {
+        "geofences": [
+          "freiburg"
+        ],
+        "min_iv": 0,
+        "max_iv": 100,
+        "is_missing_info": false
+      },
+      "freiburg_mons_topiv": {
+        "geofences": [
+          "freiburg"
+        ],
+        "min_iv": 95,
+        "max_iv": 100,
+        "is_missing_info": false
+      },
+			"freiburg_mons_100": {
+        "geofences": [
+          "freiburg"
+        ],
+        "min_iv": 100,
+        "max_iv": 100,
+        "is_missing_info": false
+      },
+      "freiburg_rares": {
+        "geofences": [
+          "freiburg"
+        ],
+        "monsters": [
+          131,
+          201,
+          358,
+          403,
+          404,
+          405,
+          408,
+         409,
+         410,
+         411,
+          443,
+          444,
+          445,
+          447,
+          448,
+          480,
+          481,
+          482
+        ],
+        "min_iv": 0,
+        "max_iv": 100,
+        "is_missing_info": false
+      },
+     "freiburg_legendary":{
+       "geofences": [
+          "freiburg"
+        ],
+        "monsters": [
+         480,481,482
+        ]
+      },
+      "pvp_Bulbasaur": {
+        "monsters": [
+          "Bulbasaur"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 11,
+        "max_sta": 11,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Ivysaur": {
+        "monsters": [
+          "Ivysaur"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 11,
+        "max_sta": 11,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Charmander": {
+        "monsters": [
+          "Charmander"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Charmeleon": {
+        "monsters": [
+          "Charmeleon"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Squirtle": {
+        "monsters": [
+          "Squirtle"
+        ],
+        "min_atk": 1,
+        "max_atk": 1,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 23,
+        "is_missing_info": false
+      },
+      "pvp_Wartortle": {
+        "monsters": [
+          "Wartortle"
+        ],
+        "min_atk": 1,
+        "max_atk": 1,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 23,
+        "is_missing_info": false
+      },
+      "pvp_Paras": {
+        "monsters": [
+          "Paras"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 32,
+        "is_missing_info": false
+      },
+      "pvp_Parasect": {
+        "monsters": [
+          "Parasect"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 32,
+        "is_missing_info": false
+      },
+      "pvp_Onix": {
+        "monsters": [
+          "Onix"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 24,
+        "is_missing_info": false
+      },
+      "pvp_Horsea": {
+        "monsters": [
+          "Horsea"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Seadra": {
+        "monsters": [
+          "Seadra"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Eevee": {
+        "monsters": [
+          "Eevee"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 27,
+        "is_missing_info": false
+      },
+      "pvp_Chikorita": {
+        "monsters": [
+          "Chikorita"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 10,
+        "max_def": 10,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 24,
+        "is_missing_info": false
+      },
+      "pvp_Bayleef": {
+        "monsters": [
+          "Bayleef"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 10,
+        "max_def": 10,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 24,
+        "is_missing_info": false
+      },
+      "pvp_Cyndaquil": {
+        "monsters": [
+          "Cyndaquil"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Quilava": {
+        "monsters": [
+          "Quilava"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Totodile": {
+        "monsters": [
+          "Totodile"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 11,
+        "max_def": 11,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 20,
+        "is_missing_info": false
+      },
+      "pvp_Croconaw": {
+        "monsters": [
+          "Croconaw"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 11,
+        "max_def": 11,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 20,
+        "is_missing_info": false
+      },
+      "pvp_Chinchou": {
+        "monsters": [
+          "Chinchou"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 28,
+        "is_missing_info": false
+      },
+      "pvp_Lanturn": {
+        "monsters": [
+          "Lanturn"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 28,
+        "is_missing_info": false
+      },
+      "pvp_Marill": {
+        "monsters": [
+          "Marill"
+        ],
+        "min_atk": 8,
+        "max_atk": 8,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 40,
+        "is_missing_info": false
+      },
+      "pvp_Azumarill": {
+        "monsters": [
+          "Azumarill"
+        ],
+        "min_atk": 8,
+        "max_atk": 8,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 40,
+        "is_missing_info": false
+      },
+      "pvp_Makuhita": {
+        "monsters": [
+          "Makuhita"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 20,
+        "is_missing_info": false
+      },
+      "pvp_Hariyama": {
+        "monsters": [
+          "Hariyama"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 20,
+        "is_missing_info": false
+      },
+      "pvp_Nosepass": {
+        "monsters": [
+          "Nosepass"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 28,
+        "is_missing_info": false
+      },
+      "pvp_Pineco": {
+        "monsters": [
+          "Pineco"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 9,
+        "max_def": 9,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 25,
+        "is_missing_info": false
+      },
+      "pvp_Forretress": {
+        "monsters": [
+          "Forretress"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 9,
+        "max_def": 9,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 25,
+        "is_missing_info": false
+      },
+      "pvp_Skarmory": {
+        "monsters": [
+          "Skarmory"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 27,
+        "is_missing_info": false
+      },
+      "pvp_Treecko": {
+        "monsters": [
+          "Treecko"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 12,
+        "max_def": 12,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 20,
+        "is_missing_info": false
+      },
+      "pvp_Grovyle": {
+        "monsters": [
+          "Grovyle"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 12,
+        "max_def": 12,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 20,
+        "is_missing_info": false
+      },
+      "pvp_Torchic": {
+        "monsters": [
+          "Torchic"
+        ],
+        "min_atk": 1,
+        "max_atk": 1,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Combusken": {
+        "monsters": [
+          "Combusken"
+        ],
+        "min_atk": 1,
+        "max_atk": 1,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Mudkip": {
+        "monsters": [
+          "Mudkip"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Marshtomp": {
+        "monsters": [
+          "Marshtomp"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 14,
+        "max_sta": 14,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Trapinch": {
+        "monsters": [
+          "Trapinch"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 9,
+        "max_sta": 9,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Vibrava": {
+        "monsters": [
+          "Vibrava"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 9,
+        "max_sta": 9,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Swablu": {
+        "monsters": [
+          "Swablu"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 29,
+        "is_missing_info": false
+      },
+      "pvp_Altaria": {
+        "monsters": [
+          "Altaria"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 29,
+        "is_missing_info": false
+      },
+      "pvp_Barboach": {
+        "monsters": [
+          "Barboach"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 28,
+        "is_missing_info": false
+      },
+      "pvp_Whiscash": {
+        "monsters": [
+          "Whiscash"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 14,
+        "max_def": 14,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 28,
+        "is_missing_info": false
+      },
+      "pvp_Feebas": {
+        "monsters": [
+          "Feebas"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 11,
+        "max_sta": 11,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Milotic": {
+        "monsters": [
+          "Milotic"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 11,
+        "max_sta": 11,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Beldum": {
+        "monsters": [
+          "Beldum"
+        ],
+        "min_atk": 2,
+        "max_atk": 2,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 14,
+        "is_missing_info": false
+      },
+      "pvp_Metang": {
+        "monsters": [
+          "Metang"
+        ],
+        "min_atk": 2,
+        "max_atk": 2,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 14,
+        "is_missing_info": false
+      },
+      "pvp_Turtwig": {
+        "monsters": [
+          "Turtwig"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 11,
+        "max_def": 11,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Grotle": {
+        "monsters": [
+          "Grotle"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 11,
+        "max_def": 11,
+        "min_sta": 13,
+        "max_sta": 13,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Chimchar": {
+        "monsters": [
+          "Chimchar"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Monferno": {
+        "monsters": [
+          "Monferno"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 21,
+        "is_missing_info": false
+      },
+      "pvp_Piplup": {
+        "monsters": [
+          "Piplup"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Prinplup": {
+        "monsters": [
+          "Prinplup"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 13,
+        "max_def": 13,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 19,
+        "is_missing_info": false
+      },
+      "pvp_Stunky": {
+        "monsters": [
+          "Stunky"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 24,
+        "is_missing_info": false
+      },
+      "pvp_Skuntank": {
+        "monsters": [
+          "Skuntank"
+        ],
+        "min_atk": 0,
+        "max_atk": 0,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 24,
+        "is_missing_info": false
+      },
+      "pvp_Croagunk": {
+        "monsters": [
+          "Croagunk"
+        ],
+        "min_atk": 1,
+        "max_atk": 1,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 22,
+        "is_missing_info": false
+      },
+      "pvp_Toxicroak": {
+        "monsters": [
+          "Toxicroak"
+        ],
+        "min_atk": 1,
+        "max_atk": 1,
+        "min_def": 15,
+        "max_def": 15,
+        "min_sta": 15,
+        "max_sta": 15,
+        "max_lvl": 22,
+        "is_missing_info": false
+      },
+    "pvp_Swinub1":{
+	"monsters": ["Swinub"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24,
+       "is_missing_info": false
+   },
+     "pvp_Swinub2":{
+	"monsters": ["Swinub"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 28,
+       "is_missing_info": false
+},
+"pvp_Swinub3":{
+	"monsters": ["Swinub"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 7,"max_sta": 7,
+	"max_lvl": 17,
+        "is_missing_info": false
+},
+"pvp_Swinub4":{
+	"monsters": ["Swinub"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 17,
+        "is_missing_info": false
+},
+"pvp_Poliwrath0":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath1":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath2":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath3":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath4":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath5":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath6":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath7":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath8":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath9":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath10":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 5,"max_sta": 5,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Poliwrath11":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath12":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwrath13":{
+	"monsters": ["Poliwrath"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag14":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag15":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag16":{
+	"monsters": ["Poliwag"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag17":{
+	"monsters": ["Poliwag"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag18":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag19":{
+	"monsters": ["Poliwag"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag20":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag21":{
+	"monsters": ["Poliwag"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag22":{
+	"monsters": ["Poliwag"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag23":{
+	"monsters": ["Poliwag"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag24":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 5,"max_sta": 5,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Poliwag25":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag26":{
+	"monsters": ["Poliwag"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwag27":{
+	"monsters": ["Poliwag"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl28":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl29":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl30":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl31":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl32":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl33":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl34":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl35":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl36":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl37":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl38":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 5,"max_sta": 5,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl39":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl40":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Poliwhirl41":{
+	"monsters": ["Poliwhirl"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank42":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank43":{
+	"monsters": ["Skuntank"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank44":{
+	"monsters": ["Skuntank"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank45":{
+	"monsters": ["Skuntank"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank46":{
+	"monsters": ["Skuntank"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank47":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 6,"max_sta": 6,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Skuntank48":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Skuntank49":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Skuntank50":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Skuntank51":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank52":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank53":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Skuntank54":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Skuntank55":{
+	"monsters": ["Skuntank"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Stunky56":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky57":{
+	"monsters": ["Stunky"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky58":{
+	"monsters": ["Stunky"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky59":{
+	"monsters": ["Stunky"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky60":{
+	"monsters": ["Stunky"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky61":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 6,"max_sta": 6,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Stunky62":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Stunky63":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Stunky64":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Stunky65":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky66":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky67":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Stunky68":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Stunky69":{
+	"monsters": ["Stunky"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan70":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan71":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan72":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan73":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan74":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan75":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan76":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan77":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan78":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan79":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan80":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan81":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan82":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Hitmonchan83":{
+	"monsters": ["Hitmonchan"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Eevee84":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee85":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee86":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee87":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee88":{
+	"monsters": ["Eevee"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee89":{
+	"monsters": ["Eevee"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee90":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 6,"max_def": 6,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Eevee91":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Eevee92":{
+	"monsters": ["Eevee"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee93":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee94":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Eevee95":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 7,"max_def": 7,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Eevee96":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Eevee97":{
+	"monsters": ["Eevee"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon98":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon99":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon100":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon101":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon102":{
+	"monsters": ["Umbreon"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon103":{
+	"monsters": ["Umbreon"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon104":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 6,"max_def": 6,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Umbreon105":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Umbreon106":{
+	"monsters": ["Umbreon"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon107":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon108":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Umbreon109":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 7,"max_def": 7,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Umbreon110":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Umbreon111":{
+	"monsters": ["Umbreon"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 27.5,
+	"is_missing_info": false
+},
+"pvp_Drapion112":{
+	"monsters": ["Drapion"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Drapion113":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion114":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion115":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion116":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion117":{
+	"monsters": ["Drapion"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Drapion118":{
+	"monsters": ["Drapion"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 7,"max_def": 7,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion119":{
+	"monsters": ["Drapion"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Drapion120":{
+	"monsters": ["Drapion"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Drapion121":{
+	"monsters": ["Drapion"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion122":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 8,"max_def": 8,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion123":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion124":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Drapion125":{
+	"monsters": ["Drapion"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi126":{
+	"monsters": ["Skorupi"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Skorupi127":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi128":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi129":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi130":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi131":{
+	"monsters": ["Skorupi"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Skorupi132":{
+	"monsters": ["Skorupi"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 7,"max_def": 7,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi133":{
+	"monsters": ["Skorupi"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Skorupi134":{
+	"monsters": ["Skorupi"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Skorupi135":{
+	"monsters": ["Skorupi"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi136":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 8,"max_def": 8,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi137":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi138":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Skorupi139":{
+	"monsters": ["Skorupi"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 23.5,
+	"is_missing_info": false
+},
+"pvp_Xatu140":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu141":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu142":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu143":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu144":{
+	"monsters": ["Xatu"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Xatu145":{
+	"monsters": ["Xatu"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu146":{
+	"monsters": ["Xatu"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Xatu147":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu148":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 26.5,
+	"is_missing_info": false
+},
+"pvp_Xatu149":{
+	"monsters": ["Xatu"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Xatu150":{
+	"monsters": ["Xatu"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu151":{
+	"monsters": ["Xatu"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Xatu152":{
+	"monsters": ["Xatu"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Xatu153":{
+	"monsters": ["Xatu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu154":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu155":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu156":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu157":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu158":{
+	"monsters": ["Natu"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Natu159":{
+	"monsters": ["Natu"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu160":{
+	"monsters": ["Natu"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Natu161":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu162":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 26.5,
+	"is_missing_info": false
+},
+"pvp_Natu163":{
+	"monsters": ["Natu"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Natu164":{
+	"monsters": ["Natu"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu165":{
+	"monsters": ["Natu"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Natu166":{
+	"monsters": ["Natu"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Natu167":{
+	"monsters": ["Natu"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow168":{
+	"monsters": ["Murkrow"],
+	"min_atk": 7,"max_atk": 7,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow169":{
+	"monsters": ["Murkrow"],
+	"min_atk": 8,"max_atk": 8,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow170":{
+	"monsters": ["Murkrow"],
+	"min_atk": 9,"max_atk": 9,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 39.5,
+	"is_missing_info": false
+},
+"pvp_Murkrow171":{
+	"monsters": ["Murkrow"],
+	"min_atk": 8,"max_atk": 8,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow172":{
+	"monsters": ["Murkrow"],
+	"min_atk": 6,"max_atk": 6,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow173":{
+	"monsters": ["Murkrow"],
+	"min_atk": 10,"max_atk": 10,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 39.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow174":{
+	"monsters": ["Murkrow"],
+	"min_atk": 7,"max_atk": 7,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow175":{
+	"monsters": ["Murkrow"],
+	"min_atk": 10,"max_atk": 10,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 39.5,
+	"is_missing_info": false
+},
+"pvp_Murkrow176":{
+	"monsters": ["Murkrow"],
+	"min_atk": 9,"max_atk": 9,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow177":{
+	"monsters": ["Murkrow"],
+	"min_atk": 8,"max_atk": 8,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 39.5,
+	"is_missing_info": false
+},
+"pvp_Murkrow178":{
+	"monsters": ["Murkrow"],
+	"min_atk": 8,"max_atk": 8,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow179":{
+	"monsters": ["Murkrow"],
+	"min_atk": 12,"max_atk": 12,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 38.5,
+	"is_missing_info": false
+},
+"pvp_Murkrow180":{
+	"monsters": ["Murkrow"],
+	"min_atk": 7,"max_atk": 7,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 40.0,
+	"is_missing_info": false
+},
+"pvp_Murkrow181":{
+	"monsters": ["Murkrow"],
+	"min_atk": 11,"max_atk": 11,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 39.0,
+	"is_missing_info": false
+},
+"pvp_Toxicroak182":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak183":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak184":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak185":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak186":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak187":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Toxicroak188":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak189":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Toxicroak190":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak191":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak192":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Toxicroak193":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Toxicroak194":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Toxicroak195":{
+	"monsters": ["Toxicroak"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk196":{
+	"monsters": ["Croagunk"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk197":{
+	"monsters": ["Croagunk"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk198":{
+	"monsters": ["Croagunk"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk199":{
+	"monsters": ["Croagunk"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk200":{
+	"monsters": ["Croagunk"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk201":{
+	"monsters": ["Croagunk"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Croagunk202":{
+	"monsters": ["Croagunk"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk203":{
+	"monsters": ["Croagunk"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Croagunk204":{
+	"monsters": ["Croagunk"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk205":{
+	"monsters": ["Croagunk"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk206":{
+	"monsters": ["Croagunk"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Croagunk207":{
+	"monsters": ["Croagunk"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Croagunk208":{
+	"monsters": ["Croagunk"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 23.0,
+	"is_missing_info": false
+},
+"pvp_Croagunk209":{
+	"monsters": ["Croagunk"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 22.5,
+	"is_missing_info": false
+},
+"pvp_Claydol210":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Claydol211":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Claydol212":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Claydol213":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Claydol214":{
+	"monsters": ["Claydol"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Claydol215":{
+	"monsters": ["Claydol"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Claydol216":{
+	"monsters": ["Claydol"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.0,
+	"is_missing_info": false
+},
+"pvp_Claydol217":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Claydol218":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Claydol219":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 30.5,
+	"is_missing_info": false
+},
+"pvp_Claydol220":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Claydol221":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 7,"max_sta": 7,
+	"max_lvl": 30.5,
+	"is_missing_info": false
+},
+"pvp_Claydol222":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Claydol223":{
+	"monsters": ["Claydol"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 8,"max_def": 8,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Baltoy224":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy225":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Baltoy226":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy227":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy228":{
+	"monsters": ["Baltoy"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy229":{
+	"monsters": ["Baltoy"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy230":{
+	"monsters": ["Baltoy"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 29.0,
+	"is_missing_info": false
+},
+"pvp_Baltoy231":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Baltoy232":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Baltoy233":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 30.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy234":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Baltoy235":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 7,"max_sta": 7,
+	"max_lvl": 30.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy236":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 29.5,
+	"is_missing_info": false
+},
+"pvp_Baltoy237":{
+	"monsters": ["Baltoy"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 8,"max_def": 8,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 30.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong238":{
+	"monsters": ["Bronzong"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong239":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong240":{
+	"monsters": ["Bronzong"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong241":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong242":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong243":{
+	"monsters": ["Bronzong"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong244":{
+	"monsters": ["Bronzong"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong245":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong246":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong247":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong248":{
+	"monsters": ["Bronzong"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong249":{
+	"monsters": ["Bronzong"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzong250":{
+	"monsters": ["Bronzong"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzong251":{
+	"monsters": ["Bronzong"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor252":{
+	"monsters": ["Bronzor"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor253":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzor254":{
+	"monsters": ["Bronzor"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor255":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzor256":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzor257":{
+	"monsters": ["Bronzor"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor258":{
+	"monsters": ["Bronzor"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor259":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzor260":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzor261":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor262":{
+	"monsters": ["Bronzor"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor263":{
+	"monsters": ["Bronzor"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Bronzor264":{
+	"monsters": ["Bronzor"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 26.0,
+	"is_missing_info": false
+},
+"pvp_Bronzor265":{
+	"monsters": ["Bronzor"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 25.5,
+	"is_missing_info": false
+},
+"pvp_Machamp266":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp267":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp268":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp269":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp270":{
+	"monsters": ["Machamp"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp271":{
+	"monsters": ["Machamp"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 18.0,
+	"is_missing_info": false
+},
+"pvp_Machamp272":{
+	"monsters": ["Machamp"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp273":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp274":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp275":{
+	"monsters": ["Machamp"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp276":{
+	"monsters": ["Machamp"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp277":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp278":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machamp279":{
+	"monsters": ["Machamp"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke280":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke281":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke282":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke283":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke284":{
+	"monsters": ["Machoke"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke285":{
+	"monsters": ["Machoke"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 18.0,
+	"is_missing_info": false
+},
+"pvp_Machoke286":{
+	"monsters": ["Machoke"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke287":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke288":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke289":{
+	"monsters": ["Machoke"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke290":{
+	"monsters": ["Machoke"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke291":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke292":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machoke293":{
+	"monsters": ["Machoke"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop294":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop295":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop296":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop297":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop298":{
+	"monsters": ["Machop"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop299":{
+	"monsters": ["Machop"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 18.0,
+	"is_missing_info": false
+},
+"pvp_Machop300":{
+	"monsters": ["Machop"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop301":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop302":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop303":{
+	"monsters": ["Machop"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop304":{
+	"monsters": ["Machop"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop305":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop306":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Machop307":{
+	"monsters": ["Machop"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 18.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry308":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry309":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry310":{
+	"monsters": ["Shiftry"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry311":{
+	"monsters": ["Shiftry"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry312":{
+	"monsters": ["Shiftry"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry313":{
+	"monsters": ["Shiftry"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry314":{
+	"monsters": ["Shiftry"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry315":{
+	"monsters": ["Shiftry"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry316":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry317":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry318":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry319":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Shiftry320":{
+	"monsters": ["Shiftry"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Shiftry321":{
+	"monsters": ["Shiftry"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf322":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf323":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf324":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf325":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf326":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf327":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf328":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf329":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf330":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf331":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf332":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf333":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf334":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Nuzleaf335":{
+	"monsters": ["Nuzleaf"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot336":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot337":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot338":{
+	"monsters": ["Seedot"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot339":{
+	"monsters": ["Seedot"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot340":{
+	"monsters": ["Seedot"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot341":{
+	"monsters": ["Seedot"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot342":{
+	"monsters": ["Seedot"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot343":{
+	"monsters": ["Seedot"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot344":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot345":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 9,"max_sta": 9,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot346":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot347":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Seedot348":{
+	"monsters": ["Seedot"],
+	"min_atk": 4,"max_atk": 4,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 10,"max_sta": 10,
+	"max_lvl": 24.0,
+	"is_missing_info": false
+},
+"pvp_Seedot349":{
+	"monsters": ["Seedot"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 24.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken0":{
+	"monsters": ["Blaziken"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken1":{
+	"monsters": ["Blaziken"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken2":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Blaziken3":{
+	"monsters": ["Blaziken"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken4":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Blaziken5":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken6":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken7":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 6,"max_sta": 6,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Blaziken8":{
+	"monsters": ["Blaziken"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken9":{
+	"monsters": ["Blaziken"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken10":{
+	"monsters": ["Blaziken"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Blaziken11":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Blaziken12":{
+	"monsters": ["Blaziken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Blaziken13":{
+	"monsters": ["Blaziken"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Torchic14":{
+	"monsters": ["Torchic"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic15":{
+	"monsters": ["Torchic"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic16":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Torchic17":{
+	"monsters": ["Torchic"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic18":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Torchic19":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic20":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic21":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 6,"max_sta": 6,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Torchic22":{
+	"monsters": ["Torchic"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic23":{
+	"monsters": ["Torchic"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic24":{
+	"monsters": ["Torchic"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Torchic25":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Torchic26":{
+	"monsters": ["Torchic"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Torchic27":{
+	"monsters": ["Torchic"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Combusken28":{
+	"monsters": ["Combusken"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken29":{
+	"monsters": ["Combusken"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken30":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 8,"max_sta": 8,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Combusken31":{
+	"monsters": ["Combusken"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken32":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Combusken33":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken34":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken35":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 6,"max_sta": 6,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Combusken36":{
+	"monsters": ["Combusken"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken37":{
+	"monsters": ["Combusken"],
+	"min_atk": 2,"max_atk": 2,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken38":{
+	"monsters": ["Combusken"],
+	"min_atk": 3,"max_atk": 3,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 19.5,
+	"is_missing_info": false
+},
+"pvp_Combusken39":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Combusken40":{
+	"monsters": ["Combusken"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Combusken41":{
+	"monsters": ["Combusken"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 9,"max_def": 9,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 20.0,
+	"is_missing_info": false
+},
+"pvp_Probopass0":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass1":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass2":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Probopass3":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 6,"max_def": 6,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Probopass4":{
+	"monsters": ["Probopass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass5":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass6":{
+	"monsters": ["Probopass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass7":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Probopass8":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass9":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 5,"max_def": 5,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Probopass10":{
+	"monsters": ["Probopass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass11":{
+	"monsters": ["Probopass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Probopass12":{
+	"monsters": ["Probopass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Probopass13":{
+	"monsters": ["Probopass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass14":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass15":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 14,"max_def": 14,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass16":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Nosepass17":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 6,"max_def": 6,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Nosepass18":{
+	"monsters": ["Nosepass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 11,"max_def": 11,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass19":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass20":{
+	"monsters": ["Nosepass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 13,"max_def": 13,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass21":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Nosepass22":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 14,"max_sta": 14,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass23":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 5,"max_def": 5,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Nosepass24":{
+	"monsters": ["Nosepass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 13,"max_sta": 13,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass25":{
+	"monsters": ["Nosepass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 15,"max_def": 15,
+	"min_sta": 12,"max_sta": 12,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+},
+"pvp_Nosepass26":{
+	"monsters": ["Nosepass"],
+	"min_atk": 0,"max_atk": 0,
+	"min_def": 12,"max_def": 12,
+	"min_sta": 11,"max_sta": 11,
+	"max_lvl": 28.5,
+	"is_missing_info": false
+},
+"pvp_Nosepass27":{
+	"monsters": ["Nosepass"],
+	"min_atk": 1,"max_atk": 1,
+	"min_def": 10,"max_def": 10,
+	"min_sta": 15,"max_sta": 15,
+	"max_lvl": 28.0,
+	"is_missing_info": false
+}
+}
+},
+  "eggs": {
+    "enabled": true,
+    "defaults": {},
+    "filters": {
+      "freiburg_lvl5": {
+        "min_egg_lvl": 5,
+        "geofences": [
+          "freiburg"
+        ],
+        "gym_name_excludes": [
+          "Dreisambr",
+          "Biosk Stadthalle",
+          "Enten und Fisch",
+          "Jump & Twist",
+          "Badisches",
+          "Pagode",
+          "Sternenkugel",
+          "Pavillon",
+          "Hauptfriedhof Freiburg",
+          "Noch ein Spielplatz",
+          "Herz-Jesu-Kirche",
+          "Kleine Buckelrutsche",
+          "Bandstand",
+          "Achteckiger Sandkasten",
+          "Vogelhaus",
+          "Bender"
+        ]
+      },
+      "freiburg_exgyms": {
+        "min_egg_lvl": 0,
+        "max_egg_lvl": 5,
+        "geofences": [
+          "freiburg"
+        ],
+        "gym_name_contains": [
+          "Dreisambr",
+          "Biosk Stadthalle",
+          "Enten und Fisch",
+          "Jump & Twist",
+          "Badisches",
+          "Pagode",
+          "Sternenkugel",
+          "Pavillon",
+          "Hauptfriedhof Freiburg",
+          "Noch ein Spielplatz",
+          "Herz-Jesu-Kirche",
+          "Kleine Buckelrutsche",
+          "Bandstand",
+          "Achteckiger Sandkasten",
+          "Vogelhaus",
+          "Bender"
+        ],
+        "gym_name_excludes": [
+          "Waldspielplatz"
+        ]
+      }
+    }
+  },
+  "raids": {
+    "enabled": true,
+    "defaults": {},
+    "filters": {
+      "freiburg_lvl5": {
+        "min_raid_lvl": 5,
+        "geofences": [
+          "freiburg"
+        ],
+        "gym_name_excludes": [
+          "Dreisambr",
+          "Biosk Stadthalle",
+          "Enten und Fisch",
+          "Jump & Twist",
+          "Badisches",
+          "Pagode",
+          "Sternenkugel",
+          "Pavillon",
+          "Hauptfriedhof Freiburg",
+          "Noch ein Spielplatz",
+          "Herz-Jesu-Kirche",
+          "Kleine Buckelrutsche",
+          "Bandstand",
+          "Achteckiger Sandkasten",
+          "Vogelhaus",
+          "Bender",
+					"Wasserhahn"
+        ]
+      },
+      "freiburg_1-4":{
+        "geofences": [
+          "freiburg"
+        ],
+        "monsters": [
+          303,281,215,359,403,26,176,248, 105,68,149
+        ],
+        "gym_name_excludes": [
+          "Dreisambr",
+          "Biosk Stadthalle",
+          "Enten und Fisch",
+          "Jump & Twist",
+          "Badisches",
+          "Pagode",
+          "Sternenkugel",
+          "Pavillon",
+          "Hauptfriedhof Freiburg",
+          "Noch ein Spielplatz",
+          "Herz-Jesu-Kirche",
+          "Kleine Buckelrutsche",
+          "Bandstand",
+          "Achteckiger Sandkasten",
+          "Vogelhaus",
+          "Bender",
+					"Wasserhahn"
+        ]
+      },
+       "freiburg_krabby": {
+        "geofences": [
+          "freiburg"
+        ],
+        "monsters": [
+          98
+        ]
+      },
+       "freiburg_sichlor": {
+        "geofences": [
+          "freiburg"
+        ],
+        "monsters": [
+          123
+        ]
+      },
+      "freiburg_exgyms": {
+        "min_raid_lvl": 0,
+        "max_raid_lvl": 5,
+        "geofences": [
+          "freiburg"
+        ],
+        "gym_name_contains": [
+          "Dreisambr",
+          "Biosk Stadthalle",
+          "Enten und Fisch",
+          "Jump & Twist",
+          "Badisches",
+          "Pagode",
+          "Sternenkugel",
+          "Pavillon",
+          "Hauptfriedhof Freiburg",
+          "Noch ein Spielplatz",
+          "Herz-Jesu-Kirche",
+          "Kleine Buckelrutsche",
+          "Bandstand",
+          "Achteckiger Sandkasten",
+          "Vogelhaus",
+          "Bender",
+					"Wasserhahn"
+        ]
+      }
+    }
+  }
+}

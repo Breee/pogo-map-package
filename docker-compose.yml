@@ -1,93 +1,97 @@
 version: '2.4'
 services:
-
-# MAD
-  mad_db:
-    image: mysql:5
-    environment:
-      MYSQL_DATABASE: mad_db
-      MYSQL_USERNAME: mad_db_user
-      MYSQL_PASSWORD: strongestpw
-      MYSQL_ROOT_PASSWORD: evenstrongerpw
-    volumes:
-      - ./volumes/map-mysql:/var/lib/mysql
-    restart: always
-    networks:
-      - default
-
   mad:
+    container_name: pokemon_mad
     build:
-      context: ./modules/mad
-    container_name: mad
+      context: ./path/to/MAD
     volumes:
       - "/etc/timezone:/etc/timezone:ro"
       - "/etc/localtime:/etc/localtime:ro"
-      - ./modules/mad/configs/:/usr/src/app/configs/
-      - ./modules/mad/portalexport/portals.csv:/usr/src/app/scripts/portals.csv
-    cpus: 2.0
+      - ./mad/configs/geofences:/usr/src/app/configs/geofences
+      - ./mad/configs/config.ini:/usr/src/app/configs/config.ini
+      - ./mad/configs/mappings.json:/usr/src/app/configs/mappings.json
+      - ./volumes/mad/version.json:/usr/src/app/version.json
+      - ./volumes/mad/files:/usr/src/app/files
+      - ./volumes/mad/logs:/usr/src/app/logs
+    cpus: 5.0
+    mem_limit: 4g
     restart: always
-    ports:
-      - 5555:8080
-      - 5554:8000
     depends_on:
-      - mad_db
+      - rocketdb
     networks:
       - default
-
-
-  # MAP
-  map:
-    build:
-      context: ./modules/map
-    env_file: ./modules/map/envi.conf
-    container_name: map_pogo-frde
-    volumes:
-      - ./modules/map/access-config.php:/var/www/html/config/access-config.php
-      - ./modules/map/config.php:/var/www/html/config/config.php
-    depends_on:
-      - mad_db
-      - map_db
-    restart: always
     ports:
-      - "9000:80"
-    networks:
-      - default
+      - "5555:8080"
+      - "5554:8000"
 
-  map_db:
-    image: mysql:5
+  rocket-db:
+    container_name: pokemon_rocketdb
+    image: mariadb:10.3
+    command: ['mysqld', '--character-set-server=utf8mb4', '--collation-server=utf8mb4_unicode_ci']
     environment:
-      MYSQL_DATABASE: map_db
-      MYSQL_USERNAME: map_db_user
-      MYSQL_PASSWORD: strongestpw
-      MYSQL_ROOT_PASSWORD: evenstrongerpw
+      MYSQL_ROOT_PASSWORD: StrongPassword
+      MYSQL_DATABASE: rocketdb
+      MYSQL_USER: rocketdb
+      MYSQL_PASSWORD: AnotherStrongPassword
+      TZ: Europe/Berlin
     volumes:
-      - ./volumes/pmsf-mysql:/var/lib/mysql
+      - ./volumes/rocketdb:/var/lib/mysql
+    restart: always
+    networks:
+      - default
+
+  pokealarm:
+    container_name: pokemon_pokealarm
+    build:
+      context: ./pokealarm
+    restart: always
+    volumes:
+     - ./volumes/pokealarm/cache:/usr/src/app/cache
+     - ./pokealarm/config.ini:/usr/src/app/config/config.ini
+     - ./pokealarm/pokealarm_files:/usr/src/app/pokealarm_files
+    mem_limit: 2g
+    networks:
+      - default
+
+  map:
+    container_name: pokemon_pmsf_map
+    build:
+      context: ./map
+    env_file: ./map/envi.conf
+    environment:
+      TZ: "Europe/Berlin"
+    volumes:
+     - ./map/access-config.php:/var/www/html/config/access-config.php
+     - ./map/config.php:/var/www/html/config/config.php
+    depends_on:
+      - pmsf-db
+    networks:
+     - default
+    restart: always
+
+  pmsf-db:
+    container_name: pokemon_pmsf_db
+    image: mariadb:10.3
+    command: ['mysqld', '--character-set-server=utf8mb4', '--collation-server=utf8mb4_unicode_ci']
+    environment:
+      MYSQL_ROOT_PASSWORD: StrongPW
+      MYSQL_DATABASE: pmsf
+      MYSQL_USERNAME: pmsf
+      MYSQL_PASSWORD: AnotherStrongPW
+    volumes:
+      - ./volumes/pmsf-db:/var/lib/mysql
     restart: always
     networks:
       - default
 
   authbot:
+    container_name: pokemon_authbot
     build:
-      context: ./modules/auth-bot
-    restart: always
-
-  #POKEALARM
-  pokealarm:
-    build:
-      context: ./volumes/pogo-map-package/modules/pokealarm
+      context: ./auth-bot
     restart: always
     networks:
       - default
 
-  pma:
-    image:  phpmyadmin/phpmyadmin
-    environment:
-      - PMA_ABSOLUTE_URI=https://localhost
-      - PMA_HOST=mad_db
-      - PMA_PORT=3306
-    restart: always
-    networks:
-      - default
-    ports:
-      - "8888:80"
-
+networks:
+  proxy:
+    external: true
